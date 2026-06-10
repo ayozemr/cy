@@ -1,0 +1,447 @@
+          Región de Murcia
+          Consejería de Fomento e Infraestructuras
+          Dirección General de Movilidad y Litoral                            http://nautica.carm.es
+          Plaza Santoña, 6, 30071 Murcia
+
+NOVIEMBRE- 2021
+
+                                CAPITÁN DE YATE                                           Tipo 1
+- El examen de CAPITÁN DE YATE consta de 40 preguntas tipo test de formulación
+independiente entre sí, con cuatro respuestas alternativas siendo únicamente una
+válida. Contestar todas las preguntas, ya que no hay penalización para las erróneas.
+
+- Se corregirá con un doble criterio: 1º) globalmente y 2º) por módulos
+
+                                                                                        Condiciones APTO
+        Módulos                                Nº preguntas    Condiciones APTO
+                             Materias                                                    (Corrección por
+       Temáticos                                  examen       (Corrección global)
+                                                                                           módulos* )
+                             Teoría            10 preguntas:
+        Módulo de                                                   5 correctas            5 correctas
+                           navegación              1 - 10
+       navegación
+       (1 hora y 30        Cálculo de          10 preguntas:
+         minutos)                                                   6 correctas            6 correctas
+                           navegación             11 - 20
+
+                                               10 preguntas:
+       Módulo de          Meteorología                                                     5 correctas
+                                                  21 - 30
+        genérico
+
+         (1 hora)                              10 preguntas:
+                              Inglés                                                       5 correctas
+                                                  31 - 40
+
+
+             Total examen                      40 preguntas    28 correctas del total
+
+
+- Tiempo de realización del examen:
+    2 horas y 30 minutos para los dos Módulos temáticos (40 preguntas)
+    1 hora y 30 minutos para el Módulo de navegación (20 preguntas)
+    1 hora para el Módulo genérico (20 preguntas)
+
+
+                          MÓDULO DE NAVEGACIÓN
+
+Unidad teórica 1 : TEORÍA DE NAVEGACIÓN (preguntas de la nº 1 a la nº 10)
+
+
+1. En la esfera celeste, el punto diametralmente opuesto al zenit de un observador,
+   se denomina:
+    a) Zenit inferior.
+    b) Zenit opuesto.
+    c) Nadir.
+    d) a) y b) son correctas.
+
+2. Para un observador en la esfera celeste cuya latitud es 20º N, su polo depreso
+   será:
+    a) El polo sur.
+    b) El polo elevado.
+    c) El polo superior.
+    d) El polo norte.
+1/10
+3. Los semicírculos máximos de la esfera celeste que van de polo a polo y pasan
+   por el centro del astro son:
+
+   a) Los semicírculos horizontales de los astros.
+   b) Los semicírculos horarios de los astros.
+   c) Los semicírculos opuestos de los astros.
+   d) Los semicírculos crepusculares de los astros.
+
+
+4. Desde un observador, el arco de su horizonte contado desde el punto cardinal
+   norte, en sentido de las manecillas del reloj, hasta el pie del semicírculo vertical
+   que pasa por el astro es:
+
+   a) El azimut náutico o circular
+   b) El azimut astronómico.
+   c) El azimut cuadrantal.
+   d) El azimut relativo.
+
+5. El arco de semicírculo máximo contado desde el astro hasta el zenit del
+   observador es:
+
+   a) La distancia zenital.
+   b) 90º - la altura verdadera.
+   c) Siempre menor de 90º.
+   d) Todas son correctas.
+
+
+6. El arco de círculo horario de un astro, contado desde el astro hasta su polo
+   elevado, es:
+
+   a) La distancia polar del astro.
+   b) La codeclinación del astro.
+   c) La altura polar del astro.
+   d) a) y b) son correctas.
+
+7. El ángulo en el polo se forma entre el semicírculo horario del astro y el meridiano
+   del observador y es referido siempre a:
+
+   a) El polo elevado del observador.
+   b) El Este o el Oeste según la longitud del observador.
+   c) El polo depreso del observador.
+   d) El ecuador celeste con el observador.
+
+8. El punto de la eclíptica a partir del cual el Sol pasa del hemisferio sur celeste al
+   hemisferio norte celeste, se denomina:
+
+   a) Primer punto de Libra
+   b) Punto vernal.
+   c) Primer punto de Aries.
+   d) b) y c) son correctas.
+
+                                                                                  2/10
+9. Las dos estrellas de la constelación del Carro Mayor u Osa Mayor: Merak y
+   Dubbe que prolongadas en línea recta aproximadamente 5 veces la distancia
+   entre ambas nos señala la posición de la estrella:
+
+   a) Procyon.
+   b) Sirio.
+   c) Polar.
+   d) Denébola.
+
+
+10. Con respecto a un observador situado en un meridiano concreto de la esfera
+  terrestre, el tiempo que hace que paso el Sol medio por su meridiano inferior, se
+  corresponde con:
+
+   a) La hora civil del lugar
+   b) La hora de huso del observador.
+   c) La hora oficial.
+   d) La hora civil de Greenwich.
+
+
+
+Unidad teórica 2 : CÁLCULO DE NAVEGACIÓN (preguntas de la nº 11 a la nº 20)
+
+
+El yate “Eclipse”, amarrado en la Marina Puerto Rubicón de Lanzarote va a efectuar
+el cruce del Atlántico hasta Islas Vírgenes Británicas en el Caribe.
+
+
+11.
+  Día 15 de noviembre de 2021, el Capitán estudia la derrota ortodrómica desde
+  el punto -A- de salida 27º 39,3´N – 015º 34,8´W y el punto -B- de llegada 18º
+  25,1´N – 064º 20,1´W y calcula la distancia ortodrómica:
+
+   a) 2542´
+   b) 2669´
+   c) 2731´
+   d) 2896´
+
+12.
+  De forma independiente y con los mismos datos de salida y de llegada,
+  calcula el rumbo inicial ortodrómico:
+
+   a) 253º
+   b) 269º
+   c) 275º
+   d) 281º
+
+
+
+
+                                                                             3/10
+13.
+  Día 16 de noviembre de 2021, a hora de huso (Hz) 0800, se encuentra en 27º
+  39,3´N – 015º 34,8´W y calculan la hora civil de Greenwich (HCG) en ese
+  instante:
+
+      a) 0700
+      b) 0800
+      c) 0900
+      d) 1000
+
+14.
+   Día 16 de noviembre de 2021, en situación estimada 27º 39,3´N – 015º 34,8´W
+  se encuentran fondeados esperando la entrada del alisio y teniendo en cuenta
+  el paso del Sol por el meridiano de Greenwich, calculan a qué hora civil de
+  Greenwich (HCG) les pasará el Sol por su meridiano fijo:
+
+      a) 124707
+      b) 114848
+      c) 124310
+      d) 115420
+
+
+Día 17 de noviembre de 2021, a hora civil de Greenwich (HCG) 1010, se encuentran
+en situación estimada 27º 38.1´N – 017º 30,6´W y con estos mismos datos e
+independientemente, calculan:
+
+15.
+  El horario en Greenwich del Sol (HGO):
+    a) 330º 17,9´
+    b) 331º 15,4´
+    c) 334º 17,9´
+    d) 336º 15,4´
+
+16.
+  La declinación del Sol en ese momento:
+    a) -19º 09,6´
+    b) -19º 07,8’
+    c) -19º 04,9´
+    d) -19º 00,2´
+
+17.
+  Día 18 de noviembre de 2021, a hora civil de Greenwich (HCG) 1030, en situación
+  estimada 27º 01,2´N – 021º 20,2´W, toman altura instrumental al Sol (limbo
+  inferior) 30º 42,5´, elevación del observador 3 metros y error de índice -3´y
+  calculan la altura verdadera del Sol:
+
+      a) 30º 38,2’
+      b) 30º 42,4’
+      c) 30º 46,5’
+      d) 30º 50,8’
+
+                                                                           4/10
+18.
+  Día 19 de noviembre de 2021, a hora civil de Greenwich (HCG) 1020, en
+  situación estimada 26º 40,2´N – 021º 27,2´W, tras haber obtenido la declinación
+  del Sol para ese instante -19º 33,4
+  y el valor del ángulo en el polo 42º 41,0’ (E), calculan la altura estimada del Sol
+  utilizando las fórmulas que definen los lados del triángulo de posición:
+
+   a) 27º 50,2´
+   b) 27º 57,1´
+   c) 28º 06,8´
+   d) 28º 08,2´
+
+
+19.
+  Día 20 de noviembre de 2021, a hora civil de Greenwich (HCG) 1100, en situación
+  estimada del Sol 26º 38,3´N – 022º 20,3´W y habiendo calculado previamente el
+  valor del horario en Greenwich del Sol (HGO), Calculan el ángulo en el polo:
+
+   a) 34º Norte
+   b) 34º Este
+   c) 34º Sur
+   d) 34º Oeste
+
+
+20.
+  Día 21 de noviembre de 2021, a hora civil de Greenwich (HCG) 1346, en situación
+  estimada del Sol 26º 02,2´N – 024º 18,6´W, obtienen las determinantes de la recta
+  de altura al Sol, Zv= 186º y diferencia de alturas= +5´y proceden a rectificar la
+  posición por una sola recta de altura, punto aproximado, utilizando el sistema
+  gráfico:
+
+   a) 26º 02,8´N – 024º 25,4´W
+   b) 26º 00,3´N – 024º 23,2´W
+   c) 25º 57,2´N – 024º 19,2´W
+   d) 25º 55,1´N – 024º 17,1´W
+
+
+
+
+                                                                               5/10
+                           MÓDULO GENÉRICO
+
+Unidad teórica 3 : METEOROLOGÍA (preguntas de la nº 21 a la nº 30)
+
+
+21. El estrato o capa de la atmósfera terrestre que hace de unión entre la troposfera
+  y la estratosfera es:
+
+   a) La mesosfera.
+   b) La ionosfera.
+   c) La ozonosfera.
+   d) La tropopausa.
+
+
+22. Las ondas hertzianas y sobre todo la onda corta (HF) y la onda media (MF), se
+  reflejan en la capa o estrato de la atmosfera terrestre denominada:
+
+   a) Ionosfera.
+   b) Electrosfera.
+   c) Magnetosfera.
+   d) Radiosfera.
+
+
+23. La gran absorción que ejerce el aire cálido al ascender desde la superficie del
+  Mar en giro ciclónico hacia la nube del tipo cumulonimbos, produce:
+
+   a) La tromba marina.
+   b) La manga marina.
+   c) El torbellino de litoral.
+   d) a) y b) son correctas.
+
+
+24. Dos masas de aire, una fría y la otra cálida, están en equilibrio inestable cuando
+  se ponen en contacto y la reacción térmica producida es tal que:
+
+   a) Al unirse ambas, una de ella se enfría.
+   b) Desaparecerá la inestabilidad.
+   c) Aparecerá una línea de inestabilidad.
+   d) Quedará en calma el viento.
+
+
+25. Los vientos del Atlántico Norte que desde las Islas canarias soplan hacia el
+  Caribe, pasando por las Islas de cabo Verde son los llamados:
+
+   a) Vientos del Norte Dominantes.
+   b) Vientos Alisios del Atlántico Norte.
+   c) Vientos térmicos subtropicales. Del Norte.
+   d) Vientos Contraalisios del Norte.
+
+
+                                                                               6/10
+26. Los llamados vientos Oestes Dominantes del Atlántico Sur, soplan desde:
+
+   a) La península de Florida hacia las costas del Sur de África.
+   b) Desde la costa de Brasil, hacia las costas del Golfo de Guinea en África.
+   c) Desde las costas de Uruguay y de Argentina, hacia la costa atlántica de Sudáfrica.
+   d) Desde la zona o área Atlántica de la Patagonia Argentina, hacia las Islas Malvinas.
+
+27. Los huracanes (Atlántico Norte) soplan y se trasladan desde:
+
+   a) Este a Oeste.
+   b) Desde los Archipiélagos Canario y de Cabo Verde, hacia el Caribe.
+   c) Desde las Islas Azores, hacia El Caribe.
+   d) a) y b) son correctas.
+
+
+28. En los huracanes y ciclones ya formados, las nubes predominantes que los
+  acompañan son:
+
+   a) Los cirrocúmulos.
+   b) Los estratocúmulos.
+   c) Los cumulonimbos.
+   d) Los altocúmulos.
+
+
+29. La corriente de Benguela que discurre por la costa occidental Atlántica de
+  Sudáfrica y llega hasta las costas de Namibia ya en el trópico, es de carácter:
+
+   a) Fría.
+   b) Templada.
+   c) Cálida.
+   d) Muy cálida.
+
+
+30. Cuál de las siguientes corrientes marinas no discurre por el Océano Atlántico:
+
+   a) La corriente de Canarias.
+   b) La corriente de mozambique.
+   c) La corriente del Gulf Stream.
+   d) La corriente de Labrador.
+
+
+
+
+                                                                                   7/10
+Unidad teórica 4 : INGLÉS (preguntas de la nº 31 a la nº 40)
+
+
+31. That course which a vessel makes good over ground is called
+
+   a) Couse all right
+   b) Course OK
+   c) Course made good
+   d) Course on the way
+
+32. A vessel damaged or impaired in such a manner as to be incapable of
+  proceeding on its voyage, it’s called
+
+   a) Averaged vessel
+   b) Disabled vessel
+   c) Broken vessel
+   d) Broken buck vessel
+
+33. The depth in water at which a vessel floats is known by
+
+   a) Deep of wáter
+   b) Draught
+   c) Deeph
+   d) Water deep
+
+34. Major uncontrolled flow of seawater into the vessel is known by
+
+   a) Small water entrance
+   b) Big wáter entrance
+   c) Controlled wáter entrance
+   d) Flooding
+
+35. Hampered vessel is a vessel
+
+   a) restricted by her ability to manoeuvre by the nature of her work
+   b) restricted by her ability to manoeuvre by draft
+   c) restricted by her ability to manoeuvre by course
+   d) restricted by her ability to manoeuvre by fishing lines
+
+
+36. The escape of liquids such as water, oil, etc., out of pipes, boilers, tanks, etc.,
+  or a minor inflow of seawater into the vessel due to damage to the hull is
+  defined by the Word
+
+   a) Scape
+   b) Flooding
+   c) Leaking
+   d) Leaving
+                                                                                   8/10
+37. A vessel which through exceptional circumstances is unable to manoeuvre
+  as required by the COLREGs is a vessel
+
+   a) Not under command
+   b) Not under couse
+   c) Not under Wheel
+   d) Not under COLREG
+
+
+38. SART means
+
+   a) Search And Rescue Transmision
+   b) Search And Rescue Transponder
+   c) Search And Research Transmision
+   d) Stream Action Transmision
+
+
+39. The accidental escape of oil, etc., from a vessel into the sea is
+
+   a) Oil scape
+   b) Spill
+   c) Oli leaving
+   d) Overflow
+
+
+40. Inclination of the vessel to port side or starboard side is called
+
+   a) Inclination
+   b) Adrift
+   c) List
+   d) Capsize
+
+
+
+
+                                                                          9/10
+CY - TIPO 1
+
+
+
+
+              10/10
+

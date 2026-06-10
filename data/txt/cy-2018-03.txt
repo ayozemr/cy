@@ -1,0 +1,413 @@
+          Región de M urcia
+          Consejería de Fom ento e Infraestructuras
+          Dirección General de Transportes, Costas y Puertos                  http://nautica.carm.es
+          Plaza Santoña, 6, 30071 Murcia
+
+MARZO - 2018
+                             CAPITÁN DE YATE                                                   Tipo 1
+
+- El examen de CAPITÁN DE YATE consta de 40 preguntas tipo test de formulación
+independiente entre sí, con cuatro respuestas alternativas siendo únicamente una válida.
+Contestar todas las preguntas, ya que no hay penalización para las erróneas.
+
+- Se corregirá con un doble criterio: 1º) globalmente y 2º) por módulos
+
+                                                                                        Condiciones APTO
+        Módulos                               Nº preguntas     Condiciones APTO
+                            Materias                                                     (Corrección por
+       Temáticos                                 examen        (Corrección global)
+                                                                                           módulos* )
+                             Teoría           10 preguntas:
+        Módulo de                                                   5 correctas             5 correctas
+                           navegación             1 - 10
+       navegación
+       (1 hora y 30        Cálculo de         10 preguntas:
+         minutos)                                                   6 correctas             6 correctas
+                           navegación            11 - 20
+
+                                              10 preguntas:
+       Módulo de          Meteorología                                                      5 correctas
+                                                 21 - 30
+        genérico
+
+         (1 hora)                             10 preguntas:
+                              Inglés                                                        5 correctas
+                                                 31 - 40
+
+
+             Total examen                     40 preguntas     28 correctas del total
+
+
+- Tiempo de realización del examen:
+     2 horas y 30 minutos para los dos Módulos temáticos (40 preguntas)
+     1 hora y 30 minutos para el Módulo de navegación (20 preguntas)
+     1 hora para el Módulo genérico (20 preguntas)
+
+
+                         MÓDULO DE NAVEGACIÓN
+Unidad teórica 1 : TEORÍA DE NAVEGACIÓN (preguntas de la nº 1 a la nº 10)
+
+1.- Los círculos menores de la esfera celeste que son paralelos al horizonte aparente de
+   un obsevador, son:
+
+      a) Los almicantarat.
+      b) Los paralelos al ecuador celeste.
+      c) Los arcos de declinación.
+      d) Los arcos de las codeclinaciones.
+
+2.- El Ecuador Celeste con respecto a la Constelación de Orión:
+
+      a) La deja toda en el Hemisferio Norte Celeste.
+      b) La deja toda en el Hemisferio Sur Celeste.
+      c) La divide de forma que la mitad queda en el Hemisferio Norte y la otra mitad en el
+         Hemisferio Sur.
+      d) El Ecuador celeste no coincide con la Constelación de Orión.
+
+1/8                                                                                     C.Y. - Tipo 1
+                                                                         Tipo 1
+3.- En la esfera celeste, los lados que se forman en un triángulo de posición cualquiera,
+   siempre serán:
+
+      a) Arcos de círculos máximos solo cuando coincidan con el Ecuador celeste.
+      b) Arcos de círculos máximos solo cuando coincidan con los círculos horarios.
+      c) Arcos de círculos máximos solo cuando coincidan con el meridiano del observador.
+      d) Los lados de un triángulo de posición en la esfera celeste son arcos de círculos
+         máximos.
+
+4.- La colatitud de un observador en la esfera celeste, se corresponde con:
+
+      a) El arco de meridiano celeste del observador, contado desde su posición a su polo
+         depreso.
+      b) El arco de meridiano celeste del observador, contado desde su posición a su polo
+         elevado.
+      c) El arco de Ecuador celeste del observador, contado desde su posición a su polo
+         depreso.
+      d) El arco de Ecuador celeste del observador, contado desde su posición a su polo
+         elevado.
+
+5.- En la constelación del Carro u Osa Mayor (Hemisferio Norte Celeste), la cola de la
+   misma, señala como línea de referencia hacia la estrella:
+
+      a) Arcturus.
+      b) Mimosa.
+      c) Bellatrix.
+      d) Sirius
+
+6.- La línea Internacional de cambio de fecha en la Esfera terrestre, se corresponde con
+   el Meridiano
+
+      a) 000º
+      b) 090º
+      c) 180º
+      d) 270º
+
+7.- Los valores en un momento dado, del Círculo Horario del Sol y su Declinación, se
+   corresponden con sus:
+
+      a) Coordenadas Horizontales.
+      b) Coordenadas Horarias.
+      c) Coordenadas Uranografías.
+      d) Coordenadas terrestres.
+
+8.- El plano del fenómeno de la Eclíptica, forma una inclinación con respecto al plano
+   ecuatorial celeste de:
+
+      a) 23º 57'
+      b) 23º 47'
+      c) 23º 37'
+      d) 23º 27'
+
+
+
+
+2/8                                                                   C.Y. - Tipo 1
+                                                                             Tipo 1
+9.- Se define como arco de codeclinaclón de una estrella a:
+    a) El arco de círculo máximo contado desde la estrella a su Polo elevado.
+    b) El arco de círculo máximo contado desde la estrella al Ecuador Celeste.
+    c) El arco de círculo máximo contado desde la estrella a su Almicantarat.
+    d) El arco de círculo máximo contado desde la estrella al meridiano 000º Celeste.
+
+10.- El valor del Angulo Sidéreo de una estrella concreta se mide en el Ecuador Celeste
+   desde:
+    a) el Meridiano 000º Celeste al Circulo Horario de la estrella.
+    b) el Círculo horario del primer punto de Aries al Círculo Horario de la estrella.
+    c) el Meridiano Celeste del observador, hasta el Circulo Horario de la estrella.
+    d) el Meridiano Celeste del observador, hasta el Circulo Horario del primer punto de Aries.
+
+
+Unidad teórica 2 : CÁLCULO DE NAVEGACIÓN (preguntas de la nº 11 a la nº 20)
+
+
+Mes de Marzo de 2018, la Goleta Motor-Yate "Dehler" de 24 metros de eslora, zarpó de la
+Marina de Cartagena el 6 de Marzo y navega hacia Canarias en crucero de prácticas de
+Capitanes de Yate.
+
+
+11.- El viernes 9 de marzo de 2018, navegan en demanda del Estrecho de Gibraltar y a
+Hora civil del lugar HcL = 221010, su situación estimada es 36º 15’N - 005º 05'W, los
+alumnos de la sexta guardia del día calculan la Hora civil en Greenwich (HcG) en ese
+instante ... :
+
+      a) HcG= 223030
+      b) HcG= 230030
+      c) HcG= 214950
+      d) HcG= 211950
+
+12.- El viernes 9 de marzo de 2018, continúan navegando y a HRB (arreglada a la hora de
+huso, Hz= 23:00:30 I su situación estimada es 36º 02'N – 005º 12'W y en ese Instante
+proceden a calcular el Horario en Greenwich de Aries (HGY)
+
+      a) HGY= 152º 03,3’
+      b) HGY= 152º 10,1’
+      c) HGY= 152º 29,5’
+      d) HGY= 152º 42,3’
+
+13.- El viernes 9 de Marzo de 2018, a hora civil de Greenwich HcG= 233000, en situación
+estimada 36º 00'N – 005º 15'W, calculan el horario del lugar de Aries HlY= 154º 51,0’ y en
+ese instante toman azimut de aguja a la estrella Polar = 352º y proceden a calcular el
+valor de la corrección total por la Tabla de Acimutes a la Polar del Almanaque Náutico
+
+      a) Ct= 7,25º NW
+      b) Ct= 7,25º NE
+      c) Ct= 8,75º NE
+      d) Ct= 8,75º NW
+
+
+
+
+3/8                                                                       C.Y. - Tipo 1
+                                                                         Tipo 1
+14.- Sábado 10 de marzo de 2018, ya en aguas del Atlántico y a rumbo hacia Canarias, a
+hora civil de Greenwlch (HcG)= 032010, se encuentran en situación estimada= 35º 42'N –
+006º 15'W y una vez calculado el horario en Greenwich de Arles= 217º 47,9', los alumnos
+de la primera guardia del día, proceden a calcular el horario en Greenwich de la estrella
+(HG*) Spica
+
+      a) HG Spica= 031º 15,3’
+      b) HG Spica= 040º 10,3’
+      c) HG Spica= 016º 15,5’
+      d) HG Spica= 059º 20,3’
+
+15.- El Sábado 10 de marzo de 2018, manteniendo rumbo hacia el Norte de la Isla de la
+Palma en Canarias, navegan con buen viento alisio y a todo trapo y a hora civil de
+Greenwich (HcG)= 101010, se encuentran en situación de estima= 34º 20'N – 006º 34'W y
+en ese instante, los alumnos de la tercera guardia del día calculan la declinación del Sol
+
+      a) d0= -4º 02,7’
+      b) d0= -4º 10,3’
+      c) d0= -4º 16,5’
+      d) d0= -4º 22,2’
+
+16.- El sábado 10 de Marzo de 2018, a hora civil de Greenwich (HcG)= 103000, están en
+situación estimada= 34º 18'N – 006º 36'W y tras calcular la declinación del Sol (d0) para
+ese instante= -4º 02.5’ y el ángulo en el Polo (P) con el Sol= 31º 40,2' (E); proceden a
+calcular el valor del azimut verdadero del Sol en ese instante (utilizando las fórmulas
+que definen los lados y ángulos del triángulo de posición), obteniendo el valor. :
+
+      a) Zv0= 120,1º
+      b) Zv0= 135,7º
+      c) Zv0= 142,4º
+      d) Zv0= 154,1º
+
+17.- Sábado 10 de Marzo de 2018, a hora civil de Greenwich (HcG)= 103500, toman altura
+instrumental al Sol (limbo inferior)= 41º 59’4' desde una altura del observador de 3
+metros y con una corrección de índice de 3' a la derecha y calculan con ayuda de la
+tabla de correcciones de alturas del Almanaque Náutico, la altura verdadera ... :
+
+      a) Av= 42º 14,6’
+      b) Av= 41º 59,3’
+      c) Av= 42º 02,2’
+      d) Av= 41º 40,1’
+
+18.- El Domingo 11 de Marzo de 2018, a HRB= 20:30:00, ya anochecido, se encuentran
+en situación estimada 35º 05'N - 007º 32’W y han calculado de forma simultánea, las
+determinantes de recta de altura de las estrellas:
+       • Rigel = diferencia de alturas - 5’ y azimut verdadero 235º
+       • Dubhe = diferencia de alturas + 3' y azimut verdadero 030º
+y los alumnos de la sexta guardia del día, calculan la situación observada por dos
+rectas de altura simultáneas, por el procedimiento gráfico, obteniendo.. :
+
+      a) 33º 05,5'N - 007º 42,3’W
+      b) 33º 10,7’N - 007º 36,2’W
+      c) 33º 05,0’N - 007º 24,7’W
+      d) 33º 00,0’N - 007º 18,0’W
+4/8                                                                   C.Y. - Tipo 1
+                                                                      Tipo 1
+
+DERROTA ORTODROMICA
+
+Oía 14 de Marzo de 2018, después de descansar varios días en la Marina del Puerto de
+Tazacorte en la costa occidental de la Isla de la Palma, proceden a calcular la derrota
+ortodrómica entre los puntos:
+     • Marina de Tazacorte (Canarias)= 28º 38'N - 017º 57'W.
+     • Marina Hodges Creek de islas Vírgenes (Caribe)= 18º 26'N – 064º 30'W.
+
+19.- Distancia ortodrómica ... :
+
+  a)   2160’
+  b)   2240’
+  c)   2410’
+  d)   2616’
+
+20.- El rumbo inicial ortodrómico
+
+      a) 241º
+      b) 252º
+      c) 267º
+      d) 276º
+
+
+
+
+5/8                                                                 C.Y. - Tipo 1
+                                                                       Tipo 1
+                         MÓDULO GENÉRICO
+
+Unidad teórica 3 : METEOROLOGÍA (preguntas de la nº 21 a la nº 30)
+
+21.- La faja imaginaria que rodea la esfera terrestre próxima al Ecuador y que coincide
+   con el cinturón de las bajas presiones ecuatoriales, se denomina:
+    a) La Zona de convergencia intertropical (ITCZ).
+    b) La Zona de calmas ecuatoriales.
+    c) La Zona de los Doldrums.
+    d) Todas las respuestas son correctas.
+
+22.- La capa de la atmósfera terrestre donde se producen los fenómenos atmosféricos y
+   meteorológicos de importancia para la navegación es:
+    a) La Troposfera.
+    b) La Estratosfera.
+    c) La Mesosfera.
+    d) La Capa de Ozono.
+
+23.- Si navegando desde Cabo Verde al Caribe (Atlántico Norte) y nos atrapa un
+   Huracán, observando que el viento rola en el sentido de las manecillas del reloj, es
+   que nos ha atrapado por:
+    a) El semicírculo peligroso.
+    b) El semicírculo manejable.
+    c) La cola del Huracán.
+    d) El Vórtice del Huracán.
+
+24.- La fuerza o intensidad de un Ciclón o Huracán la mide:
+    a) La escala de Beaufor.
+    b) La escala de Douglas.
+    c) La escaña de Berkjen.
+    d) La escala de Safir-Simpson.
+
+25.- Para que el fenómeno de rayo tenga lugar, se debe de cumplir:
+    a) Igualdad de carga eléctrica entre nube y tierra.
+    b) Carga eléctrica diferente entre nube y tierra.
+    c) Carga eléctrica diferente entre dos nubes contiguas.
+    d) Las respuestas a) y c) son correctas.
+
+26.- Si navegando en área de tormentas, se produjese fuego de San Telmo en la jarcia y
+   arboladura de nuestro yate, este fenómeno podría ser la antesala de:
+    a) Que la tormenta está amainando.
+    b) Que va a dejar de llover.
+    c) La caída inminente de un rayo.
+    d) Que la humedad ambiente va a aumentar.
+
+27.- El régimen de vientos monzónicos, es originario de:
+    a) El Océano Pacífico Norte cerca de Japón.
+    b) El Océano Pacífico Sur, cerca de Nueva Zelanda.
+    c) El Océano Índico.
+    d) El Océano Atlántico Sur entre Brasil y África.
+
+
+
+
+6/8                                                                  C.Y. - Tipo 1
+                                                                              Tipo 1
+28.- Los hielos flotantes de origen terrestre que llegan al Mar y derivan por él son:
+    a) Iceberg.
+    b) Icepack.
+    c) Packberg.
+    d) Banquisa.
+
+29.- La Corriente del Golfo (Gulf Stream), hace un recorrido en el Atlántico Norte en la
+   dirección:
+    a) Desde Groenlandia, por el Sur a lo largo de la costa oriental de Estados Unidos.
+    b) Desde Noruega y de forma arqueada, hacia la costa de América del Norte.
+    c) Desde la costa atlántica Sur de Estados Unidos, de forma arqueada, hacia las costas
+       de Europa, recorriendo el Atlántico Norte.
+    d) Desde la costa atlántica Norte de estados Unidos, de forma arqueada, hacia las costas
+       África, recorriendo el Atlántico Norte.
+
+30.- La Corriente de Brasil (Atlántico Sur) recorre:
+    a) Desde Brasil de forma arqueada, hasta Angola.
+    b) La costa brasileña en dirección SSW.
+    c) Desde las Islas Malvinas hacia Brasil en dirección NNW.
+    d) Desde la costa brasileña a la altura de Rio de Janeiro, hacia la Isla de Santa Elena.
+
+Unidad teórica 4 : INGLÉS (preguntas de la nº 31 a la nº 40)
+
+31.- The IMO Standard Marine Communication Phrases have been compiled with few
+objetives, one of witch is:
+    a) Keeping a good watch
+    b) Keeping a closer watch
+    c) To assist in the greater safety of navigation and of the conduct of ship
+    d) Maintaining free of dangers
+32.- When you hear the message marker <request= it’s expected you
+    a) Have to provide any kind of information
+    b) Should answer a question
+    c) Have to abandon your ship
+    d) Have to follow an order
+33.- When a mistake is made in a message, for transmiting the correct data you have to
+say
+    a) "Wrong ..." - followed by the Word
+    b) "Mistake ..." - followed by the Word
+    c) "Error ..." - followed by the Word
+    d) "Equivocation ..." - followed by the Word
+
+
+34.- Courses always to be expressed
+    a) in 360 degree notation from relative north
+    b) in 360 degree notation from magnetic north
+    c) in 360 degree notation from true north
+    d) in 360 degree notation from relative north
+35.- In rescue operations, the word <hoist= indicates
+    a) A towing cable
+    b) A cable used by helicopters for lifting or lowering persons in a pick-up operation
+    c) The cable used to discharge static electricity from helicopters
+    d) Ropes supported by stanchions around an open hatch to prevent persons from falling
+       into a hold
+7/8                                                                         C.Y. - Tipo 1
+                                                                          Tipo 1
+36.- If you have to give a help in a search operation, when you reach the search
+   operations area, you have to be receive orders from
+    a) On scene comander
+    b) Captain and commander of the biggest ship in the área
+    c) The radio station
+    d) The first ship you find on arrival
+37.- When an INSTRUCTION (e.g. by a VTS Station, naval vessel or other fully authorized
+   personnel) or an ADVICE is given, respond if in the affirmative:
+    a) Yes
+    b) Of course
+    c) Ok
+    d) I will
+38.- When you listen the following message <Diving operations by vessel XX= you know
+    a) There are towing operations
+    b) Towing operations in progress
+    c) There are persons under water
+    d) There are Shipping operations
+
+39.- The IMO´s Standard Marine Communication Phrases builds on a
+    a) Simplified International Language
+    b) Language mixing French and English languages
+    c) Deep knowledge on English language
+    d) Basic knowledge of the English language
+
+40.- When it is advisable to remain on a VHF Channel / frequency say:
+    a) Go on VHF Channel ... / frequency ... "
+    b) Hear in VHF Channel ... / frequency ... "
+    c) “Keep on VHF Channel ... / frequency ... "
+    d) "Stand by on VHF Channel ... / frequency ... "
+
+
+
+
+CAPITAN DE YATE: TIPO 1
+
+
+8/8                                                                     C.Y. - Tipo 1
+

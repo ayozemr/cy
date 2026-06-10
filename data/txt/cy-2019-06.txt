@@ -1,0 +1,466 @@
+          Región de Murcia
+          Consejería de Fomento e Infraestructuras
+          Dirección General de Transportes, Costas y Puertos                  http://nautica.carm.es
+          Plaza Santoña, 6, 30071 Murcia
+
+JUNIO - 2019
+                             CAPITÁN DE YATE                                                   Tipo 1
+- El examen de CAPITÁN DE YATE consta de 40 preguntas tipo test de formulación
+independiente entre sí, con cuatro respuestas alternativas siendo únicamente una válida.
+Contestar todas las preguntas, ya que no hay penalización para las erróneas.
+
+- Se corregirá con un doble criterio: 1º) globalmente y 2º) por módulos
+
+                                                                                        Condiciones APTO
+        Módulos                               Nº preguntas     Condiciones APTO
+                            Materias                                                     (Corrección por
+       Temáticos                                 examen        (Corrección global)
+                                                                                           módulos* )
+                             Teoría           10 preguntas:
+        Módulo de                                                   5 correctas             5 correctas
+                           navegación             1 - 10
+       navegación
+       (1 hora y 30        Cálculo de         10 preguntas:
+         minutos)                                                   6 correctas             6 correctas
+                           navegación            11 - 20
+
+                                              10 preguntas:
+       Módulo de          Meteorología                                                      5 correctas
+                                                 21 - 30
+        genérico
+
+         (1 hora)                             10 preguntas:
+                              Inglés                                                        5 correctas
+                                                 31 - 40
+
+
+             Total examen                      40 preguntas    28 correctas del total
+
+
+- Tiempo de realización del examen:
+     2 horas y 30 minutos para los dos Módulos temáticos (40 preguntas)
+     1 hora y 30 minutos para el Módulo de navegación (20 preguntas)
+     1 hora para el Módulo genérico (20 preguntas)
+
+
+                         MÓDULO DE NAVEGACIÓN
+Unidad teórica 1 : TEORÍA DE NAVEGACIÓN (preguntas de la nº 1 a la nº 10)
+
+1. Los lados de un triángulo de posición, serán siempre:
+
+   a) Arcos de círculos menores de la esfera celeste, menores de 90º.
+   b) Arcos de círculos máximos de la esfera celeste.
+   c) Arcos de círculos de la esfera celeste siempre menores de 180º.
+   d) Arcos máximos o menores de la esfera celeste, según nuestra latitud.
+
+2. Cuando el Sol, en su paralelo de declinación, según la época del año corta al
+   horizonte del observador, se produce:
+
+   a) Si lo corta al amanecer, se produce el ocaso.
+   b) Si lo corta al atardecer, se produce el orto.
+   c) Si lo corta por el este, se produce el orto.
+   d) Si lo corta por el oeste, se produce el orto.
+
+
+
+1/10                                                                                    C.Y. - Tipo 1
+                                                                            Tipo 1
+3. En navegación oceánica cambiamos la hora de huso según la siguiente pauta:
+
+   a) Si lo hacemos a rumbo oeste, una hora menos cada vez que pasemos al siguiente
+      huso.
+   b) Si lo hacemos con rumbo este, una hora más cada vez que pasemos al siguiente huso.
+   c) Si lo hacemos con rumbo norte o rumbo sur dentro de un mismo huso, cambiaremos la
+      hora al atravesar el ecuador hacia el norte una hora más y hacia el sur una hora
+      menos.
+   d) Las respuestas a) y b) son correctas.
+
+
+4. Los arcos que definen las Coordenadas uranográficas ecuatoriales son:
+
+   a) La latitud y la longitud del observador.
+   b) El azimut y la altura verdadera del astro observado.
+   c) El arco de almicantarat y la distancia polar del astro observado.
+   d) El arco de ángulo sidéreo del astro observado y su declinación.
+
+5. En la esfera celeste, un observador se encuentra en su zenit y desde este punto hasta
+   su polo elevado, hay un arco de meridiano celeste que se le llama:
+
+   a) Distancia zenital del observador.
+   b) Distancia polar del observador.
+   c) Codeclinación del observador.
+   d) Las respuestas b) y c) son correctas.
+
+6. Todos los días del año ocurre una coincidencia en un momento dado en donde todos
+   los lugares del mundo tienen la misma fecha, esto pasa cuando:
+
+   a) La hora civil en Greenwich es 120000.
+   b) La hora civil en Greenwich es 000000.
+   c) La hora civil en Greenwich es 123000.
+   d) La hora civil en Greenwich es 003000.
+
+7. Si hallamos el horario en Greenwich del Sol (HGʘ) y calculamos en ese instante su
+   declinación (dʘ), tenemos:
+
+   a) Sus coordenadas geográficas.
+   b) Sus coordenadas uranográficas.
+   c) Sus coordenadas horizontales.
+   d) Sus coordenadas horarias.
+
+8. Por todo astro situado en la esfera celeste, pasa un arco de círculo máximo que va de
+   polo a polo celeste, a este arco se le conoce como:
+
+   a) Almicantarat del astro.
+   b) Arco de horizonte.
+   c) Semicírculo horario del astro.
+   d) Las respuestas a) y b) son correctas.
+
+
+
+
+2/10                                                                      C.Y. - Tipo 1
+                                                                          Tipo 1
+9. Si conocemos el horario en Greenwich de una estrella (HG*) y también conocemos
+   nuestra longitud (al Este o al Oeste), podemos calcular un ángulo del triángulo de
+   posición que es:
+
+   a) El ángulo en el polo (P).
+   b) Que podrá ser al Este u Oeste con respecto a nuestra longitud.
+   c) Las estrellas no tienen ángulos en el polo.
+   d) Las respuestas a) y b) son correctas.
+
+10. Al tiempo que hace que pasó el Sol por el meridiano inferior de un observador, se
+   corresponde con:
+
+   a) la hora civil del lugar (Hcl)
+   b) la hora civil en Greenwich (HCG)
+   c) la hora de huso del lugar (Hz)
+   d) la hora oficial del lugar HO)
+
+
+Unidad teórica 2 : CÁLCULO DE NAVEGACIÓN (preguntas de la nº 11 a la nº 20)
+
+El yate "Albatros'" de la matrícula de Cartagena, motovelero de 23 metros de eslora, navega
+por aguas del Atlántico Norte desde Puerto Sherry (Cádiz), hacia La Marina de Mindelo
+(archipiélago de Cabo Verde), en crucero de perfeccionamiento para Capitanes de Yate.
+
+Viernes, 21 de Junio de 2019
+
+11. A hora civil de Greenwich= 123000, atracados en Puerto Sherry, el capitán del yate
+   "Albatros" calcula la distancia ortodrómica que les separa de Mindelo:
+   WPT salida =      36º 32,5'N – 006º 19,2'W.
+   WPT lIegada =     21º 05,4'N – 016º 22,8'W.
+
+   a) 1000,1’
+   b) 1065,7’
+   c) 1210,6’
+   d) 1340,2’
+
+12. A continuación calcula el rumbo inicial ortodrómico
+
+   a) 212,3º
+   b) 206,5º
+   c) 220,1º
+   d) 226,6º
+
+13. Después de zarpar de Puerto Sherry, a hora de huso (Hz)= 200000, se encuentran en
+   el WPT de salida (36º 32,5’N - 006º 19,2'W) y calculan la hcG (hora civil de Greenwich)
+   en ese instante.
+
+   a) 180000
+   b) 190000
+   c) 200000
+   d) 210000
+3/10                                                                   C.Y. - Tipo 1
+                                                                          Tipo 1
+14. Continúan navegando con buena Mar y comienza a soplar el alisio suave que con
+   toda seguridad les llevará hasta Mindelo y con cielos despejados y a hcG= 233000 la
+   situación estimada que tienen es= 36º 14,5'N – 006 º 21,1'W y en ese instante toman
+   altura instrumental de la estrella Polar= 35º 38,4' (elevación del observador 3 metros y
+   corrección de índice +3') y tras calcular el hlϒ (horario local de Aries)= 256º 00,9’,
+   proceden a rectificar la latitud por la Polar:
+
+   a) 36º 10,5’N
+   b) 35º 05,3’N
+   c) 36º 20,4’N
+   d) 35º 58,9’N
+
+
+Sábado, 22 de Junio de 2019
+
+15. Continúan navegando hacia Cabo Verde (Mindelo) con alisios del NNE, marejada por
+   la aleta de babor y cielos despejados y a hcG= 104000 están en situación estimada=
+   35º 16,5'N 006º 38,2'W y en ese instante calculan el horario en Greenwich del Sol:
+
+   a) 309º 30,9'
+   b) 319º 30,9’
+   c) 329º 30,9’
+   d) 339º 30,9’
+
+16. A hcG= 105500 están en situación estimada= 35º 15,1’N 006º 39,0'W y calculan la
+   declinación del Sol (dʘ) en ese instante:
+
+   a) +23º 00,0’
+   b) +23º 26,0’
+   c) -23º 26,0’
+   d) -23º 00,0’
+
+17. A hcG= 111000 su situación estimada es= 35º 17,2'N – 006º 40,3'W y con hGʘ
+   (horario en Greenwich del Sol)= 347’º 00,7, declinación del Sol= +23º 26,0' Y tras
+   calcular el ángulo en el Polo con el Sol (ɅP) en ese instante; proceden a calcular el
+   azimut verdadero del Sol (Zvʘ), utilizando las fórmulas que definen los ángulos del
+   triángulo de posición:
+
+   a) 119,5º
+   b) 240,3º
+   c) 060,2º
+   d) 299,3º
+
+
+
+
+4/10                                                                   C.Y. - Tipo 1
+                                                                         Tipo 1
+18. Amaina el alisio del NNE y entran en zona de calmas con ligera marejadilla del Norte
+   y a hcG= 122838 en situación estimada 35º 15,2'N – 006º 41,8'W, coincidiendo con el
+   paso del Sol por el meridiano móvil del yate, toman altura meridiana al Sol (limbo
+   inferior)= 78º 01,1’ (altura del observador 3 metros y corrección de índice 1' a la
+   derecha) y calculan la altura verdadera del Sol en la meridiana:
+
+   a) 77º 48,3’
+   b) 78º 13,8’
+   c) 78º 30,8’
+   d) 77º 31,2’
+
+19. Obtenida la altura verdadera del Sol en el momento de la meridiana, la declinación
+   del Sol en ese instante es= +23º 26,0’ y rectifican su latitud por la meridiana al Sol:
+
+   a) 35º 30,7’
+   b) 35º 29,4’
+   c) 35º 12,2’
+   d) 35º 05,1’
+
+Domingo, 23 de Junio de 2019
+
+20. Navegando con buen alisio hacia Mindelo y marejada por la aleta de babor, con
+   cielos despejados, a HcG= 045728 coincidiendo con el crepúsculo matutino se
+   encuentran en situación estimada= 33º 42,2’N – 006º 51,8'W y en ese instante
+   obtienen las determinantes de las rectas de altura de las estrellas:
+
+              • Alpheratz (1)                          • Deneb (91)
+       Diferencia de alturas= -3'               Diferencia de alturas= +5'
+       Azimut verdadero= 094,5º                 Azimut verdadero= 306º
+
+y rectifican la posición por el sistema gráfico de dos rectas de altura simultáneas a
+estrellas:
+
+   a) 33º 20,7'N – 006º 40,2’W
+   b) 33º 51,2’N - 006º 59,9’W
+   c) 33º 30,5’N – 006º 46,3’W
+   d) 33º 46,9’N – 006º 55,1’W
+
+
+
+
+5/10                                                                  C.Y. - Tipo 1
+                                                                              Tipo 1
+
+
+                          MÓDULO GENÉRICO
+
+Unidad teórica 3 : METEOROLOGÍA (preguntas de la nº 21 a la nº 30)
+
+
+21. La atmósfera terrestre tiene una capa donde se concentra el oxígeno respirable y la
+   humedad que proviene de los mares y en ella se producen los fenómenos
+   atmosféricos, se llama:
+
+   a) tropopausa.
+   b) troposfera.
+   c) mesosfera.
+   d) estratosfera.
+
+22. Si observamos al Sol o la luna, rodeados de un círculo de colores difusos del arco
+   iris y de forma debilitada, estamos viendo:
+
+   a) El fenómeno del halo o corona cuando se está dentro de un frente cálido.
+   b) El fenómeno del halo o corona cuando se está dentro de un frente frio.
+   c) El fenómeno del halo o corona cuando se está dentro de un frente ocluido.
+   d) El fenómeno del halo o corona cuando se está dentro de un frente estacionario.
+
+23. Atlántico Norte, navegamos con un velero cercano al mar Caribe, es mes de Junio,
+   nos alcanza un huracán por su sector peligroso anterior, procederemos a
+   maniobrarlo:
+
+   a) Corriendo el temporal a todo trapo.
+   b) Poniéndonos a la capa y mínimo de vela, recibiendo el viento por la amura de estribor.
+   c) Poniéndonos a la capa y mínimo de vela, recibiendo el viento por babor.
+   d) Escaparemos poniendo rumbo Norte.
+
+24. Océano Índico navegando cercanos a Maldivas, es época propicia de ciclones y
+   observamos nubes del tipo "cirrus" en abundancia, nos están indicando:
+
+   a) Que no hay indicios de peligro de ciclón.
+   b) Que se establecerá buen tiempo con viento del monzón del Norte.
+   c) Son los primeros indicios de probabilidad de la llegada de un ciclón.
+   d) Que el monzón del Sur va rolar al Norte.
+
+25. Una masa de aire frio entra en contacto con una masa de aire cálido y húmedo,
+   creándose una línea de inestabilidad, por tanto se producirá:
+
+   a) La formación y evolución de un chubasco de lluvia y viento.
+   b) La formación de nubes del tipo "cirrostratos".
+   c) Un huracán en el área tropical del Atlántico Norte.
+   d) Un ciclón en el océano Índico.
+
+
+
+
+6/10                                                                      C.Y. - Tipo 1
+                                                                               Tipo 1
+26. Las trombas o mangas marinas típicas del Mediterráneo a principio de otoño, van
+   asociadas a nubes del tipo:
+
+   a) Estratocúmulos.
+   b) Cirrocúmulos.
+   c) Altocúmulos.
+   d) Cumulonimbos.
+
+27. La circulación general de los vientos alisios del Atlántico Norte, discurre:
+
+   a) Desde el archipiélago de Cabo Verde, hacia la costas de Brasil.
+   b) Desde Canarias a las Islas Azores y de allí al Mar Caribe.
+   c) Desde Islas Canarias a Cabo Verde y desde allí al Mar Caribe.
+   d) Desde el Estrecho de Gibraltar a Madeiras y desde allí a Islas Azores.
+
+28. En aguas del Atlántico Sur, la corriente de Brasil discurre con carácter de
+   temperatura:
+
+   a) Fría.
+   b) Templada.
+   c) Cálida.
+   d) En invierno es fría y en verano es templada.
+
+29. La Zona de Convergencia Intertropical (lTCZ) o Doldrums se encuentra ubicada:
+
+   a) En la zona ecuatorial.
+   b) En el área tropical Norte.
+   c) En el área tropical Sur.
+   d) En las zonas del frente cálido al Norte o al Sur de los trópicos.
+
+30. Cuando se habla de fuerza de un ciclón, se refiere a la escala
+
+   a) Safir-Daufor
+   b) Safir-Simpson
+   c) Safir-Johnson
+   d) Safir-Douglas
+
+
+Unidad teórica 4 : INGLÉS (preguntas de la nº 31 a la nº 40)
+
+
+31. If you hear in the VHF the following call:
+              “Ship on my starboard side, ship on my starboard side, overtaking me with
+              course one five five and speed ten knots, this is tuna fishing ship Milana,
+              come in please. Over.”…..
+    You are required to:
+
+   a) Keep clear of propeller
+   b) Help tuna fishing ship Albacora
+   c) Change your course
+   d) Answer in the same VHF channel
+
+7/10                                                                      C.Y. - Tipo 1
+                                                                        Tipo 1
+32. In VHF communications between two ships, the following message is said:
+             “British sailing ship Endurance this is Spanish sailing ship Sultana please
+             change to channel one-five.”
+   It means:
+
+   a) British sailing ship Endurance has to change to VHF one-five
+   b) Spanish sailing ship Sultana has to change to VHF one-five
+   c) British sailing ship Endurance has to stand by on VHF
+   d) Spanish sailing ship Sultana has to stand by on VHF
+
+33. In the following message there is an Error.
+     Please, indicate which is it
+       “Mayday Mayday Mayday. All ships. This is sailing ship «Victoria» in position
+       latitude 44 degrees 00 minutes south longitude, 070 degrees 00 minutes west. Not
+       under command because of steering gear damaged. All ships are requested to
+       give wide berth. This is sailing ship «Victoria» out.”
+
+   a) The message must begin with “Pan Pan”
+   b) The message must begin with “Securite Securite Securite”
+   c) The position is not right communicated
+   d) The damage must be said “broken wheel”
+
+34. The IMO´s Standard Marine Communication Phrases builds on a
+
+   a) Deep knowledge on English language
+   b) Simplified International Language
+   c) Basic knowledge of the English language
+   d) Language mixing French and English languages
+
+35. When a wind blows round anticlockwise (opposite of veering) the correct way to say
+   is:
+    a) Wind backing
+    b) Wind Running forward
+    c) Wind running backwards
+    d) Wind going down
+
+36. The correct word used for indicating the turning of a vessel upside down while on
+   water is:
+    a) Keel sun
+    b) Upsidedown
+    c) Underwater
+    d) Capsizing
+
+37. Organization of the IMO SMCP: The IMO SMCP is divided into:
+
+   a) External Communication Phrases and On-board Communication Phrases
+   b) Internal Communication Phrases and On-board Communication Phrases
+   c) International Communication Phrases and National Communication Phrases
+   d) Warning Communication Phrases and Securite Communication Phrases
+8/10                                                                 C.Y. - Tipo 1
+                                                                         Tipo 1
+38. If you need permission for anchoring from a Vessel Traffic Service you have to use
+   the following phrase
+    a) Do I have permission to anchor in this position?
+    b) Can I anchor in this position?
+    c) May I anchor in this position?
+    d) Must I anchor in this position?
+
+39. If you have activate your EPIRB by error and you listen to the following question by
+   VHF from a Vessel Traffic System Station
+        “Is your EPIRB/SART transmitting?”
+   your answer is:
+
+   a) Yes, my EPIRB/SART is transmitting due to fault
+   b) Yes, my EPIRB/SART is transmitting due to brakedown
+   c) Yes, my EPIRB/SART is transmitting by mistake
+   d) Yes, my EPIRB/SART is transmitting by tilt
+
+40. The Message Marker “INSTRUCTION” indicates that the following message implies
+   the intention of the sender to influence others by a
+
+   a) Regulation
+   b) Suggestion
+   c) Advice
+   d) Recommendation
+
+
+
+
+9/10                                                                  C.Y. - Tipo 1
+                   Tipo 1
+
+
+
+
+  CAPITAN DE YATE
+
+        TIPO 1
+
+
+10/10            C.Y. - Tipo 1
+

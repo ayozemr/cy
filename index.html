@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Capitán de Yate · Test</title>
+  <meta name="description" content="Tests de teoría del examen de Capitán de Yate (Murcia 2018–2026). Funciona sin conexión.">
+  <meta name="theme-color" content="#0b1220">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/icon-180.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="CY Test">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- ===== Inicio ===== -->
+  <main id="screen-home" class="screen">
+    <header class="home-header">
+      <div class="logo">⚓</div>
+      <h1>Capitán de Yate</h1>
+      <p class="subtitle">Test de teoría · Exámenes de Murcia 2018–2026</p>
+    </header>
+
+    <section class="card">
+      <h2>Módulo</h2>
+      <div class="choices" id="module-choices">
+        <button class="choice selected" data-module="all">Todos</button>
+        <button class="choice mod-navegacion" data-module="navegacion">Teoría de Navegación</button>
+        <button class="choice mod-meteorologia" data-module="meteorologia">Meteorología</button>
+        <button class="choice mod-ingles" data-module="ingles">Inglés</button>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>Número de preguntas</h2>
+      <div class="choices" id="count-choices">
+        <button class="choice" data-count="10">10</button>
+        <button class="choice selected" data-count="20">20</button>
+        <button class="choice" data-count="40">40</button>
+        <button class="choice" data-count="all">Todas</button>
+      </div>
+    </section>
+
+    <p class="pool-info" id="pool-info"></p>
+
+    <button class="btn btn-primary btn-big" id="btn-start">Empezar test</button>
+    <button class="btn btn-secondary btn-big hidden" id="btn-review-failed"></button>
+  </main>
+
+  <!-- ===== Test ===== -->
+  <main id="screen-quiz" class="screen hidden">
+    <header class="quiz-header">
+      <div class="quiz-top">
+        <span class="module-badge" id="q-module"></span>
+        <button class="btn-exit" id="btn-exit" aria-label="Salir del test">✕</button>
+      </div>
+      <div class="progress-info">
+        <span id="q-progress"></span>
+        <span class="score-pill" id="q-score">✓ 0 · ✗ 0</span>
+      </div>
+      <div class="progress-bar"><div class="progress-fill" id="q-progressbar"></div></div>
+    </header>
+
+    <h2 class="question-text" id="q-text"></h2>
+
+    <div class="options" id="q-options"></div>
+
+    <p class="question-source hidden" id="q-source"></p>
+
+    <footer class="quiz-footer">
+      <button class="btn btn-secondary" id="btn-skip">Saltar</button>
+      <button class="btn btn-primary hidden" id="btn-next">Siguiente →</button>
+    </footer>
+  </main>
+
+  <!-- ===== Resultados ===== -->
+  <main id="screen-results" class="screen hidden">
+    <header class="results-header">
+      <div class="score-ring" id="r-ring">
+        <span class="score-pct" id="r-pct"></span>
+      </div>
+      <h1 id="r-title"></h1>
+      <p class="subtitle" id="r-summary"></p>
+    </header>
+
+    <section class="card" id="r-modules"></section>
+
+    <button class="btn btn-primary btn-big hidden" id="btn-retry-failed"></button>
+    <button class="btn btn-secondary btn-big" id="btn-home">Nuevo test</button>
+  </main>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

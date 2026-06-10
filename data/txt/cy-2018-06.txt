@@ -1,0 +1,426 @@
+         Región de Murcia
+         Consejería de Fomento e Infraestructuras
+         Dirección General de Transportes, Costas y Puertos                  http://nautica.carm.es
+         Plaza Santoña, 6, 30071 Murcia
+
+JUNIO - 2018
+                            CAPITÁN DE YATE                                                   Tipo 1
+
+- El examen de CAPITÁN DE YATE consta de 40 preguntas tipo test de formulación
+independiente entre sí, con cuatro respuestas alternativas siendo únicamente una válida.
+Contestar todas las preguntas, ya que no hay penalización para las erróneas.
+
+- Se corregirá con un doble criterio: 1º) globalmente y 2º) por módulos
+
+                                                                                       Condiciones APTO
+       Módulos                               Nº preguntas     Condiciones APTO
+                           Materias                                                     (Corrección por
+      Temáticos                                 examen        (Corrección global)
+                                                                                          módulos* )
+                            Teoría           10 preguntas:
+       Módulo de                                                   5 correctas             5 correctas
+                          navegación             1 - 10
+      navegación
+      (1 hora y 30        Cálculo de         10 preguntas:
+        minutos)                                                   6 correctas             6 correctas
+                          navegación            11 - 20
+
+                                             10 preguntas:
+      Módulo de          Meteorología                                                      5 correctas
+                                                21 - 30
+       genérico
+
+        (1 hora)                             10 preguntas:
+                             Inglés                                                        5 correctas
+                                                31 - 40
+
+
+            Total examen                      40 preguntas    28 correctas del total
+
+
+- Tiempo de realización del examen:
+     2 horas y 30 minutos para los dos Módulos temáticos (40 preguntas)
+     1 hora y 30 minutos para el Módulo de navegación (20 preguntas)
+     1 hora para el Módulo genérico (20 preguntas)
+
+
+                        MÓDULO DE NAVEGACIÓN
+Unidad teórica 1 : TEORÍA DE NAVEGACIÓN (preguntas de la nº 1 a la nº 10)
+
+1º.- En las coordenadas uranográficas ecuatoriales, sus componentes son:
+    a) Dependientes del observador solo si es del Sol.
+    b) Angulo sidéreo y declinación de una estrella.
+    c) Declinación y azimut de una estrella.
+    d) La altura verdadera y el azimut independientemente sea de estrella o de Sol.
+
+2º.- Desde la situación de un observador sobre la esfera celeste, el azimut de un astro
+   se corresponderá con:
+    a) El arco del horizonte contado desde el Norte verdadero celeste, en sentido de las
+       manecillas del reloj y hasta el punto de posición del astro sobre la esfera.
+    b) Puede valer hasta 360º si se cuenta en valor circular.
+    c) Se puede contar en valor cuadrantal.
+    d) Todas las respuestas son ciertas.
+
+
+1/8                                                                                    C.Y. - Tipo 1
+                                                                                 Tipo 1
+3º.- En un triángulo esférico de posición:
+    a) Los lados son arcos de círculos máximos de la esfera celeste.
+    b) Los lados son arcos de círculos menores de la esfera celeste.
+    c) Los lados son siempre arcos de circulas de la esfera celeste menores de 90º.
+    d) Los lados son siempre arcos de círculos de la esfera celeste menores de 180º.
+
+4º.- Si navegando llevamos hora de HRB (arreglada a la hora de huso):
+    a) Navegando hacia el Este, habrá que adelantar la hora en cada huso que atravesemos.
+    b) Navegando hacia el Oeste, habrá que atrasar la hora en cada huso que atravesemos.
+    c) La Hz arreglada a la hora de uso, se le deja sin tocar hasta la llegada a puerto con HO.
+    d) Las respuestas a) y b) son correctas.
+
+5º.- La Cruz del Sur es una constelación de:
+    a) El hemisferio Sur celeste.
+    b) El hemisferio Norte celeste.
+    a) el De la franja ecuatorial celeste.
+    c) Está justo en el polo Sur celeste y su estrella principal señala la vertical de dicho Polo.
+
+6º.- Un observador está en latitud Norte, su Polo depreso estará en ... :
+    a) En el hemisferio Norte sobre su meridiano y a menos de 90º de distancia.
+    b) En el hemisferio Sur sobre su meridiano y a más de 90º de distancia.
+    c) En el hemisferio Norte sobre su meridiano y a más de 90º de distancia.
+    d) En el hemisferio Sur sobre su meridiano y a menos de 90º de distancia.
+
+7º.- Cuando el primer punto de Aries pasa dos veces consecutivas cada 24 horas por la
+   posición de una estrella, se dice. ..:
+    a) Que corresponde con el día sidéreo.
+    b) Que corresponde con el día estelar.
+    c) Que corresponde con el día uranográfico.
+    d) El primer punto de Aries no pasa nunca por ninguna estrella.
+
+8º.- Todo astro sobre la esfera celeste, está situado en un arco que une los polos
+   celestes Norte y Sur, similar al meridiano de un observador sobre la esfera terrestre;
+   este arco se denomina:
+    a) Semicírculo horario del astro y forma parte de su coordenada horaria.
+    b) Semicírculo horario del astro y no forma parte de su coordenada horaria.
+    c) Semicírculo horario del astro y forma parte de su coordenada horizontal.
+    d) Semicírculo horario del astro y forma parte de su coordenada azimutal.
+
+9º.- La proyección de la posición de un observador sobre la Esfera Celeste, ocupa un
+   punto que se denomina:
+    a) Azimut.
+    b) Cénit
+    c) Nadir.
+    d) Altura.
+
+10º.- Si usted navega por círculo máximo de la esfera terrestre, está realizando
+    a) Una derrota loxodrómica.
+    b) Una derrota mercatoriana.
+    c) Una derrota ortodrómica.
+    d) Una derrota batimétrica.
+
+2/8                                                                           C.Y. - Tipo 1
+                                                                            Tipo 1
+Unidad teórica 2 : CÁLCULO DE NAVEGACIÓN (preguntas de la nº 11 a la nº 20)
+
+El yate moto-velero goleta Dehler de 24 metros de eslora, en crucero de prácticas con
+Capitanes de Yate se encuentra navegando en aguas del Mediterráneo, desde la Marina
+Juan Montiel de Águilas (Murcia), hacia la ensenada de Porto Ginostra en la Isla de
+Strómboli (Italia).
+
+Día 12 de Junio de 2018:
+Zarpan de la Marina Juan Montiel de Águilas (Murcia) a hora oficial= 080000.
+
+11º.- En el punto de salida del viaje, posición= 37º 23'N – 001º 35’W, a la HO referida. Un
+     grupo de Capitanes en prácticas calculan la Hora civil del lugar Indique cuál es
+
+      a) Hcl= 055340
+      b) Hcl= 060620
+      c) Hcl= 065340
+      d) Hcl= 095340
+
+12º.- Y otro grupo de Capitanes en prácticas calcula el horario en Greenwich del Sol
+     (HG0)
+
+      a) HG0=270º 09,2’
+      b) HG0=270º 06,2’
+      c) HG0=270º 00,0’
+      d) HG0=270º 03,1’
+
+Día 13 de Junio de 2018:
+Navegando sin novedad hacia Strómboli con buena mar, cielos despejados y viento
+moderado del WSW,
+A hora civil de Greenwich (HCG)= 091020 se encuentran en situación estimada= 37º
+37'N – 001º 13’E
+
+13º.- Y todos proceden a calcular la declinación del Sol (d0) en ese Instante .. ,:
+
+      a) d0= +23º 10,6’
+      b) d0= +23º 12,7’
+      c) d0= +23º 14,7’
+      d) d0= +23º 16,7’
+
+14º.- Y en ese mismo momento, la misma hora y la misma situación, y habiendo
+     calculado el horario en Greenwich del Sol (HGO)= 317º 34,6’, calculan el ángulo en el
+     polo (P) con el Sol .. ,:
+
+      a) 36º 40,8’ (E)
+      b) 38º 25,8’ (W)
+      c) 41º 12,6’ (E)
+      d) 43º 44,2 (W)
+
+
+
+
+3/8                                                                      C.Y. - Tipo 1
+                                                                          Tipo 1
+Día 14 de Junio de 2018:
+Navegando sin novedad hacia Strómboli con cielos poco nubosos, marejadilla y viento
+flojo de poniente,
+
+15º.- A HRB (arreglada a la hora de huso)= 093010 se encuentran en situación estimada=
+     37º 51’N – 004º 01 E y en ese instante toman altura instrumental al Sol (limbo
+     inferior)= 57º 35,7’, elevación de los observadores= 3 metros y corrección de índice
+     = 3' a la derecha y proceden a calcular la altura verdadera del Sol
+
+      a) Av0= 57º 20,2’
+      b) Av0= 57º 30,4’
+      c) Av0= 57º 40,9’
+      d) Av0= 57º 50,9’
+
+Día 15 de Junio de 2018:
+Continúan el viaje hacia Strómboli sin novedad con la mar rizada de poniente y cielos
+despejados,
+
+16º.- A hora civil de Greenwich (HCG)= 093320, se encuentran en situación estimada=
+      38º 05'N – 006º 49’E y habiendo calculado los alumnos previamente:
+       • Declinación del Sol en ese instante (d0= +23º 15,8’
+       • Ángulo en el polo (PI con el Sol= 33º 35,1’ (E)
+Proceden a calcular la altura estimada del Sol (ae0), utilizando las fórmulas del triángulo
+de posición
+
+      a) Ae0= 57º 34,5’
+      b) Ae0= 57º 46,9’
+      c) Ae0= 57º 52,3’
+      d) Ae0= 57º 58,2’
+
+17º.- Con los mismos datos anteriores {declinación del Sol, ángulo en el polo, latitud y
+     hora}, proceden a calcular el azimut verdadero (Zv0), en su valor circular, con las
+     fórmulas del triángulo de posición
+
+      a) Zv0= 096,7º
+      b) Zv0= 101,3º
+      c) Zv0= 107,5º
+      d) Zv0= 112,8º
+
+Día 16 de Junio de 2018:
+Navegando sin novedad hacia Strómboli con cielos parcialmente nubosos y marejadilla
+del SW.
+A hora civil de Greenwich (HCG)= 112214 en situación estimada= 38º 25'N – 009º 37'E,
+momento del paso del Sol por el meridiano móvil del yate, todos los alumnos en equipo
+proceden a tomar altura meridiana del Sol (limbo inferior), hallando los siguientes datos:
+       • Altura verdadera meridiana del Sol= 74º 48,0'
+       • Declinación del Sol en el momento de la meridiana= +23º 21,0’
+
+18º.- Proceden a calcular la latitud observada por meridiana del Sol
+
+      a) lo= 38º 20,1’N.
+      b) lo= 38º 23,1’N.
+      c) lo= 38º 33,0’N
+      d) lo= 38º 40,0’N.
+4/8                                                                    C.Y. - Tipo 1
+                                                                      Tipo 1
+Día 17 de Junio de 1018
+Continúan sin novedad navegando cercanos al destino, marejada del SW y cielos
+parcialmente nubosos.
+A hora civil de Greenwich (HCG)= 100000, se encuentran en situación de estima= 38º
+33'N – 012º 25’E y habiendo los alumnos calculado en ese instante las determinantes de
+la Recta de Altura del Sol siguientes:
+       • Diferencia de alturas= -4'
+       • Azimut verdadero= 151,5º
+
+19º.- Proceden a rectificar por el procedimiento gráfico, la posición por punto
+     aproximado, obteniendo posición rectificada
+
+      a) 38º 42,2’N – 012º 28,6’E
+      b) 38º 33,5’N – 012º 22,6’E
+      c) 38º 12,5’N – 012º 18,3’E
+      d) 38º 08,7’N – 012º 09,2’E
+
+Día 18 de Junio de 2018;
+Fondeados en Porto Ginostra de Strómboli.
+
+20º.- Los alumnos calculan la distancia ortodrómica del viaje que han llevado a cabo
+     desde el punto de salida en la Bahía de Águilas= (37º 23'N – 001º 35’W) y la
+     ensenada de Porto Ginostra en Strómboli (38º 47'N – 015º 13’E)
+
+      a) 720,2’
+      b) 796,7’
+      c) 822,7’
+      d) 832,2’
+
+
+
+
+5/8                                                                C.Y. - Tipo 1
+                                                                         Tipo 1
+                         MÓDULO GENÉRICO
+
+Unidad teórica 3 : METEOROLOGÍA (preguntas de la nº 21 a la nº 30)
+
+
+21º.- La zona comprendida entre los vientos alisios del hemisferio Norte y Sur que se
+  corresponde con la convergencia intertropical, que rodea a la Tierra próxima al
+  Ecuador, se la conoce como:
+    a) lTCZ.
+    b) Doldrums.
+    c) Latitudes de los caballos.
+    d) Las respuestas a) y b) son correctas.
+
+22º.- A la formación de un círculo en capas medias de la troposfera con los colores del
+  arco iris muy delimitado alrededor de este círculo y ocurre cuando se está dentro de
+  un frente cálido, se le denomina:
+    a) Halo o corona.
+    b) Espectro de San Telmo.
+    c) Parhelio.
+    d) Paraselene.
+
+23º.- Si navegando a vela por el Océano Índico Sur nos atrapa un ciclón por su sector
+  peligroso anterior, deberemos proceder:
+    a) Procederemos a correr el temporal a todo trapo para escapar con rapidez.
+    b) Nos pondremos a la capa ciñendo el viento con el mínimo de vela por la amura de
+        babor.
+    c) Nos pondremos a la capa ciñendo el viento con el mínimo de vela por la amura de
+        estribor.
+    d) Se correrá el temporal con poco trapo para aguantarlo.
+
+24º.- Los fenómenos meteorológicos de la tromba y el tornado se diferencian en:
+    a) La tromba es un fenómeno que se produce en el Mar.
+    b) El tornado es otro fenómeno similar que se produce en tierra firme.
+    c) Ambos fenómenos pueden producirse principalmente en el Mar.
+    d) las respuestas a) y b) son correctas.
+
+25º.- En aguas del Atlántico Norte, la corriente que lleva dirección al SSW y que discurre
+  desde el Estrecho de Gibraltar, hasta Canarias se denomina".:
+    a) Corriente de los alisios.
+    b) Corriente de Canarias.
+    c) Corriente Atlántica de Marruecos.
+    d) Corriente Nortatlántica de África.
+
+26º.- La escala internacional que mide la fuerza de un ciclón o huracán se denomina:
+    a) Escala Douglas Ciclónica,
+    b) Escala Ciclónica de Daufor.
+    c) Escala Safir·Simpson.
+    d) Escala Internacional de Huracanes y Ciclones.
+
+
+
+6/8                                                                   C.Y. - Tipo 1
+                                                                        Tipo 1
+27º.- De los gases que constituyen la atmósfera terrestre, el de mayor proporción es:
+    a) El nitrógeno.
+    b) El oxígeno.
+    c) El argón.
+    d) El hidrógeno.
+
+28º.- La atmósfera terrestre tiene una importante capa a partir de los 90 kilómetros de
+  altitud, en donde rebotan las ondas hertzianas medias y cortas (MF y HF) de radio y
+  vuelven a la superficie de La Tierra, esta capa se denomina:
+    a) Magneticosfera.
+    b) Ionosfera.
+    c) Electrosfera.
+    d) las respuestas a) y c) son correctas.
+
+29º.- En el océano Atlántico Norte y Sur, los vientos que soplan desde las costas
+  americanas hacia las costas europeas y africana, con dirección Este se denominan
+    a) Los oestes dominantes.
+    b) Los alisios.
+    c) Los estes dominantes.
+    d) Los monzones del Atlántico.
+
+30º.- Las Normas básicas internacionales que regulan la seguridad en la navegación en
+  las zonas de hielo, están recogidas en:
+    a) RIPA (Regias de visibilidad reducida).
+    b) SOLAS (Capítulo 5º Reglas 5, 6 y 7).
+    c) lMCO (Parte 8').
+    d) IALA (Reglas 6 y 7 sobre balizamiento activo de témpanos e iceberg.
+
+
+
+Unidad teórica 4 : INGLÉS (preguntas de la nº 31 a la nº 40)
+
+31º.- When you are asked about the signal you read you hear the phrase: “"How do you
+     read?"…. If you read loud and clear you can answer:
+
+      a) Strength four
+      b) Strength five
+      c) Good
+      d) The three answers before are right
+
+
+32º.- When it is advisable to change to VHF channel 12, say
+    a) Advise change to VHF channel 12
+    b) Run to VHF channel 12
+    c) Don`t change to VHF channel 12
+    d) Experience another channel
+
+33º.- Courses always to be expressed in 360 degree notation from
+    a) Cardinal course
+    b) Northern Star
+    c) North
+    d) South
+
+
+7/8                                                                   C.Y. - Tipo 1
+                                                                          Tipo 1
+34º.- If you want to enter a fairway, what is the correct way to ask for permission?
+    a) May I enter fairway?
+    b) Is it permitted to enter fairway?
+    c) Should I enter fairway?
+    d) Can I enter fairway?
+
+35º.- Turning of a vessel upside down while on wáter means
+    a) Adrift
+    b) Keel up
+    c) Keel down
+    d) Capsizing
+
+36º.- When a vessel is not at anchor, or made fast to the shore, or aground it is salid
+    a) Sailing
+    b) On the way
+    c) Underway
+    d) In transit
+
+37º.- You are suffering a fire on cabin, you communicate it to a Rescue Center and you
+     are asked: “Can you get fire under control?”--- Then you answer…
+    a) No, I cannot get fire under control
+    b) My speed is 10 knots
+    c) Fire is a problem
+    d) No problem
+
+38º.- If any part of a message are considered sufficiently important to need
+     safeguarding, say
+    a) “Please, say again” - followed by the corresponding part of the message
+    b) “Stop message” - followed by the corresponding part of the message
+    c) "Repeat ... " - followed by the corresponding part of the message
+    d) “Tell me again” - followed by the corresponding part of the message
+
+
+39º.- Areas which cannot be scanned by the radar of the vessel because they are
+     shielded by parts of its superstructure, masts, etc are known as
+    a) Black sectors
+    b) Blast sectors
+    c) White sectors
+    d) Blind sectors
+
+40º.- The movement of an anchor over the sea bottom involuntarily because it is no
+     longer preventing the movement of the vessel is known as
+    a) Dragging (of anchor)
+    b) Ripping (of anchor)
+    c) Flushing (of anchor)
+    d) Flashing (of anchor)
+
+
+
+
+CAPITAN DE YATE: TIPO 1
+
+8/8                                                                     C.Y. - Tipo 1
+

@@ -1,0 +1,447 @@
+          Región de Murcia
+          Consejería de Fomento e Infraestructuras
+          Dirección General de Movilidad y Litoral                            http://nautica.carm.es
+          Plaza Santoña, 6, 30071 Murcia
+
+JULIO- 2020
+                              CAPITÁN DE YATE                                                  Tipo 1
+- El examen de CAPITÁN DE YATE consta de 40 preguntas tipo test de formulación
+independiente entre sí, con cuatro respuestas alternativas siendo únicamente una válida.
+Contestar todas las preguntas, ya que no hay penalización para las erróneas.
+
+- Se corregirá con un doble criterio: 1º) globalmente y 2º) por módulos
+
+                                                                                        Condiciones APTO
+        Módulos                                Nº preguntas    Condiciones APTO
+                             Materias                                                    (Corrección por
+       Temáticos                                  examen       (Corrección global)
+                                                                                           módulos* )
+                             Teoría            10 preguntas:
+        Módulo de                                                   5 correctas             5 correctas
+                           navegación              1 - 10
+       navegación
+       (1 hora y 30        Cálculo de          10 preguntas:
+         minutos)                                                   6 correctas             6 correctas
+                           navegación             11 - 20
+
+                                               10 preguntas:
+       Módulo de          Meteorología                                                      5 correctas
+                                                  21 - 30
+        genérico
+
+         (1 hora)                              10 preguntas:
+                              Inglés                                                        5 correctas
+                                                  31 - 40
+
+
+             Total examen                      40 preguntas    28 correctas del total
+
+
+- Tiempo de realización del examen:
+     2 horas y 30 minutos para los dos Módulos temáticos (40 preguntas)
+     1 hora y 30 minutos para el Módulo de navegación (20 preguntas)
+     1 hora para el Módulo genérico (20 preguntas)
+
+
+                          MÓDULO DE NAVEGACIÓN
+Unidad teórica 1 : TEORÍA DE NAVEGACIÓN (preguntas de la nº 1 a la nº 10)
+
+
+1. Coordenadas uranográficas ecuatoriales:
+    a) Son independientes de la posición del observador.
+    b) Sus elementos son el ángulo sidéreo y la eclíptica.
+    c) Sus elementos son la declinación y el azimut-
+    d) Sus elementos son la altura verdadera y la codeclinación.
+
+2. En el triángulo de posición, el ángulo en el polo se forma:
+    a) En el polo depreso del observador y siempre es mayor de 90º.
+    b) En el polo elevado del observador y nunca es menor de 90º.
+    c) En el polo elevado del observador, entre el meridiano del observador y el
+       semicírculo horario del astro.
+    d) En el polo depreso del observador, entre el meridiano de Greenwich celeste y el
+       meridiano del observador.
+
+1/10                                                                                    C.Y. - Tipo 1
+                                                                        Tipo 1
+3. El arco de semicírculo horario de un astro en la esfera celeste, formado desde
+   la posición de dicho astro en su semicírculo y hasta su polo elevado es:
+    a) La codeclinación del astro.
+    b) Nunca valdrá más de 90º.
+    c) Su valor será siempre mayor de 90º.
+    d) Las respuestas a y b son correctas.
+
+
+4. Se entiende por "recorrido de arco diurno" del Sol con respecto a un
+   observador en la esfera terrestre a:
+    a) El recorrido relativo del Sol alrededor de la Tierra cada 24 horas con respecto a
+       un observador.
+    b) El recorrido relativo del Sol alrededor de la Tierra, desde el instante en que
+       corta el horizonte pasando del hemisferio invisible al hemisferio visible haciendo
+       su recorrido a la vista del observador, hasta que desaparece por el horizonte de
+       poniente
+    c) El recorrido relativo del Sol alrededor de la Tierra, desde el instante en que
+       corta el horizonte pasando del hemisferio visible al hemisferio invisible haciendo
+       su recorrido a la vista del observador, hasta que desaparece por el horizonte de
+       levante.
+    d) Es el tiempo que tarda Sol desde la posición de un observador en la esfera
+       terrestre en realizar su crepúsculo al orto, o su crepúsculo después del ocaso.
+
+
+5. Dentro de un mismo huso horario, la máxima diferencia de tiempo que puede
+   haber entre la hora legal u hora de huso y la hora civil del lugar es de:
+    a) 30 minutos.
+    b) Una hora.
+    c) 15 minutos.
+    d) 7,5 minutos.
+
+6. Se entiende por ángulo sidéreo:
+    a) El arco de Ecuador celeste contado desde el punto de Aries, hasta el
+       semicírculo horario de una estrella.
+    b) El arco de Ecuador celeste contado desde el meridiano de Greenwich hasta el
+       semicírculo horario de una estrella.
+    c) El arco de Ecuador celeste contado desde el punto de Aries hasta el meridiano
+       celeste del observador.
+    d) El arco de Ecuador celeste contado desde el semicírculo horario de una estrella
+       hasta el meridiano celeste del observador.
+
+7. Cuando navegando utilizamos la hora legal (HI) u hora de huso (Hz):
+    a) Sabremos en qué uso estamos dividiendo nuestra longitud entre 15º.
+    b) Si pasamos de un huso al contiguo con rumbo 090º disminuiremos una hora.
+    c) Si pasamos de un huso al contiguo con rumbo 270º aumentamos una hora.
+    d) Ninguna de las anteriores respuestas es correcta.
+
+
+
+2/10                                                                  C.Y. - Tipo 1
+                                                                         Tipo 1
+8. La Estrella Polar es una estrella:
+    a) De 4ª magnitud y visible entre las latitudes 50ºN y 50ºS.
+    b) De 2ª magnitud y visible entre las latitudes 50ºN y 50ºS.
+    c) De 2ª magnitud y solo es visible en el Hemisferio Norte.
+    d) De 2ª magnitud y solo es visible en el Hemisferio Norte a partir de latitud 50ºN.
+
+9. El fenómeno astronómico del ocaso solar respecto a un observador en la
+   esfera terrestre se produce:
+    a) Cuando el Sol desaparece por el horizonte al Oeste del observador.
+    b) Cuando el Sol desaparece por el horizonte al Este del observador.
+    c) Cuando el Sol culmina su máxima altura en el meridiano del observador.
+    d) En el crepúsculo matutino con respecto al observador.
+
+10. De las siguientes constelaciones, ¿por cuál de ellas pasa el Ecuador
+  Celeste?:
+   a) Osa Mayor.
+   b) Orión.
+   c) Casiopea.
+   d) Cruz del Sur
+
+
+Unidad teórica 2 : CÁLCULO DE NAVEGACIÓN (preguntas de la nº 11 a la nº 20)
+
+EJERCICIOS SOBRE MEDIDA DE TIEMPO
+
+11. En aguas del Océano Índico cercanos a la Isla de Mauricio, al ser en
+  Greenwich la hora civil de Greenwich (HCG)= 2230 del día 28 de Marzo,
+  calculamos la hora civil del lugar y fecha en situación estimada= 24º 20,2’S
+  066º 20,0’E.
+  Calculamos la hora civil (HCL) y fecha del lugar en dicha situación:
+   a) 025520 del 29 de Marzo de 2020.
+   b) 025556 del 28 de Marzo de 2020.
+   c) 122056 del 30 de Marzo de 2020.
+   d) 122056 del 27 de Marzo de 2020.
+
+12. En aguas del Océano Atlántico Norte, cercanos a New York en la longitud=
+  070º 40,2’W, siendo nuestra hora de huso (Hz)= 0720 del día 29 de Marzo,
+  calculamos la hora civil y fecha en Greenwich en ese momento:
+   a) 1220 del 28 de Marzo.
+   b) 1220 del 29 de Marzo.
+   c) 0220 del 28 de Marzo.
+   d) 0220 del 29 de Marzo.
+
+
+
+
+3/10                                                                  C.Y. - Tipo 1
+                                                                  Tipo 1
+EJERCICIOS SOBRE ALMANAQUE NÁUTICO
+
+13. En aguas del Atlántico Norte frente a la costa portuguesa, a hora civil de
+  Greenwich (HCG)= 1020 del día 29 de Marzo de 2020, calculamos el horario en
+  Greenwich del Sol (HGO) de ese instante:
+   a) 338º 05,1’
+   b) 348º 10,3’
+   c) 346º 31,2’
+   d) 333º 50,0’
+
+14. En aguas del océano Atlántico Sur cercanas a la costa de Brasil, el día 30 de
+  Marzo de 2020 a hora civil de Greenwlch= 1040, calculamos el horario en
+  Greenwich de Aries (HGY) de ese momento:
+   a) 344º 10,1’
+   b) 345º 20,2’
+   c) 346º 31,2’
+   d) 348º 16,6’
+
+EJERCICIOS SOBRE TRIÁNGULO DE POSICIÓN
+
+15. En aguas del Atlántico Norte, cercanas a Canarias, el día 28 de Marzo de
+  2020, por la mañana, en situación estimada 30º 10,7’N 015º 10,0’W, obtenemos
+  previamente del Sol los siguientes datos:
+       Declinación= +03º 15,8’
+       Ángulo en el Polo ( P)= 27º 40,2’ E
+  Calculamos el valor de la altura estimada del Sol utilizando las fórmulas que
+  resuelven los lados del triángulo de posición ...
+   a) 52º 27,9’
+   b) 52º 32,3’
+   c) 52º 23,2’
+   d) 52º 12,1’
+
+16. En aguas de Portugal a 100 millas al Oeste del puerto de Figueira da Foz, en
+  la madrugada del día 29 de Marzo de 2020, a hora civil de Greenwich 0430, en
+  situación estimada= 40º 10,6’N 011º 03,2’W, obtenemos de la estrella Arcturus
+  (nº=69) los siguientes datos:
+        Declinación= +19º 04,6' y ángulo en el Polo (P)= 21º 30,4’W
+  Procedemos a calcular el azimut verdadero a dicha estrella en su valor
+  circular, utilizando las fórmulas que resuelven los ángulos del triángulo de
+  posición:
+   a) 312,5º
+   b) 132,5º
+   c) 227,5º
+   d) 097,3º
+
+
+
+
+4/10                                                           C.Y. - Tipo 1
+                                                                 Tipo 1
+EJERCICIOS SOBRE RECTA DE ALTURA
+
+17. En aguas del Atlántico Norte al WNW de Madeira el día 30 de Marzo de 2020,
+  a hora civil de Greenwich (HCG)= 1040, obtenemos los datos siguientes de las
+  determinantes de la recta de altura al Sol:
+        Situación estimada= 35º 10,0’N – 017º 20,0’W.
+        Diferencia de alturas= +5’
+        Azimut verdadero= 118º
+  Rectificamos la posición por el sistema gráfico de punto aproximado con una
+  sola recta de altura:
+   a) 35º 07,7’N 017º 14,7’W.
+   b) 35º 03,3’N 017º 11,2’W.
+   c) 35º 01,4’N 017º 08,5'W.
+   d) 34º 58,1’N 017º 06,2’W.
+
+
+EJERCICIOS SOBRE LA CORRECCIÓN TOTAL POR AZIMUT DE LA ESTRELLA POLAR
+
+18. Atlántico Norte, cercanos a la Isla de Bermuda el 30 de Marzo de 2020, en el
+  crepúsculo vespertino y en situación estimada= 35º 00’N            065º 10'W
+  obtenemos horario del lugar de Aries (Hlϒ)= 190º 00’ y tomamos azimut de
+  aguja a la Estrella Polar= 352º.
+  Procedemos a calcular el valor de la corrección total con la ayuda de la tabla
+  de azimutes de la Polar del Almanaque Náutico:
+   a) 5,2º E
+   b) 7,6º E
+   c) 9,7º W
+   d) 11,5º W
+
+
+EJERCICIOS SOBRE LA DERROTA ORTODRÓMICA
+
+19. Calcular la distancia ortodrómica entre un punto de salida -A- en Canarias=
+  29º 40,6’N 015º 20,3’W y otro punto -B- cercano al Puerto de la Guaira
+  (Venezuela)= 10º 36,5’N 066º 56,9’W:
+   a) 2510,3’
+   b) 2650,2’
+   c) 2878,1’
+   d) 3094,5’
+
+20. Calcular el valor del rumbo inicial ortodrómico desde un punto -A- cercano a
+  la Isla de Bali= 10º 10,0’S – 126º 20,0’E Y otro punto -B- al Este de Durban
+  (Sudáfrica)= de posición 30º 30,0’S 040º 10,0'E:
+   a) 230,5º
+   b) 240,6º
+   c) 250,4º
+   d) 260,3º
+
+
+
+5/10                                                           C.Y. - Tipo 1
+                                                                     Tipo 1
+                        MÓDULO GENÉRICO
+
+Unidad teórica 3 : METEOROLOGÍA (preguntas de la nº 21 a la nº 30)
+
+
+21. La corriente marina de Benguela que discurre por aguas del Océano
+  Atlántico es:
+   a) Fría y circula en dirección Norte por la costa sud oriental de América del Sur,
+      desde el Estrecho de Magallanes, hasta el Mar del Plata.
+   b) Fría y circula en dirección Norte por la costa sudoccidental de África del Sur
+      desde el Cabo de buena Esperanza, hasta el Norte de la costa de Namibia.
+   c) Cálida y circula en dirección Norte por la costa de Guinea Bissau, hasta
+      Senegal.
+   d) Cálida y circula en dirección Norte por la costa africana del Banco Sahariano.
+
+22. El fenómeno del "halo o corona" se produce con el Sol o la luna y consiste
+  en la formación de un círculo alrededor de estos y está asociado a:
+   a) El paso de un frente cálido.
+   b) El paso de un frente frio.
+   c) El paso de un frente ocluido.
+   d) El paso de un frente estacionario.
+
+23. En aguas del Atlántico Norte, régimen de vientos alisios, estos vientos
+  circulan por:
+   a) El área subtropical y tropical desde el Este hacia el Oeste.
+   b) El área subtropical y tropical desde el Oeste hacia el Este.
+   c) El área subtropical y tropical, siempre desde el Norte hacia el Sur.
+   d) El área subtropical y tropical, siempre desde el Sur hacia el Norte.
+
+24. Las trayectorias típicas de los ciclones o huracanes son:
+   a) En el hemisferio Norte llevan dirección Oeste o Noroeste y luego se recurvan al
+      Norte o Noreste.
+   b) En el hemisferio Sur llevan dirección Oeste u Oeste-Sudoeste y luego se
+      recurvan al Sudeste
+   c) En ambos hemisferios y por el fenómeno de Coriollis, llevan las mismas
+      trayectorias.
+   d) Las respuestas a y b son correctas.
+
+25. OMI: indicaciones del SOLAS en su Capítulo V (Reglas 5, 6 Y 7 por las que se
+  establecen las normas de seguridad marítima a seguir para los buques y
+  embarcaciones que realicen navegaciones por zonas o áreas de hielos), el
+  límite de la presencia de hielos en aguas del océano Pacifico Sur, se
+  establece:
+   a) Entre los 40º y 30º de latitud Sur.
+   b) Entre los 70º y 60º de latitud Sur.
+   c) Entre los 50º y 45º de latitud Sur.
+   d) Entre los 80º y 70º de latitud Sur.
+
+
+6/10                                                              C.Y. - Tipo 1
+                                                                     Tipo 1
+26. La Organización Mundial de Meteorología establece una escala para definir la
+  fuerza e intensidad de los ciclones o huracanes, esta escala se le conoce
+  como:
+   a) Escala Safir - Beaufort.
+   b) Escala Simpson - Douglas.
+   c) Escala Safir -Simpson.
+   d) Escala Simpson - Berkjen.
+
+27. Navegando cercano al Caribe, un yate es atrapado por un huracán por el
+  semicírculo peligroso de éste en su cuadrante anterior.
+   Si el yate no procede a maniobrar, la mar y viento a:
+   a) Derivar hacia el vórtice.
+   b) Derivar hacia la periferia.
+   c) Derivar hacia el cuadrante peligroso posterior.
+   d) Derivar hacia afuera del huracán.
+
+28. La colisión del aire cálido de los anticiclones subtropicales con el aire frío de
+  los anticiclones polares, origina:
+   a) El Frente Ecuatorial.
+   b) El Frente Tropical.
+   c) El Frente Subtropical.
+   d) El Frente Polar.
+
+
+29. Los glaciares de las zonas y áreas terrestres árticas y antárticas, originan:
+   a) Los hielos de origen monzónicos.
+   b) Los hielos de origen marino.
+   c) Los hielos de origen fluvial.
+   d) Los hielos de origen terrestre.
+
+
+30. Zona o Área del Atlántico Norte, el régimen de vientos conocidos como
+  Oestes Dominantes, soplan:
+   a) De Oeste a Este desde aguas del Mar Caribe, hacia el Estrecho de Gibraltar.
+   b) De Oeste a Este desde aguas al Norte de Florida, hacia las Islas Canarias.
+   c) De Oeste a Este desde la costa oriental de USA hacia las costas europeas.
+   d) De Oeste a Este desde aguas del Mar Caribe hacia el Estrecho de Gibraltar.
+
+
+Unidad teórica 4 : INGLÉS (preguntas de la nº 31 a la nº 40)
+
+31. Areas which cannot be scanned by the radar of the vessel because they are
+    shielded by parts of its superstructure, masts, etc. are called…
+   a) Casualty
+   b) Blast
+   c) Blind sectors
+   d) Backing sections
+
+
+7/10                                                              C.Y. - Tipo 1
+                                                                       Tipo 1
+32. When it is necessary to indicate that the SMCP are to be used, the following
+  message may be sent:
+   a) Please use Simbolic Marine Communication Phrases
+   b) Please use Simbolic Maritime Communication Phrases
+   c) Please use Standard Marine Communication Points
+   d) Please use Standard Marine Communication Phrases
+
+33. When a vessel is crossing our course from starboard side, …
+   a) We will give way
+   b) We call her by INMARSAT
+   c) We need not give way
+   d) We call her by VHF
+
+34. When it is advisable to remain on a VHF Channel / frequency say:
+   a) Go on VHF Channel ... / frequency ... "
+   b) Hear in VHF Channel ... / frequency ... "
+   c) “Keep on VHF Channel ... / frequency ... "
+   d) "Stand by on VHF Channel ... / frequency ... "
+
+35. On-scene commander means
+   a) The commander of port operations
+   b) The commander of a rescue unit designated to co-ordinate search and rescue
+      operations within a specified area
+   c) The commander of a vessel traffic service
+   d) The commander of land shipping operation
+
+36. When you hear the message marker “request” it’s expected you
+   a) have to provide any kind of information
+   b) should answer a question
+   c) Have to abandon your ship
+   d) Have to follow an order
+
+37. In rescue operations, the word “hoist” indicates
+   a) a towing cable
+   b) A cable used by helicopters for lifting or lowering persons in a pick-up operation
+   c) The cable used to discharge static electricity from helicopters
+   d) Ropes supported by stanchions around an open hatch to prevent persons from
+       falling into a hold
+38. Windward means…
+   a) The general direction from which the wind blows; opposite of leeward
+   b) When a wind is permanently changing the direction from which it blows
+   c) When a wind blows round clockwise
+   d) When a wind blows round counterclockwise
+
+
+
+
+8/10                                                                 C.Y. - Tipo 1
+                                                                   Tipo 1
+39. If you want to indicate that the following message implies the intention of the
+  sender to inform others about danger, you have to use de message marker …
+   a) WARNING
+   b) ADVICE
+   c) INSTRUCTION
+   d) INFORMATION
+
+40. What is the correct sentence?
+   a) I have list to port of 20 degrees
+   b) I have inclination to port of 20 degrees
+   c) I have nod to port of 20 degrees
+   d) I have slope to port of 20 degrees
+
+
+
+
+9/10                                                             C.Y. - Tipo 1
+                   Tipo 1
+
+
+
+
+  CAPITAN DE YATE
+
+        TIPO 1
+
+
+
+10/10            C.Y. - Tipo 1
+

@@ -1,0 +1,477 @@
+          Región de M urcia
+          Consejería de Fom ento e Infraestructuras
+          Dirección General de M ovilidad y Litoral                           http://nautica.carm.es
+          Plaza Santoña, 6, 30071 Murcia
+
+MARZO- 2023
+
+                            CAPITÁN DE YATE                                                  Tipo 1
+- El examen de CAPITÁN DE YATE consta de 40 preguntas tipo test de formulación
+independiente entre sí, con cuatro respuestas alternativas siendo únicamente una
+válida. Contestar todas las preguntas, ya que no hay penalización para las erróneas.
+
+- Se corregirá con un doble criterio: 1º) globalmente y 2º) por módulos
+
+                                                                                        Condiciones APTO
+        Módulos                                Nº preguntas    Condiciones APTO
+                             Materias                                                    (Corrección por
+       Temáticos                                  examen       (Corrección global)
+                                                                                           módulos* )
+                             Teoría            10 preguntas:
+        Módulo de                                                   5 correctas            5 correctas
+                           navegación              1 - 10
+       navegación
+       (1 hora y 30        Cálculo de          10 preguntas:
+         minutos)                                                   6 correctas            6 correctas
+                           navegación             11 - 20
+
+                                               10 preguntas:
+       Módulo de          Meteorología                                                     5 correctas
+                                                  21 - 30
+        genérico
+
+         (1 hora)                              10 preguntas:
+                              Inglés                                                       5 correctas
+                                                  31 - 40
+
+
+             Total examen                      40 preguntas    28 correctas del total
+
+
+- Tiempo de realización del examen:
+    2 horas y 30 minutos para los dos Módulos temáticos (40 preguntas)
+    1 hora y 30 minutos para el Módulo de navegación (20 preguntas)
+    1 hora para el Módulo genérico (20 preguntas)
+
+
+                          MÓDULO DE NAVEGACIÓN
+Unidad teórica 1 : TEORÍA DE NAVEGACIÓN (preguntas de la nº 1 a la nº 10)
+
+1. ¿Indique el nombre del círculo menor que es paralelo al horizonte aparente de
+   un observador situado en la esfera celeste?
+    a) Almicantarat.
+    b) Codeclinación.
+    c) Colatitud.
+    d) Azimut.
+
+2. El arco de ecuador celeste contado desde el punto de Aries hasta el círculo
+   horario de una estrella, se denomina:
+    a) Angulo sidéreo.
+    b) Azimut aparente de aries.
+    c) Amplitud ecuatorial.
+    d) Equinocio.
+
+
+1/10
+3. En las coordenadas uranográficas ecuatoriales, intervienen dos arcos de
+   círculos máximos de la esfera celeste de referencia para estas coordenadas,
+   indíquelos:
+    a) El azimut y la altura verdadera.
+    b) La latitud y la longitud.
+    c) El ángulo sidéreo y la declinación.
+    d) El almicantarat y la distancia polar.
+
+
+4. El arco de meridiano que se cuenta desde la posición un observador en dicho
+   meridiano y su polo elevado, es:
+    a) La colatitud del observador.
+    b) La distancia polar del observador.
+    c) La codeclinación del observador.
+    d) Las respuestas a) y b) son correctas.
+
+
+5. Todo meridiano que situemos tanto en la esfera terrestre como en la celeste,
+   tiene:
+    a) Un meridiano opuesto.
+    b) Un meridiano inferior.
+    c) Un antimeridiano.
+    d) Todas las respuestas son correctas.
+
+
+6. La declinación de un astro en la esfera celeste, es un arco de círculo máximo
+   que se corresponde con:
+    a) Un arco que puede valer de 0º a 90º.
+    b) Un sentido cardinal que puede ser Norte o Sur.
+    c) Un arco del círculo horario del astro contado desde el ecuador celeste hasta el
+       paralelo de declinación del astro en concreto.
+    d) Todas las respuestas son correctas.
+
+
+7. Situados en la esfera celeste, el eje que va desde nuestra posición o zenit,
+   pasa por el centro de la esfera y sale a 180º de nosotros por el otro lado, se le
+   llama:
+    a) Eje del punto depreso (+90º).
+    b) Eje cardinal Este – Oeste.
+    c) Eje cardinal Norte – Sur.
+    d) Eje Zenit – Nadir (Z – Z´).
+
+
+8. El complemento de la altura verdadera que le tomamos a un astro (90º - Av.)
+   es:
+    a) La codeclinación.
+    b) La distancia zenital.
+    c) La colatitud.
+    d) La amplitud.
+
+
+
+                                                                                  2/10
+9. En la eclíptica, cuando el Sol se encuentra en el Punto de Aries o en el Punto
+   de Libra, su declinación vale:
+    a) 00º
+    b) -23º27
+    c) +23º27´
+    d) 15º
+
+10. La línea internacional del cambio de fecha, se corresponde con el meridiano:
+   a) 000º
+   b) 090º
+   c) 180º
+   d) 270º
+
+
+Unidad teórica 2 : CÁLCULO DE NAVEGACIÓN (preguntas de la nº 11 a la nº 20)
+
+Terminada la temporada de invierno en el Caribe, el catamarán <Costa Cálida
+regresa a España aprovechando los vientos Oestes Dominantes del Atlántico
+Norte.
+
+                           DIA 10 DE MARZO DE 2023
+
+Se encuentran en las Bahamas en un punto -A- de partida= 27º 24,0´N – 077º
+42,0´W hacia otro punto de llegada en la boca occidental del Estrecho de
+Gibraltar al Sur de Trafalgar= 36º 07,0´N – 006º 02,0´W y calculan:
+
+11. La distancia ortodrómica entre ambos puntos:
+
+   a) 3110,4 millas.
+   b) 3219,6 millas.
+   c) 3408,2´millas.
+   d) 3612,5 millas.
+
+12. De forma independiente y con los mismos datos coordenadas de salida y de
+    llegada, calculan el rumbo inicial ortodrómico en su valor circular:
+
+   a) 062º
+   b) 066º
+   c) 071º
+   d) 076º
+
+13. Encontrándose en el punto de partida= 27º 24,0´N – 077º 42,0´W a Hora Oficial
+    de Bahamas (H+1) = 0900, calculan la hora civil de Greenwich (HcG) de ese
+    instante:
+
+   a) 0800.
+   b) 0900.
+   c) 1300.
+   d) 1000.
+
+
+
+                                                                             3/10
+                           DIA 24 DE MARZO DE 2023
+
+Después de quince días navegando hacia Europa, hacen escala de descanso en
+la Isla de Do Pico en Azores.
+
+14. Después de zarpar de la marina de Do Pico, a hora civil de Greenwich= 2310,
+    se encuentran en situación estimada= 38º 10,0´N – 028º 10,0´W y calculan el
+    horario en Greenwich de Aries (HGY) de ese momento:
+
+   a) 168º 42,3´
+   b) 169º 39,8´
+   c) 170º 43,9´
+   d) 171º 59,6´
+
+15. A hora civil de Greenwich= 2330 con cielos despejados y buena visibilidad
+    nocturna, su situación de estima es 38º 08,0´N – 028º 07,0´W y tras obtener el
+    horario en Greenwich de Aries para ese momento= 174º40,6´ calculan el
+    horario en Greenwich de la estrella <Spica= (principal de la constelación de
+    Virgo):
+
+   a) 333º 04,2´
+   b) 016º 17,0´
+   c) 158º 23,6´
+   d) 174º 40,6´
+
+
+                           DIA 25 DE MARZO DE 2023
+
+16. Continúan navegando sin novedad con viento NNW establecido y marejada
+    por la aleta de babor y a hora civil de Greenwich= 0920 y situación estimada=
+    37º 41,0´N – 027º 05,0´W, obtienen el valor del horario en Greenwich de
+    Aries= 322º 34,8´ y calculan el valor del ángulo en el polo con la estrella
+    <Vega= (de la constelación de la Lira):
+
+   a) 70º 14,6´E
+   b) 16º 04,6´E
+   c) 70º 14,6´W
+   d) 16º 04,6´W
+
+17. A hora civil de Greenwich= 0940 en situación de estima= 37º 39,0´N – 027º
+    01,0´W, obtienen de la estrella <Vega= ángulo en el Polo= 21º 09,0´W y
+    utilizando las fórmulas que resuelven los ángulos y sus complementos del
+    triángulo de posición, calculan el azimut verdadero a esta estrella en su valor
+    circular:
+
+   a) 280,5º
+   b) 259,3º
+   c) 100,4º
+   d) 070,6º
+
+
+
+                                                                               4/10
+18. A hora civil de Greenwich= 1210 coincidiendo con el crepúsculo matutino,
+    están en situación estimada= 37º 26,0´N – 26º 43,0’ W y toman altura
+    instrumental a la estrella <Deneb= (principal de la constelación de Cygnus) =
+    67º 47,9´ (elevación del observador= 3 metros y erro de índice= - 4´) y
+    calculan el valor de la altura verdadera de esa estrella:
+
+   a) 67º 35,2´
+   b) 67º 40,4’
+   c) 67º 54,5´
+   d) 67º 58,3’
+
+19. A esa misma hora civil de Greenwich (1210), la misma ESTRELLA (<Deneb=)
+    y habiendo calculado previamente el valor del ángulo en el polo= 27º 55,6´W,
+    utilizando las fórmulas que resuelven los lados y sus complementos del
+    triángulo de posición, calculan el valor de la altura estimada de la estrella
+    referida (<Deneb=) en ese momento:
+
+   a) 67º 40,4´
+   b) 67º 35,2´
+   c) 67º 44,4´
+   d) 67º 54,3´
+
+
+                          DIA 26 DE MARZO DE 2023
+
+
+20. A hora civil de Greenwich=1230, en el crepúsculo vespertino anocheciendo,
+    con cielos despejados y buena definición de la línea del horizonte, se
+    encuentran en situación estimada= 37º 05,0´N – 024º 20,0´W y aprovechan la
+    oportunidad para tomar alturas simultáneas y calcular las determinantes de
+    las rectas a las estrellas:
+    <Fomalhaut= (principal de la constelación de Austrinos) = Diferencia de
+       alturas +5´y azimut verdadero 228º.
+    <Alpheratz= (principal de la constelación de Andrómeda) = diferencia de
+       alturas +4´y azimut verdadero 276º.
+
+   Y rectifican la situación de estima por alturas simultáneas a dos estrellas
+   utilizando el sistema gráfico:
+
+   a) 37º 02,4´N – 024º 25,4´W
+   b) 37º 05,6´N – 024º 28,2´W
+   c) 37º 07,6´N – 024º 30,5´W
+   d) 37º 00,0´N – 024º 22,2´W
+
+
+
+
+                                                                             5/10
+                        MÓDULO GENÉRICO
+
+Unidad teórica 3 : METEOROLOGÍA (preguntas de la nº 21 a la nº 30)
+
+
+21. Los Doldrums o zona ITCZ se corresponden con:
+
+   a) La zona que rodea a la Tierra próxima al ecuador y coincide con el cinturón de
+      las bajas presiones.
+   b) Es la zona de los vientos alisios que provienen de las borrascas tanto del
+      hemisferio Norte como del Sur.
+   c) Corresponde a la zona o área de los vientos Oestes dominantes en el
+      hemisferio Norte y en el Sur.
+   d) Es la zona de las calmas polares cercanas a las regiones árticas o antárticas.
+
+
+22. Tanto en el hemisferio Norte como en el hemisferio Sur, el fenómeno de los
+    ciclones o huracanes se forman entre los paralelos de ambos hemisferios
+    correspondientes a:
+
+   a) 20º y 30º
+   b) 8º y 15º
+   c) Entre los 0º del ecuador y los 10º Norte o Sur.
+   d) Por encima de los 30º al Norte o al Sur.
+
+
+23. En el Atlántico tropical Norte, un huracán nos atrapa por su sector peligroso,
+    los vientos tenderán a:
+
+   a) Empujar hacia la parte posterior del sector.
+   b) Separarnos del ojo o vórtice del huracán.
+   c) Nos empujaran hacia el Vórtice
+   d) Arrastrarnos hacia el semicírculo manejable.
+
+
+24. Con respecto a la tromba marina y al tornado:
+
+   a) Ambos fenómenos son debidos a la estabilidad convectiva en la atmósfera
+      circundante.
+   b) La tromba es más violenta y extensa que el tornado.
+   c) Son dos fenómenos similares, la tromba en el mar con menos violencia y el
+      tornado en tierra firme con mayor poder devastador
+   d) La tromba se forma en las zonas costeras y los tornados en alta mar o zonas
+      oceánicas.
+
+
+
+
+                                                                                6/10
+25. Cuando se forma y evoluciona un chubasco de lluvia y viento intenso, se
+    produce:
+
+   a) Que el aire frio contacta con el cálido creándose una línea de inestabilidad.
+   b) Que el aire cálido al elevarse, contacta con el frio y la humedad que lleva el
+      cálido se condensa de forma rápida.
+   c) La formación de nubes convectivas de desarrollo vertical del tipo cumulonimbos.
+   d) Todas las respuestas son correctas.
+
+
+26. ¿Cuál es la capa de la atmosfera terrestre donde se reflejan las ondas
+    hertzianas del tipo onda media (MF) y onda corta (HF)?
+
+   a) La Electrosfera.
+   b) La Ionosfera.
+   c) La Radiosfera.
+   d) La Magnetosfera.
+
+27. La corriente marina de Benguela (Atlántico Sureste) es desde el punto de
+    vista térmico:
+
+   a) Fría.
+   b) Cálida.
+   c) Templada.
+   d) Fría en invierno y templada en verano.
+
+28. Los hielos flotantes del tipo ICE-PACK tiene como origen:
+
+   a) Tierra firme.
+   b) El mar.
+   c) Los ríos helados en otoño.
+   d) Solo se originan en la zona antártica.
+
+29. El estrato de la atmósfera terrestre que hace de unión entre la troposfera y la
+    estratosfera, se le conoce como:
+
+   a) La Mesosfera.
+   b) La Tropopausa.
+   c) La Ionosfera.
+   d) La Ozonosfera.
+
+30. El régimen de los vientos monzónicos es originario de:
+
+   a) Área del Japón y las Islas Aleutianas del Pacífico Norte, soplando de Norte a
+      Sur todo el año.
+   b) Área del Sur de Australia y Nueva Zelanda soplando desde la Antártida hacia el
+      Norte en invierno y hacia el Sur en verano.
+   c) Océano Indico Zona de la India y Sudeste Asiático, soplando desde el Mar a
+      tierra en verano y de tierra al mar en invierno.
+   d) Área del Atlántico Su, soplando de Sudamérica a África en invierno y de
+      Sudáfrica a Sudamérica en invierno.
+                                                                                 7/10
+Unidad teórica 4 : INGLÉS (preguntas de la nº 31 a la nº 40)
+
+
+31. When using IMO´s Standard Marine Communication Phrases, if you want
+permission for using the shallow draft fairway, you should say
+
+      a) <ANSWER. Can I have permission to use the shallow draft fairway at this time=
+      b) <QUESTION. Can I have permission to use the shallow draft fairway at this time
+      c) <QUESTION. Do I have permission to use the shallow draft fairway at this time=
+      d) <QUESTION. May I have permission to use the shallow draft fairway at this
+         time=
+
+
+32.     Are the phrases of the IMO´s Standard Marine Communication Phrases
+      intended to supplant or contradict the International Regulations for
+      Preventing Collisions at Sea, 1972
+
+      a) Yes
+      b) Just for merchant vessels
+      c) For the whole vessels
+      d) No
+
+
+33. When you listen the following message <Diving operations by vessel XX=
+    you know
+
+      a) Towing operations in progress
+      b) There are Shipping operations
+      c) There are towing operations
+      d) There are persons under water
+
+
+34. When a vessel is crossing our course from starboard side, …
+
+      a) We need not give way
+      b) We will give way
+      c) We call her by INMARSAT
+      d) We call her by VHF
+
+
+35. On-scene commander means
+
+      a) The commander of port operations
+      b) The commander of a rescue unit designated to co-ordinate search and rescue
+         operations within a specified area
+      c) The commander of a vessel traffic service
+      d) The commander of land shipping operation
+
+
+
+
+                                                                                    8/10
+36. Courses always to be expressed
+
+   a) in 360 degree notation from true north
+   b) in 360 degree notation from relative north
+   c) in 360 degree notation from magnetic north
+   d) in 360 degree notation from relative north
+
+
+37. In rescue operations, the word <hoist= indicates
+
+   a) A towing cable
+   b) Ropes supported by stanchions around an open hatch to prevent persons from
+      falling into a hold
+   c) A cable used by helicopters for lifting or lowering persons in a pick-up operation
+   d) The cable used to discharge static electricity from helicopters
+
+
+38. Areas which cannot be scanned by the radar of the vessel because they are
+    shielded by parts of its superstructure, masts, etc. are called…
+
+   a) Casualty
+   b) Blind sectors
+   c) Blast
+   d) Backing sections
+
+
+39. When you hear the message marker <request= it’s expected you
+
+   a) should answer a question
+   b) have to abandon your ship
+   c) have to provide any kind of information
+   d) have to follow an order
+
+
+
+40. Windward means…
+
+   a) When a wind is permanently changing the direction from which it blows
+   b) The general direction from which the wind blows; opposite of leeward
+   c) When a wind blows round clockwise
+   d) When a wind blows round counterclockwise
+
+
+
+
+                                                                                     9/10
+CY - TIPO 1
+
+
+
+              10/10
+

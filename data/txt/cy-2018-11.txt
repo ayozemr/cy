@@ -1,0 +1,471 @@
+          Región de M urcia
+          Consejería de Fom ento e Infraestructuras
+          Dirección General de Transportes, Costas y Puertos                  http://nautica.carm.es
+          Plaza Santoña, 6, 30071 Murcia
+
+NOVIEMBRE - 2018
+                             CAPITÁN DE YATE                                                   Tipo 1
+- El examen de CAPITÁN DE YATE consta de 40 preguntas tipo test de formulación
+independiente entre sí, con cuatro respuestas alternativas siendo únicamente una válida.
+Contestar todas las preguntas, ya que no hay penalización para las erróneas.
+
+- Se corregirá con un doble criterio: 1º) globalmente y 2º) por módulos
+
+                                                                                        Condiciones APTO
+        Módulos                               Nº preguntas     Condiciones APTO
+                            Materias                                                     (Corrección por
+       Temáticos                                 examen        (Corrección global)
+                                                                                           módulos* )
+                             Teoría           10 preguntas:
+        Módulo de                                                   5 correctas             5 correctas
+                           navegación             1 - 10
+       navegación
+       (1 hora y 30        Cálculo de         10 preguntas:
+         minutos)                                                   6 correctas             6 correctas
+                           navegación            11 - 20
+
+                                              10 preguntas:
+       Módulo de          Meteorología                                                      5 correctas
+                                                 21 - 30
+        genérico
+
+         (1 hora)                             10 preguntas:
+                              Inglés                                                        5 correctas
+                                                 31 - 40
+
+
+             Total examen                     40 preguntas     28 correctas del total
+
+
+- Tiempo de realización del examen:
+     2 horas y 30 minutos para los dos Módulos temáticos (40 preguntas)
+     1 hora y 30 minutos para el Módulo de navegación (20 preguntas)
+     1 hora para el Módulo genérico (20 preguntas)
+
+
+                         MÓDULO DE NAVEGACIÓN
+Unidad teórica 1 : TEORÍA DE NAVEGACIÓN (preguntas de la nº 1 a la nº 10)
+
+1. Si al observar un astro para hacer la recta de altura, nos encontramos sobre el
+   círculo de alturas iguales, nos encontramos sobre…
+
+   a) el ángulo sidéreo del astro.
+   b) el Círculo de Aries.
+   c) un almicantarat.
+   d) siempre estaremos sobre el Ecuador.
+
+2. Cuando decimos "primer punto de Aries", nos estamos refiriendo a ...
+
+   a) Un ángulo cenital.
+   b) Un punto celeste de referencia para localizar las estrellas observables.
+   c) El punto de inicio de un arco de horizonte.
+   d) El punto cenital del azimut de un astro.
+
+
+1/10                                                                                    C.Y. - Tipo 1
+                                                                         Tipo 1
+3. Sobre la esfera celeste un yate se encuentra en un meridiano celeste concreto y en
+   ese instante, un astro se encuentra en su círculo horario correspondiente.
+   ¿Cómo se llama el arco de Ecuador celeste entre el meridiano celeste del observador
+   y el círculo horario del astro?
+
+   a) Horario en Greenwich del observador.
+   b) Horario del lugar.
+   c) Horario en Greenwich del astro.
+   d) Horario sidéreo.
+
+4. Un observador sobre la esfera celeste se encuentra en la latitud 40º N.
+   ¿Cuál es su polo elevado y cuánto vale su colatitud?
+
+   a) Polo Norte celeste - 50º
+   b) Polo Sur celeste – 130º
+   c) Polo Norte celeste - 130º
+   d) Polo Sur celeste – 50º
+
+5. El huso horario marca la hora de huso (Hz) u hora legal (HI).
+ ¿Cuál será la diferencia máxima de tiempo que puede haber entre esa hora del huso y
+   la hora civil del lugar (HcI) de cualquier punto dentro del huso?
+
+   a)   Una hora
+   b) 7,5 minutos
+   c) 15 minutos
+   d) 30 minutos
+
+6. Las cartas de navegación especiales que publica el Departamento de Hidrografía de
+   la US Navy para cada mes del a�o y que cubren el Atlántico Norte y Sur, el Pacífico
+   Norte y Sur y el Índico, con información detallada náutica y meteorológica, son
+   conocidos como…
+
+   a) Los "Pilot Charts" de la US Navy.
+   b) Los "Avisos a Navegantes" de la US Navy.
+   c) Los "Inmarsat - Courses" de UK Navy.
+   d) Los "Asdics - Charts" de UK N
+
+7. El crepúsculo vespertino ocurre...
+
+   a) Dos veces al año coincidiendo con los equinoccios.
+   b) Dos veces al año coincidiendo con los solsticios.
+   c) Todos los días del año después del Ocaso del Sol.
+   d) Todos los dias del año antes del Orto del Sol.
+
+8. La máxima altura observable de un astro con el sextante, se produce al...
+
+   a) paso del astro por el horizonte en el Orto.
+   b) paso del astro por el horizonte, al Ocaso.
+   c) paso del astro por el meridiano opuesto del Observador.
+   d) paso del astro por el meridiano superior del observador.
+
+
+2/10                                                                   C.Y. - Tipo 1
+                                                                          Tipo 1
+9. La estrella "Alkaid" pertenece a la constelación ... :
+
+   a) Osa o Carro Menor.
+   b) Orión.
+   c) Osa o Carro Mayor.
+   d) Casiopea.
+
+10. Al arco de círculo máximo de la esfera terrestre que pasa por dos puntos de una ruta
+directa, se le conoce como…
+
+   a) Arco ortodrómico.
+   b) Arco loxodrómico.
+   c) Arco nomónico.
+   d) Arco de latitudes aumentadas.
+
+
+Unidad teórica 2 : CÁLCULO DE NAVEGACIÓN (preguntas de la nº 11 a la nº 20)
+
+El Yate "Dehler" tipo Goleta, de 24 metros de eslora, se encuentra amarrado en la Marina de
+Puerto Rubicón de Lanzarote (Canarias) con un grupo de Capitanes de Yate en Crucero de
+Perfeccionamiento por aguas del Atlántico.
+
+   -   16 de Noviembre de 2018
+
+Estudian la derrota ortodrómica entre un punto -A- cercano a Marina Rubicón de
+posición = 28º 50'N – 013º 56'W hacia otro punto a barlovento de la Isla de Santa Lucia
+(destino el Caribe) de posición = 13º 53'N - 060º 58'W.
+Calculan
+
+11. Distancia ortodrómica entre ambos puntos
+
+   a) 2186,20 millas náuticas.
+   b) 2320,10 millas náuticas.
+   c) 2548,40 millas náuticas.
+   d) 2756,69 millas náuticas.
+
+12. Rumbo inicial (Ri) ortodrómico (en su valor circular) de dicha derrota
+
+   a) Ri= 261º
+   b) Ri = 253º
+   c) Ri = 268º
+   d) Ri = 276º
+
+
+   -   17 de Noviembre de 2018, por la mañana
+
+Tras zarpar de Marina Rubicón por la tarde del día 16, el día 17, a hora civil de
+Greenwich (HCG)= 1040, se encuentran en situación estimada= 28º 30'N – 014º 40'W,
+navegando sin novedad hacia el Caribe y de forma simultánea e independientemente,
+proceden:
+
+
+
+
+3/10                                                                   C.Y. - Tipo 1
+                                                                          Tipo 1
+13. A tomar altura instrumental al Sol (limbo inferior)= 33º 43,8' (elevación del
+   observador= 3 metros y corrección de índice= -3') y calculan la altura verdadera (av)
+
+   a) av= 33º 56,7'
+   b) av= 33º 54,3'
+   c) av= 33º 52,4'
+   d) av= 33º 50,2'
+
+14. Con horario en Greenwich del Sol (HG0)= 343º 46,0', en la misma situación de
+    estima, un ángulo en el polo con el Sol (P) de= 30º 54,0' (E) y una declinación del Sol
+    (δ0) de= -19º 01,2'; utilizando las fórmulas que definen el triángulo de posición,
+    calculan el valor de la altura estimada al Sol (aeʘ)
+
+   a) aeʘ = 33º 46,3'
+   b) aeʘ = 33º 54,3'
+   c) aeʘ = 33º 52,4'
+   d) aeʘ = 33º 50,2'
+
+15. Y de forma simultánea y con todos los datos anteriores necesarios, proceden a
+    calcular el azimut verdadero del Sol (Zv)
+
+   a) Zv= 144º
+   b) Zv= 156º
+   c) Zv= 132º
+   d) Zv= 130º
+
+
+   -   17 de Noviembre de 2018 por la mañana
+
+A hora civil de Greenwich (HCG)= 1100, se encuentran en situación estimada= 28º 27,2'N
+– 014º 42,8’W y habiendo calculado las determinantes de la recta de altura al Sol:
+            Diferencia de alturas (Ʌa)= +4'
+            Azimut verdadero (Zv)= 149º
+Proceden a:
+
+16. Rectificar la posición del yate con una sola recta de altura al Sol (punto aproximado)
+   utilizando el método gráfico, obteniendo posición rectificada
+
+   a) 28º 25,8'N – 014º 42,3'W
+   b) 28º 23,9'N – 014º 40,5'W
+   c) 28º 21,3'N – 014º 38,9'W
+   d) 28º 20,2'N – 014º 36,7'W
+
+
+
+
+4/10                                                                   C.Y. - Tipo 1
+                                                                        Tipo 1
+   -   18 de Noviembre de 2018, en el crepúsculo vespertino
+
+Continúan navegando sin novedad hacia el Caribe y a hora civil de Greenwich (HCG)=
+1800, se encuentran en situación de estima= 27º40'N – 017º 40'W y toman altura
+instrumental a la estrella Vega= 62º 23,7' siendo la elevación del observador= 3 metros y
+corrección de índice= -3' y proceden a calcular
+
+17. La altura verdadera (av) de Vega
+
+   a) av Vega= 62º 31,5'
+   b) av Vega= 62º 10,2'
+   c) av Vega= 62º 24,3’
+   d) av Vega= 62º 17,1’
+
+18. De forma simultánea, y en la misma situación de estima y HCG, con declinación de
+    la estrella Vega= +38º 48,4', ángulo sidéreo (AS) de Vega= 80º 36,8', calculan el
+    horario en Greenwich de Vega (HG* Vega)
+
+   a) HG* Vega= 048º 20,4’
+   b) HG* Vega= 050º 40,8’
+   c) HG* Vega= 036º 50,4’
+   d) HG* Vega= 054º 30,4’
+
+19. Y también de forma simultánea y utilizando los datos anteriores necesarios, calculan
+    el valor del ángulo en el Polo ( ɅP ) de Vega, en ese momento
+
+   a) ɅP= 30º 40,4’ N
+   b) ɅP= 30º 40,4’ E
+   c) ɅP= 30º 40,4’ S
+   d) ɅP= 30º 40,4’ W
+
+   -   18 de Noviembre de 2018, ya anochecido
+
+A hora civil de Greenwich (HCG)= 2000, se encuentran en situación estimada= 27º 33'N -
+017º 56'W y obtienen los datos de la recta de altura de la estrella "Diphda" siguientes:
+              • Diferencia de alturas (Ʌa)= -5'
+              • Azimut verdadero (Zv)= 142º
+
+20. Proceden a rectificar la posición del yate con una sola recta de altura a estrella
+    (punto aproximado) utilizando el método gráfico, obteniendo una posición
+    rectificada de
+
+   a) 27º 37'N - 017º 59'W
+   b) 27º 40'N - 018º 02'W
+   c) 27º 35'N - 017º 57'W
+   d) 27º 33'N – 017º 55'W
+
+
+
+
+5/10                                                                  C.Y. - Tipo 1
+                                                                             Tipo 1
+                          MÓDULO GENÉRICO
+
+Unidad teórica 3 : METEOROLOGÍA (preguntas de la nº 21 a la nº 30)
+
+21. Los ciclones o huracanes llevan trayectorias características...
+
+   a) En el hemisferio Norte, llevan trayectoria hacia el W o NW y después se recurvan hacia
+      el N o NE.
+   b) En el hemisferio Sur, van hacia el W o WSW y luego recurvan al SE.
+   c) Las trayectorias que siguen, son idénticas en su dirección en los dos hemisferios.
+   d) Las respuestas a) y b) son correctas.
+
+22. Los vientos alisios en el Atlántico Norte circulan en dirección...
+
+   a) En las zonas tropical y subtropical. desde el E hacia el W.
+   b) En las zonas tropical y subtropical, desde el W hacia el E.
+   c) En las zonas tropical y subtropical, desde el N hacia el S.
+   d) En las zonas tropical y subtropical, desde el S hacia el N.
+
+23. En el Atlántico Norte, discurre una corriente marina de agua templada, desde Florida
+    y la costa oriental de Estados Unidos, hacia las costas de Europa, a la que se le
+    denomina ... :
+
+   a) Corriente atlántica de América del Norte.
+   b) Corriente del Golfo o del Atlántico Norte.
+   c) Corriente de los Alisios.
+   d) Corriente de los contralisios.
+
+24. El régimen de vientos característico del océano Índico es…
+
+   a) El monzón de invierno que es seco y fresco y sopla de tierra al Mar.
+   b) El monzón de verano que es cálido y húmedo y sopla del Mar hacia tierra.
+   c) El alisio desde África al Sudeste Asiático y el oeste dominante desde Australia a África.
+   d) Las respuestas a) y b) son correctas.
+
+25. En aguas del océano Indico Sur, los icebergs se pueden encontrar a partir del
+   paralelo…
+
+   a) 70º Sur
+   b) 60º Sur
+   c) 50º Sur
+   d) 30º Sur
+
+26. Los signos característicos (entre otros) de la presencia de hielos flotantes en el Mar,
+   son...
+
+   a) Disminución brusca de la temperatura ambiente.
+   b) El cielo se torna blanquecino o amarillento, aún de noche.
+   c) La Mar está brava y con fuerte oleaje.
+   d) Las respuestas a) y b) son correctas.
+
+6/10                                                                       C.Y. - Tipo 1
+                                                                               Tipo 1
+27. En las trombas o mangas marinas, las nubes asociadas a dicho fenómeno son...
+
+   a) Cumulonimbos.
+   b) Estratocúmulos.
+   c) Cirrocúmulos.
+   d) Estratocúmulos.
+
+
+28. Cuando dos masas de aire en contacto están en equilibrio inestable, se
+    desarrollará...
+
+   a) fuego de San Telmo.
+   b) chubasco o tormenta.
+   c) niebla de advección.
+   d) ciclón o huracán.
+
+29. En los hielos marinos flotantes, la proporción aproximada que aflora por encima del
+    agua respecto a su volumen o masa total es de…
+
+   a) 1/2 parte
+   b) 2/5 partes
+   c) 1/9 partes
+   d) 1/7 partes
+
+30. Los halos o coronas, son fenómenos que se producen con el Sol o la luna cuando…
+
+   a) Se está dentro de un frente frio.
+   b) Se está dentro de un frente cálido.
+   c) Se está dentro de un frente estacionario.
+   d) Se está dentro de un frente ocluido.
+
+
+
+Unidad teórica 4 : INGLÉS (preguntas de la nº 31 a la nº 40)
+
+31. Windward means…
+
+   a) The general direction from which the wind blows; opposite of leeward
+   b) When a wind is permanently changing the direction from which it blows
+   c) When a wind blows round clockwise
+   d) When a wind blows round counterclockwise
+
+32. If any part of a message is considered sufficiently important to need safeguarding,
+     say:
+
+   a) "Say again ... " -followed by the corresponding part of the message
+   b) "Go again ... " -followed by the corresponding part of the message.
+   c) "Repeat ... " -followed by the corresponding part of the message.
+   d) "Speak again ... " -followed by the corresponding part of the message.
+
+
+
+
+7/10                                                                     C.Y. - Tipo 1
+                                                                          Tipo 1
+33. If you need to enter a fairway and you want permission from the Control Station, you
+     have to ask with the sentence
+
+   a) "May I enter fairway?"
+   b) "Can I enter fairway?"
+   c) QUESTION. “Is it permitted to enter fairway?"
+   d) QUESTION: "Can I enter fairway?"
+
+34. The correct word for moving of an anchor over the sea bottom involuntarily because
+    it is no longer preventing the movement of the vessel is:
+
+       a) Dredging (of anchor)
+       b) Dragging (of anchor)
+       c) Shifting (of anchor)
+       d) Spill
+
+35. If you want to indicate that the following message informs others about
+    immediate navigational action intended to be taken, you use the Message
+    Marker
+
+   a) Warning
+   b) Instruction
+   c) Information
+   d) Intention
+
+36. In case of death or serious injury to a person in an accident or shipping disaster, the
+     right word to be used is
+
+   a) Accident
+   b) Casualty
+   c) Safety problem
+   d) Life danger
+
+37. What message marker indicates that the following message is of interrogative
+   character?
+
+   a) ANSWER
+   b) QUESTION
+   c) REQUEST
+   d) INTENTION
+
+38. If you want to indicate that the following message implies the intention of the sender
+   to inform others about danger, you have to use de message marker …
+
+   a) WARNING
+   b) ADVICE
+   c) INSTRUCTION
+   d) INFORMATION
+
+
+
+
+8/10                                                                    C.Y. - Tipo 1
+                                                                         Tipo 1
+
+
+39. In rescue operations, the word <hoist= indicates
+
+   a) A towing cable
+   b) Ropes supported by stanchions around an open hatch to prevent persons from falling
+      into a hold
+   c) The cable used to discharge static electricity from helicopters
+   d) A cable used by helicopters for lifting or lowering persons in a pick-up operation
+
+
+40. What is the correct sentence?
+    a) I have list to port of 20 degrees
+    b) I have inclination to port of 20 degrees
+    c) I have nod to port of 20 degrees
+    d) I have slope to port of 20 degrees
+
+
+
+
+9/10                                                                   C.Y. - Tipo 1
+                   Tipo 1
+
+
+
+
+ CAPITAN DE YATE:
+
+        TIPO 1
+
+
+10/10            C.Y. - Tipo 1
+

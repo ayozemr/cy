@@ -1,0 +1,466 @@
+       Región de Murcia
+       Consejería de Fomento e Infraestructuras
+       Dirección General de Litoral y Puertos                              http://nautica.carm.es
+       Plaza Santoña, 6, 30071 Murcia
+
+
+
+MARZO-2025               CAPITÁN DE YATE                                             Tipo 1
+- El examen de CAPITÁN DE YATE consta de 40 preguntas tipo test de formulación
+independiente entre sí, con cuatro respuestas alternativas siendo únicamente una
+válida. Contestar todas las preguntas, ya que no hay penalización para las erróneas.
+
+- Se corregirá con un doble criterio: 1º) globalmente y 2º) por módulos
+
+                                                                                     Condiciones APTO
+      Módulos                               Nº preguntas    Condiciones APTO
+                          Materias                                                    (Corrección por
+     Temáticos                                 examen       (Corrección global)
+                                                                                        módulos* )
+                          Teoría            10 preguntas:
+     Módulo de                                                   5 correctas            5 correctas
+                        navegación              1 - 10
+    navegación
+    (1 hora y 30        Cálculo de          10 preguntas:
+      minutos)                                                   6 correctas            6 correctas
+                        navegación             11 - 20
+
+                                            10 preguntas:
+     Módulo de         Meteorología                                                     5 correctas
+                                               21 - 30
+      genérico
+
+      (1 hora)                              10 preguntas:
+                           Inglés                                                       5 correctas
+                                               31 - 40
+
+
+          Total examen                      40 preguntas    28 correctas del total
+
+
+- Tiempo de realización del examen:
+    2 horas y 30 minutos para los dos Módulos temáticos (40 preguntas)
+    1 hora y 30 minutos para el Módulo de navegación (20 preguntas)
+    1 hora para el Módulo genérico (20 preguntas)
+
+
+                       MÓDULO DE NAVEGACIÓN
+
+Unidad teórica 1 : TEORÍA DE NAVEGACIÓN (preguntas de la nº 1 a la nº 10)
+
+1. El azimut náutico…
+
+   a) Se mide siempre desde el Norte hacia el Oeste pudiendo tomar valore entre
+      0º y 360º.
+   b) Se mide siempre desde el Norte hacia el Este pudiendo tomar valores entre
+      0º y 360º.
+   c) Se mide siempre desde Norte hacia el Oeste pudiendo tomar valores
+      únicamente entre 0º y 90º.
+   d) Se mide siempre desde el Norte hacia el Este pudiendo tomar valores
+      únicamente entre 0º y 90º.
+2. Con respecto a la Constelación de Orión:
+
+   a) Toda ella se ubica en el hemisferio Norte celeste.
+   b) Toda ella se ubica en el hemisferio Sur celeste.
+   c) La mitad de ella se ubica en el hemisferio Norte y la otra mitad en el hemisferio
+      Sur.
+   d) Solo la estrella Rigel se encuentra en el hemisferio Sur.
+
+3. A la proyección sobre la Esfera Celeste de la elipse que recorre el movimiento
+    aparente del Sol alrededor de la tierra a lo largo de un año se la conoce
+    como:
+
+   a) Aries.
+   b) Eclíptica.
+   c) Libra.
+   d) Declinación.
+
+4. Si nuestra latitud es sur, en un astro con declinación norte (d < 90º - latitud):
+
+   a) Su arco diurno será mayor que el nocturno.
+   b) Su arco diurno será igual que el nocturno.
+   c) Su arco diurno será menor que el nocturno.
+   d) Ninguna de las respuestas anteriores es correcta.
+
+5. El zénit representa:
+
+   a) La proyección del observador en la esfera celeste.
+   b) La proyección del astro en la esfera celeste.
+   c) La proyección del astro en la esfera terrestre.
+   d) El punto más alto que alcanza un astro en su movimiento aparente.
+
+6. La Hora Legal…..
+
+   a) Es el tiempo regulado por el Sol medio y es equivalente a la Hora Civil en
+      Greenwich.
+   b) Es la correspondiente al huso horario.
+   c) Es la hora oficial que se usa en cada Estado.
+   d) Es el tiempo transcurrido desde que el Sol verdadero pasó por el meridiano
+      superior de Greenwich.
+
+7. El Tiempo Universal…..
+
+   a) Es muy importante porque se usa como base para regular la hora en todo el
+      mundo.
+   b) Es equivalente a la hora civil de Greenwich.
+   c) Es muy importante porque es el parámetro de entrada de muchos datos del
+      Almanaque Náutico.
+   d) Todas las respuestas anteriores son ciertas.
+
+
+
+
+                          2/10
+8. Diga cuál de las siguientes formas para localizar la estrella Polar es correcta:
+
+   a) Con la enfilación de Betelgeuse y Rigel de la constelación de Orión.
+   b) Con el punto de corte de las bisectrices de los ángulos de la constelación
+      Cassiopea.
+   c) En la enfilación de las estrellas Alioth y Dubhe de la constelación de la Osa
+      Mayor.
+   d) Ninguna es cierta.
+
+9. El error de índice del sextante:
+
+   a) No influye en las observaciones del Sol.
+   b) No influye en las observaciones de estrellas
+   c) Su valor es siempre negativo porque es un error.
+   d) Influye tanto para el Sol como las estrellas y su valor puede ser negativo o
+      positivo.
+
+
+10. Señale cuál de las siguientes expresiones relativa al triángulo esférico de
+    posición de un astro es correcta:
+
+   a) Los lados son: colatitud, distancia cenital y codeclinación.
+   b) Los ángulos son: en el Polo el horario astronómico, en el Astro el ángulo
+      paraláctico y en el Zenit el azimut astronómico.
+   c) Los vértices son: el Polo elevado, el Astro y el Zenit.
+   d) Todas las anteriores son correctas.
+
+
+Unidad teórica 2 : CÁLCULO DE NAVEGACIÓN (preguntas de la nº 11 a la nº 20)
+
+
+11. El día 15 de marzo de 2025 estando situados en longitud de estima Le=003º
+    20’ E calcular la hora UTC de paso del Sol por el meridiano superior del
+    lugar.
+
+   a) UTC = 11h 55,5m (15.03)
+   b) UTC = 12h 22,1m (15.03)
+   c) UTC = 11h 50,6m (15.03)
+   d) UTC = 12h 15,5m (16.03)
+
+
+
+
+                          3/10
+12. El día 15 de Marzo del 2025, al ser UT = 21h 15m 00s, en situación de estima:
+    le = 40º 15’ N Le = 003º 20’ E.
+    Calcular la declinación de la estrella Canopus (nº31) mediante la hoja del
+    cartoncillo anexo al almanaque para estrellas del año 2025.
+
+   a) d = 59º 12,5` N
+   b) d = 52º 42,6’ S
+   c) d = 59º 12,5´ S
+   d) d = 52º 42,6` N
+
+
+13. El día 15.03.2025, a las 21:00:00 UTC encontrándonos en situación estimada
+    le = 45º 30’ N y Le= 003º 20 `E se observa la estrella Sirius (nº33),
+    obteniéndose la altura verdadera av = 21º 55,0’ siendo el ángulo en el polo
+    de la estrella P = 30º 29,2’. Calcular la diferencia de alturas (Δa).
+
+   a) Δa = + 1.7’
+   b) Δa = + 3,9’
+   c) Δa = -1.70’
+   d) Δa = - 3,9’
+
+
+14. El día 15.03.2025, se observa el Sol limbo inferior con altura instrumental aiʘ
+    = 34º 06’. Error de índice Ei = 2` (-). Elevación del observador Eo = 5 metros.
+    Calcular la altura verdadera del Sol (avʘ).
+
+   a) avʘ= 34º 14,8’
+   b) avʘ= 33º 18,8’
+   c) avʘ= 34º 17,8’
+   d) avʘ= 34º 09,8’
+
+
+15. El día 15 de marzo de 2025 estamos en situación estimada le = 45º 15’ N y Le:
+    003 20`E, siendo el Ángulo en el Polo de la estrella Regulus (nº 50) P = 38º
+    47,8’ y su declinación d= +11º 50,5’.Calcular su azimut náutico (Zn).
+
+   a) Zn = 237,1º
+   b) Zn = 221,7º
+   c) Zn = 122,9º
+   d) Zn = 057,1º
+
+16. Estando en situación de estima: le = 40º 15` N y Le = 003º 20’ E, se observa el
+    sol a su paso por el meridiano superior del lugar con una altura verdadera
+    meridiana avmʘ 47º 48` siendo su declinación dʘ - 1º 55, 7`.
+    Calcular la latitud observada.
+
+   a) lo = 43º 59,9’ N
+   b) lo = 43º 37,5’ S
+   c) lo = 44º 37,5’ N
+   d) lo = 40º 16,3’ N
+                         4/10
+17. El día 15 de marzo de 2025, un buque que navega a rumbo de aguja= 275° en
+    l: 45° N, toma en el momento del ocaso del ʘ (sol) azimut de aguja a ese
+    mismo astro 270°, sabiendo que la declinación del ʘ en ese momento es dʘ=
+    01° 49,4’ S. Se pide calcular la CT (corrección total):
+
+   a) -2,6º
+   b) +7,6º
+   c) +2,6º
+   d) Ninguna es correcta.
+
+18. Se pide calcular la situación observada por dos rectas de altura simultaneas
+    en posición de estima: le=33°05,0´N; Le=061°27,7´W, sabiendo que se han
+    observado los siguientes determinantes: Markab (Azimut verdadero =085º y
+    Diferencia de altura =2,0 (-) y Dubhe (Azimut verdadero =330,5º y Diferencia
+    de altura = 0,5 (-).
+
+   a) 33°05,0´N 061°15,0´W
+   b) 33°06,6´N 061°25,4´W
+   c) 33°03,4´N 061°30,0´W
+   d) 33°05,0´N 061°25,4´E
+
+
+19. El día 14 de marzo de 2025 el buque oceanográfico “HESPERIDES” sale del
+    puerto de Dakar en coordenadas l: 14º 35,0´N L: 017º 32,0 `W, con destino a
+    un punto de recalada en las islas Malvinas de coordenadas l:51º 38,0`S
+    L: 057º 33.0`W. Hallar la distancia ortodrómica.
+
+   a) Do= 2933,6 millas
+   b) Do= 4100,4 millas
+   c) Do= 2100,6 millas
+   d) Do= 4486,4 millas
+
+
+20. El día 16 de Marzo de 2025 la goleta “Tramuntana” se encuentra en las
+    proximidades de la boya de recalada del puerto de Acapulco en coordenadas
+    l: 16º 45`N L: 099º 55´W poniendo rumbo a un punto de las islas Fiyi de
+    coordenadas l: 17º 40`N L: 178º 55`E. Calcular rumbo ortodrómico inicial en
+    circulares.
+   a) Ri = 250,2º
+   b) Ri = 104,8º
+   c) Ri = 255,2º
+   d) Ri = 284,8º
+
+
+
+
+                          5/10
+                      MÓDULO GENÉRICO
+Unidad teórica 3 : METEOROLOGÍA (preguntas de la nº 21 a la nº 30)
+
+21. La escala de Saffir-Simpson establece categorías del:
+
+   a) Uno al diez.
+   b) Uno al cinco.
+   c) Uno al cien.
+   d) Cero al diez.
+
+22. En relación con los ciclones tropicales, ¿cuál de las siguientes afirmaciones
+    es CORRECTA?
+
+   a) En el hemisferio norte, el semicírculo manejable está a la derecha de la
+      trayectoria y el semicírculo peligroso a la izquierda.
+   b) La escala Saffir-Simpson clasifica los ciclones tropicales según la intensidad del
+      viento en ocho categorías.
+   c) Si el viento rola en el sentido de las agujas del reloj y disminuye la presión, nos
+      encontramos en el semicírculo izquierdo, cuadrante posterior.
+   d) Si el viento rola en el sentido contrario a las agujas del reloj y aumenta el viento,
+      nos encontramos en el semicírculo izquierdo, cuadrante anterior.
+
+
+23. ¿De dónde soplan los vientos alisios en el hemisferio sur?
+
+   a) SE
+   b) SW
+   c) NE
+   d) NW
+
+
+24. La Zona de Convergencia Intertropical es:
+
+   a) La región del globo terrestre donde convergen los vientos alisios del hemisferio
+      norte con los del hemisferio sur.
+   b) Una franja o cinturón de alta presión constituido por corrientes de aire
+      ascendente.
+   c) Una franja o cinturón de baja presión constituido por corrientes de aire
+      descendente.
+   d) La región del globo terrestre donde convergen grandes masas de aire frio y
+      seco.
+
+25. El frente que separa las masas polares de las tropicales recibe el nombre de
+    frente:
+
+   a) Polar.
+   b) Tropical.
+   c) Antártico.
+   d) Oceánico
+                           6/10
+26. De las siguientes corrientes marítimas, ¿cuál es una corriente del Atlántico?
+
+   a) Corriente de Perú.
+   b) Corriente de Auckland.
+   c) Corriente de Benguela.
+   d) Corriente de Nueva Guinea.
+
+
+27. La ilusión óptica debida a la reflexión total de la luz cuando atraviesa capas
+    de aire de distinta densidad se denomina:
+
+   a) Rayo verde.
+   b) Fuego de San Telmo.
+   c) Espejismo.
+   d) Ninguna de las opciones es correcta.
+
+
+28. Los vientos Oestes dominantes que soplan en el área del Atlántico Norte
+    llevan dirección:
+
+   a) Hacia el Oeste
+   b) Hacia el Sur
+   c) Hacia el Este
+   d) Hacia el Norte
+
+
+29. ¿Qué medida de seguridad debemos tomar cuando navegamos entre hielos?
+
+   a) Navegar a la mayor velocidad posible para salir de la zona con hielos a la mayor
+      brevedad.
+   b) Apagar el RADAR.
+   c) Desconectar todos los equipos de comunicaciones para evitar que se puedan
+      dañar.
+   d) Dejar los icebergs por barlovento.
+
+
+30. Atendiendo a los procesos físico-químicos que se producen en la atmósfera
+    se distinguen las siguientes capas:
+
+   a) Exosfera y Tropopausa.
+   b) Troposfera y Estratosfera.
+   c) Ozonosfera e Ionosfera.
+   d) Mesosfera y Termosfera.
+
+
+
+
+                          7/10
+Unidad teórica 4 : INGLÉS (preguntas de la nº 31 a la nº 40)
+
+
+31. "Leeward" significa:
+
+      a) Abatimiento.
+      b) Soltar/largar.
+      c) A sotavento.
+      d) Ubicar.
+
+
+32. Traduzca la siguiente expresión: “Vessel in position…listing/in danger of
+   capsizing”:
+
+      a) El buque se encuentra en la situación…y está impedido/a la deriva.
+      b) El buque se encuentra en la situación…y está abandonado/corre peligro de
+         abordaje.
+      c) El buque se encuentra en la situación…y está hundiéndose/está abandonado.
+      d) El buque se encuentra en la situación…y tiene escora excesiva/corre peligro de
+         zozobra.
+
+
+33.     Elija la traducción correcta de “Switch on the deck lighting/ outboard
+      lighting/search lights”.
+
+      a) Encienda las luces de cubierta/ luces exteriores/ luces de búsqueda.
+      b) Encienda la iluminación de la cubierta / la iluminación del exterior / luces de
+         búsqueda.
+      c) Encienda las luces de cubierta/ luces fuera de borda/ luces de búsqueda.
+      d) Encienda las luces de cubierta/ luces fuera de borda/ luces de búsqueda.
+
+
+34. Elija la traducción correcta de “Draught or draft, Dragging of anchor,
+    Dredging of anchor”:
+
+      a) “Secado, Deriva del ancla, Garreo del ancla”.
+      b) “Escape de agua, Arrastre del ancla, Garreo del ancla”.
+      c) “Achicar agua, Levar ancla, Garreo del ancla”.
+      d) “Calado, Garreo del ancla, Arrastre del ancla”.
+
+
+35. Conforme a las frases normalizadas de la OMI para las comunicaciones
+    marítimas, elija la traducción correcta de: “Check the drain plugs and
+    report.”
+
+      a) Compruebe los tapones de achique y reporte.
+      b) Compruebe las espitas y reporte.
+      c) Compruebe los espiches e informe de la situación.
+      d) Compruebe las válvulas de drenaje e informe de la situación.
+
+
+
+                             8/10
+36. Elija la traducción adecuada de los términos: “ETA / VHF / MMSI”:
+
+   a) Hora estimada de salida / Frecuencia de sonido / Llamada a grupo.
+   b) Hora de salida / Frecuencia muy alta / Llamada de emergencia.
+   c) Hora estimada de llegada / Frecuencia muy alta / Identidades del servicio móvil
+      marítimo.
+   d) Fecha y Hora Greenwich / Frecuencia media / Llamada de emergencia.
+
+
+37. Elija la traducción correcta de «Passengers and crew! Follow the lifeboatmen
+     to the lifeboat stations/liferaft stations on the embarkation deck».
+
+   a) ¡Pasajeros y tripulación! Sigan a la tripulación de los botes a la cubierta de
+      embarque de las estaciones de los botes/balsas salvavidas en cubierta.
+
+   b) ¡Pasajeros y tripulación! Sigan al oficial de los botes a las estaciones de los
+      botes/balsas salvavidas en cubierta de embarque.
+
+   c) ¡Pasajeros y tripulación! Sigan al oficial encargado de los botes a los
+      estacionamientos de los botes/balsas salvavidas en cubierta.
+
+   d) ¡Pasajeros y tripulación! Sigan a la tripulación de los botes a los puestos de
+      embarco de los botes/balsas salvavidas en cubierta.
+
+
+38. Elija la traducción correcta de «I am/ MV... is drifting into danger».
+
+   a) Estoy/la motonave… está sin gobierno y en peligro.
+   b) Estoy/la motonave… está hundiéndose y en peligro.
+   c) Estoy/la motonave… yendo a la deriva hacia una situación de peligro.
+   d) Estoy/la motonave… está dirigiéndose hacia una situación de peligro.
+
+
+39. Elija la traducción correcta de «I am/MV…is not under command.».
+
+   a) Estoy/la motonave… está sin dirección.
+   b) Estoy/la motonave… está sin control.
+   c) Estoy/la motonave… está sin mando.
+   d) Estoy/la motonave… está sin gobierno.
+
+
+40. Elija la traducción correcta de “We will let go port/starboard/both anchor(s).”.
+
+   a) Fondearemos la (las) cadena(s) de babor/estribor/babor y estribor.
+   b) Fondearemos el (las) ancla(s) de estribor/babor/estribor y babor.
+   c) Fondearemos el (las) ancla(s) de babor/estribor/babor y estribor.
+   d) Fondearemos la (las) cadena(s) de estribor/babor/estribor y babor.
+
+
+
+
+                          9/10
+CAPITAN YATE
+
+ - Tipo 1 -
+
+
+
+   10/10
+

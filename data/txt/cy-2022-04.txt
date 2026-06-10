@@ -1,0 +1,490 @@
+          Región de M urcia
+          Consejería de Fom ento e Infraestructuras
+          Dirección General de M ovilidad y Litoral                           http://nautica.carm.es
+          Plaza Santoña, 6, 30071 Murcia
+
+ABRIL- 2022
+
+                            CAPITÁN DE YATE                                                  Tipo 1
+- El examen de CAPITÁN DE YATE consta de 40 preguntas tipo test de formulación
+independiente entre sí, con cuatro respuestas alternativas siendo únicamente una
+válida. Contestar todas las preguntas, ya que no hay penalización para las erróneas.
+
+- Se corregirá con un doble criterio: 1º) globalmente y 2º) por módulos
+
+                                                                                        Condiciones APTO
+        Módulos                                Nº preguntas    Condiciones APTO
+                             Materias                                                    (Corrección por
+       Temáticos                                  examen       (Corrección global)
+                                                                                           módulos* )
+                             Teoría            10 preguntas:
+        Módulo de                                                   5 correctas            5 correctas
+                           navegación              1 - 10
+       navegación
+       (1 hora y 30        Cálculo de          10 preguntas:
+         minutos)                                                   6 correctas            6 correctas
+                           navegación             11 - 20
+
+                                               10 preguntas:
+       Módulo de          Meteorología                                                     5 correctas
+                                                  21 - 30
+        genérico
+
+         (1 hora)                              10 preguntas:
+                              Inglés                                                       5 correctas
+                                                  31 - 40
+
+
+             Total examen                      40 preguntas    28 correctas del total
+
+
+- Tiempo de realización del examen:
+    2 horas y 30 minutos para los dos Módulos temáticos (40 preguntas)
+    1 hora y 30 minutos para el Módulo de navegación (20 preguntas)
+    1 hora para el Módulo genérico (20 preguntas)
+
+
+                          MÓDULO DE NAVEGACIÓN
+
+Unidad teórica 1 : TEORÍA DE NAVEGACIÓN (preguntas de la nº 1 a la nº 10)
+
+
+                                       COORDENADAS CELESTES
+
+1. Las coordenadas celestes que tienen como elementos: el ángulo sidéreo y la
+   declinación son:
+
+       a. Uranográficas.
+       b. Horarias.
+       c. Horizontales.
+       d. Geográficas.
+
+
+
+
+1/10
+2. El azimut de un astro junto con su altura verdadera son los dos elementos de
+   las coordenadas:
+
+       a. Uranográficas.
+       b. Horarias.
+       c. Horizontales.
+       d. Geográficas.
+
+
+                           ESTRELLAS Y CONSTELACIONES
+
+3. La constelación de <Casiopea= se encuentra en el hemisferio:
+
+       a. Sur.
+       b. Norte.
+       c. Opuesto.
+       d. Geográfico.
+
+
+4. Si prolongamos la línea de las tres estrellas del cinturón de la constelación de
+   <Orión= hacia el sudeste por el hemisferio Sur, encontraremos la estrella que
+   más brilla del firmamento, y es:
+
+       a. Vega.
+       b. Arcturus.
+       c. Sirius.
+       d. Procyon.
+
+
+                                   TRIANGULO DE POSICION
+
+5. El arco de círculo horario de un astro contado desde la posición del astro y
+   hasta su polo elevado, forma uno de los lados del triángulo de posición que
+   se llama:
+
+       a. Codeclinación.
+       b. Distancia polar.
+       c. Colatitud.
+       d. a) y b) son correctas.
+
+
+6.     En el zenit del observador se forma el ángulo del triángulo de posición
+     llamado:
+
+       a. Posición sidérea.
+       b. Angulo zodiacal.
+       c. Angulo zenital.
+       d. Angulo del observador.
+
+                                                                               2/10
+                                     ECLIPTICA
+
+7. En la eclíptica, el punto de paso del Sol desde el hemisferio Sur al hemisferio
+   Norte y coincide con el inicio de la primavera del hemisferio Norte, se
+   denomina:
+
+     a. Primer punto de Aries.
+     b. Punto vernal.
+     c. Punto de Libra.
+     d. a) y b) son correctas.
+
+
+8. El plano de la eclíptica con respecto al ecuador celeste, presenta una
+   inclinación de:
+
+     a. 23º27´
+     b. 27º23´
+     c. 23º20´
+     d. 20º23´
+
+
+                                     SEXTANTE
+
+9. La altura máxima que podemos obtener con el sextante de un astro visible, se
+   produce en el momento de:
+
+     a. El paso del astro por el horizonte matutino.
+     b. El paso del astro por el meridiano del observador.
+     c. El paso del astro por el horizonte vespertino.
+     d. El paso del astro por el meridiano opuesto del observador.
+
+
+
+10. La altura observada al Sol obtenida con el sextante después de ser corregida
+  por error de índice, hay que corregirla además de los siguientes conceptos:
+
+     a. Depresión del horizonte, Semidiámetro, Refracción y Paralaje y la Tabla
+        adicional.
+     b. Depresión del observador, Altura aparente y Refracción.
+     c. Elevación del Astro, Paralaje, Altura aparente y Tabla adicional.
+     d. Elevación del horizonte, Refracción y Paralaje.
+
+
+
+
+                                                                              3/10
+Unidad teórica 2 : CÁLCULO DE NAVEGACIÓN (preguntas de la nº 11 a la nº 20)
+
+
+Tras pasar el invierno en aguas del Caribe, el Yate a vela <Eclipse= se encuentra
+amarrado en la Marina del Royal Yacht Club de Hamilton (Bermudas) y su Capitán
+prepara el viaje por el Atlántico de regreso a Cartagena (España).
+
+                      JUEVES 31 DE MARZO DE 2022
+En la Marina del Royal Yacht Club de Hamilton preparando la travesía del Atlántico
+hacia España
+
+
+11. Estudian la derrota ortodrómica desde -A- 32º14,2´N – 064º43,1´W (Hamilton),
+  hacia -B- 36º50,3´N – 008º57,5´W (al Sur de San Vicente, Portugal) y calculan la
+  distancia ortodrómica:
+
+   a. 2508,5´
+   b. 2730,9´
+   c. 2890,2´
+   d. 2965,3´
+
+
+12. Desde esos mismos puntos (-A- = 32º14,2´N – 064º43,1´W -y -B- = 36º50,3´N –
+  008º57,5´W) de forma independiente, calculan el valor circular del rumbo
+  inicial ortodrómico:
+
+   a. 068º
+   b. 075º
+   c. 056º
+   d. 050º
+
+
+                       VIERNES 1 DE ABRIL DE 2022
+
+                            Comienzan la travesía
+
+
+13. A hora oficial (HO) de Bermudas 08:00:00 (adelanto vigente H+2), se
+  encuentran en el punto -A- = 32º14,2´N – 064º43,1´W y calculan la hora civil de
+  Greenwich (HCG) en ese instante:
+
+   a. 12:00
+   b. 10:00
+   c. 08:00
+   d. 06:00
+
+
+
+                                                                              4/10
+14. Navegan al rumbo inicial ortodrómico y a hora civil de Greenwich (HCG)
+  16:22:28, se encuentran en situación estimada= 33º10,2´N – 063º28,2´W y en
+  ese instante se produce el paso del Sol por el meridiano móvil del yate y
+  toman altura meridiana instrumental al Sol         ( limbo inferior)= 62º10,1´
+  (elevación del observador= 3 metros y corrección de índice= -3´) y calculan la
+  declinación del Sol en ese instante= +5º05,7´y rectifican la latitud por
+  meridiana al Sol:
+
+   a. 32º48,7´N.
+   b. 32º40,0´N.
+   c. 32º42,2´N.
+   d. 32º46,2´N.
+
+
+
+                       SABADO 2 DE ABRIL DE 2022
+
+ Continúan navegando al rumbo inicial ortodrómico con viento moderado
+                  del Oeste y mar tendida del WNW
+
+
+15. A HCG 23:10:00 en situación estimada= 33º06,3´N – 062º36,4´W y en ese
+  instante calculan el horario del lugar de Aries (HlY):
+
+   a. 116º09,9´
+   b. 100º40,2´
+   c. 178º46,3´
+   d. 170º40,2´
+
+
+16. A HCG 23:55:00 están en situación estimada= 33º07,9´N – 062º31,9´W y
+  calculado previamente el horario en Greenwich de Aries (HGY)= 190º03,2,
+  calculan el horario en Greenwich de la estrella <Sirius= (HG*Sirius):
+
+   a. 78º10,6´
+   b. 80º04,3´
+   c. 88º31,5´
+   d. 96º07,2´
+
+
+
+
+                                                                            5/10
+                          DIA 3 DE ABRIL DE 2022
+
+Siguen navegando al rumbo inicial ortodrómico, aumenta la intensidad del
+                 viento Oeste con marejada de popa
+17. A HCG 10:00:00 en el crepúsculo matutino, están en situación estimada=
+  33º26,1´N – 061º41,2´W y en ese instante toman altura instrumental a la estrella
+  <Polar= = 33º01,9´ (elevación del observador= 3 metros y corrección de índice=
+  -3´) y calculado previamente el horario del lugar de Aries (HlY)= 280º00´00´´,
+  proceden a rectificar la latitud por altura a la estrella <Polar= utilizando las
+  tablas del Almanaque Náutico correspondientes:
+
+   a. 33º00´15´´N.
+   b. 33º16´00´´N.
+   c. 33º24´10´´N.
+   d. 33º32´00´´N.
+
+18. A HCG 10:10:00 siguen en el crepúsculo matutino y su situación estimada es
+  33º18´,2´N – 061º39,1´W y con un horario del lugar de Aries (HlY)= 280º06,2´, le
+  toman azimut de aguja a la estrella <Polar= = 007º y calculan el valor de la
+  corrección total de la aguja utilizando la tabla d azimutes a la Polar del
+  Almanaque Náutico:
+
+   a. 8,4ºSW.
+   b. 4,4ºSE.
+   c. 8,4ºNE.
+   d. 6,4ºNW.
+
+19. A HCG de paso del Sol por el meridiano de Greenwich, proceden a calcular la
+  declinación del Sol en ese instante:
+
+   a. +5º24´39,3´´
+   b. +5º27´33,2´´
+   c. +5º30´39,1´´
+   d. +5º33´35,6´´
+
+20. A HCG 23:00:00, coincidiendo con el crepúsculo vespertino del día, se
+    encuentran en situación estimada 33º26,1´N – 060º53,2´W y en ese instante
+    obtienen simultáneamente las determinantes de las rectas de altura de las
+    estrellas:
+I. <Sirius= ……. Azimut verdadero (Zv)= 198º y diferencia de alturas (Aa)= +5´
+II. <Betelgeuse= .….. Azimut verdadero (Zv)= 230º y diferencia de alturas (Aa)=
+    +5´
+Y proceden a rectificar la posición por dos rectas de altura a dos estrellas
+    simultáneas por el método gráfico:
+
+   a. 33º25,2´N – 060º48,3´W
+   b. 33º23,4´N – 060º59,4´W
+   c. 33º21,8´N – 060º56,9´W
+   d. 33º18,1´N – 060º51,2´W
+                                                                              6/10
+                         MÓDULO GENÉRICO
+
+Unidad teórica 3 : METEOROLOGÍA (preguntas de la nº 21 a la nº 30)
+
+
+21. ¿Cómo se llama la capa de la atmósfera donde se producen los fenómenos
+    atmosféricos y trasciende al navegante?:
+
+   a. Tropopausa.
+   b. Troposfera.
+   c. Mesosfera.
+   d. Termosfera.
+
+22. Los vientos en chorro denominados Jets Stream se producen:
+
+   a. Entre la parte alta de la troposfera y la parte baja de la tropopausa (de 9.000 a
+      12.000 metros de altitud.
+   b. En la estratosfera media (18.000 metros aproximadamente).
+   c. En la Ionosfera alta (70.000 metros).
+   d. Desde nivel de superficie hasta los 6.000 metros de altura.
+
+23. Si nos atrapa un ciclón o huracán del hemisferio norte por su semicírculo
+    manejable, según los vientos, el yate tenderá a:
+
+     a. Ser llevado directamente hacia el vórtice.
+     b. Ser arrastrado por los vientos hacia la parte delantera del cicló o huracán.
+     c. Ser arrastrado por los vientos hacia la periferia del semicírculo peligroso.
+     d. Alejarse del vórtice.
+
+24. ¿Navegando por las zonas propicias de Ciclones y huracanes, qué nubes
+    son las que pueden asociarse a los primeros indicios de que nos llega un
+    ciclón o huracán?:
+
+     a. Los cirros.
+     b. Los altocúmulos.
+     c. Los nimbostratos.
+     d. Los cúmulos.
+
+25. Si dos masas de aire (una fría y otra cálida) se llegan a poner en contacto, se
+    producirá:
+
+     a. Una línea de estabilidad.
+     b. Una línea de inestabilidad.
+     c. Una línea cálida.
+     d. Una línea fría.
+
+
+                                                                                       7/10
+26. En una línea de fuerte inestabilidad atmosférica, las nubes producidas serán:
+
+     a. Cirrocúmulos.
+     b. Cirrostratos.
+     c. Cirros.
+     d. Cumulonimbos.
+
+27. Los hielos flotantes que se originan en la superficie del Mar cuando este se
+    hiela, se denominan:
+
+     a. Ice-Bank.
+     b. Ice-berg.
+     c. Ice-pack.
+     d. Sea-frozen.
+
+28. La parte emergente de los hielos flotantes en el Mar es:
+
+     a. 1/9 parte.
+     b. 1/7 parte.
+     c. 1/5 parte.
+     d. 1/2 parte.
+
+29. Se conoce como <zona de los Doldrums= a:
+
+     a. La zona o área ecuatorial entre los 15º de latitud norte y 15º de latitud sur.
+     b. La zona que rodea la tierra por el ecuador y coincide con el cinturón de bajas
+        presiones.
+     c. La zona que comprende los Alisios y los Oestes dominantes en ambos
+        hemisferios.
+     d. La zona comprendida entre los 25º a 35º de latitud Norte y Sur.
+
+30. Las masas de aire que interactúan en la zona de convergencia intertropical
+    (ITCZ) son:
+
+     a. Cálidas y húmedas.
+     b. Templadas y secas.
+     c. Cálidas y secas.
+     d. Templadas y húmedas.
+
+
+
+
+                                                                                  8/10
+Unidad teórica 4 : INGLÉS (preguntas de la nº 31 a la nº 40)
+
+
+31. When any information requested cannot be obtained, the answer must be:
+
+   a. Just a moment
+   b. No information
+   c. Information no posible
+   d. Information not available
+
+
+
+
+32. When a mistake is made in a message, say:
+
+   a. <Correction ... " - followed by the word: " Mistake ..." plus the corrected part of
+      the message
+   b. "Mistake ..." - followed by the word: "Correction ... " plus the corrected part of the
+      message
+   c. Error ..." - followed by the word: "Correction ... " plus the corrected part of the
+      message
+   d. Correction ..." - followed by the word: " Error... " plus the corrected part of the
+      message
+
+33. When you have to spell a course such as 150º you say
+
+   a. One fifty
+   b. Fifteen zero
+   c. One hundred and fifty
+   d. One five zero
+
+34. Windward means…
+
+   a. The general direction from which the wind blows; opposite of leeward
+   b. When a wind is permanently changing the direction from which it blows
+   c. When a wind blows round clockwise
+   d. When a wind blows round counterclockwise
+
+
+35. If you want to indicate that the following message implies the intention of the
+    sender to inform others about danger, you have to use de message marker
+
+   a. WARNING
+   b. ADVICE
+   c. INSTRUCTION
+   d. INFORMATION
+
+                                                                                        9/10
+36. What is the correct sentence?
+
+   a. I have list to port of 20 degrees
+   b. I have inclination to port of 20 degrees
+   c. I have nod to port of 20 degrees
+   d. I have slope to port of 20 degrees
+
+37. If any part of the message are considered sufficiently important to need
+    safeguarding, say:
+
+   a. Once again…followed by the corresponding part of the message.
+   b. Repeat… followed by the corresponding part of the message.
+   c. No more …followed by the corresponding part of the message.
+   d. Readiness…followed by the corresponding part of the message
+
+38. In case of death or serious injury to a person in an accident or shipping
+    disaster, also said of a distressed vessel, it is used the Word
+
+   a. Casualty
+   b. Disaster
+   c. Briefing
+   d. Agrounded
+
+39. Derelict means
+
+   a. A vessel damaged or impaired in such a manner as to be incapable of
+      proceeding its voyage
+   b. Moving of an anchor over the sea bottom involuntarily because it is no longer
+      preventing the movement of the vessel
+   c. Goods or any other commodity, specifically a vessel abandoned at sea
+   d. A vessel restricted by its ability to manoeuvre by the nature of its work or its
+      deep draft
+
+40. Are the phrases of the IMO´s Standard Marine Communication Phrases
+    intended to supplant or contradict the International Regulations for
+    Preventing Collisions at Sea, 1972
+
+   a. Just for merchant vessels
+   b. For the whole vessels
+   c. No
+   d. Yes
+
+
+
+
+                         CY - TIPO 1
+                                                                                     10/10
+

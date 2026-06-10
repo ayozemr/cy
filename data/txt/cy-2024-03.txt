@@ -1,0 +1,478 @@
+           Región de M urcia
+           Consejería de Fom ento e Infraestructuras
+           Dirección General de Litoral y Puertos                              http://nautica.carm.es
+           Plaza Santoña, 6, 30071 Murcia
+
+MARZO - 2024
+
+                            CAPITÁN DE YATE                                                   Tipo 1
+- El examen de CAPITÁN DE YATE consta de 40 preguntas tipo test de formulación
+independiente entre sí, con cuatro respuestas alternativas siendo únicamente una
+válida. Contestar todas las preguntas, ya que no hay penalización para las erróneas.
+
+- Se corregirá con un doble criterio: 1º) globalmente y 2º) por módulos
+
+                                                                                          Condiciones APTO
+          Módulos                                Nº preguntas    Condiciones APTO
+                              Materias                                                     (Corrección por
+         Temáticos                                  examen       (Corrección global)
+                                                                                             módulos* )
+                               Teoría            10 preguntas:
+          Módulo de                                                   5 correctas            5 correctas
+                             navegación              1 - 10
+         navegación
+         (1 hora y 30        Cálculo de          10 preguntas:
+           minutos)                                                   6 correctas            6 correctas
+                             navegación             11 - 20
+
+                                                 10 preguntas:
+         Módulo de          Meteorología                                                     5 correctas
+                                                    21 - 30
+          genérico
+
+           (1 hora)                              10 preguntas:
+                                Inglés                                                       5 correctas
+                                                    31 - 40
+
+
+               Total examen                      40 preguntas    28 correctas del total
+
+
+- Tiempo de realización del examen:
+         2 horas y 30 minutos para los dos Módulos temáticos (40 preguntas)
+         1 hora y 30 minutos para el Módulo de navegación (20 preguntas)
+          1 hora para el Módulo genérico (20 preguntas)
+
+
+                          MÓDULO DE NAVEGACIÓN
+
+Unidad teórica 1 : TEORÍA DE NAVEGACIÓN (preguntas de la nº 1 a la nº 10)
+
+
+1.     Navegamos por el océano Índico al Sur del Ecuador y nuestra latitud es de
+       10º20,6´S, en ese instante tenemos al Sol en nuestro meridiano siendo la
+       declinación del Sol en ese instante +18º23,6´. Estamos viendo el Sol:
+
+     a) Cara al Sur.
+     b) Cara al Norte.
+     c) Cara al Este.
+     d) Cara al Oeste.
+
+
+
+
+1/10
+2. En el triángulo de posición, el arco complementario que se cuenta desde la
+   posición de un astro que se le está tomando altura y el zenit del observador,
+   se le llama:
+
+   a) Distancia zenital.
+   b) Distancia Polar.
+   c) Codeclinación del astro.
+   d) Colatitud del observador.
+
+3. Los ortos y los ocasos de los astros se producen cuando sus paralelos de
+    declinación cortan:
+   a) La eclíptica.
+   b) El horizonte del observador.
+   c) El Ecuador.
+   d) El Meridiano del observador.
+
+4. En el triángulo de posición, sus lados se corresponden con:
+
+   a) Arcos de paralelos celestes.
+   b) Arcos de círculos menores de la esfera celeste.
+   c) Arcos de círculos máximos de la esfera celeste.
+   d) Las respuestas a) y b) son correctas.
+
+5. La constelación de la Cruz del Sur se encuentra en:
+
+   a) En el hemisferio Sur celeste.
+   b) En la franja ecuatorial celeste.
+   c) Sobre la vertical del Polo Sur con su estrella principal <Acrux= en dicho vertical.
+   d) 10º al Sur de la constelación de la Osa o Carro Menor.
+
+6. Para obtener el horario en Greenwich de Aries utilizaremos con ayuda del
+   Almanaque del año en curso:
+
+   a) En la página de la fecha y el azimut de Aries.
+   b) En la página y la fecha de la altura observada de una estrella.
+   c) En la página de la declinación de las estrellas.
+   d) En la página de la fecha y la hora civil de Greenwich.
+
+7. ¿A qué hora civil de Greenwich tienen todos los lugares del mundo la misma
+   fecha?
+
+   a) A HCG= 00:00:00
+   b) A HCG= 00:30:00
+   c) A HCG= 12:00:00
+   d) A HCG= 12:30:00
+
+
+
+
+                                                                                       2/10
+8. En la esfera celeste, el arco de meridiano celeste del observador que se forma
+    entre el ecuador celeste y la posición del observador se le llama:
+
+   a) Latitud del observador.
+   b) Longitud del observador.
+   c) Distancia polar del observador.
+   d) Azimut del observador.
+
+9. Se define como coordenadas uranográficas ecuatoriales, los valores de:
+
+   a) La altura verdadera y el azimut verdadero del astro.
+   b) El círculo horario y la declinación del astro.
+   c) El ángulo sidéreo y la declinación de una estrella.
+   d) El ángulo horario y la distancia zenital de la estrella.
+
+10. El semicírculo que une a los Polos Norte y Sur de la esfera celeste y pasa por
+    el astro, se llama:
+
+   a) Semicírculo de longitud del astro.
+   b) Semicírculo horario del astro.
+   c) Semicírculo azimutal del astro.
+   d) Semicírculo de almicantarat del astro.
+
+
+Unidad teórica 2 : CÁLCULO DE NAVEGACIÓN (preguntas de la nº 11 a la nº 20)
+
+Supuesto de navegación astronómica por aguas del Océano Índico y el Mar de Timor
+
+La goleta de dos palos y 24 metros de eslora <Surprise= es alistada en Port Luis (Isla de
+Mauricio) por un grupo de Capitanes de Yate que van a realizar el viaje hasta la Isla de
+Bali (Indonesia), aprovechando en un primer tramo los Oestes Dominantes que soplan
+desde la costa oriental de Sudáfrica, hacia las costas del oeste y noroeste de Australia
+y no acercarse al área de las Islas Cocos por el sur de Sumatra, lugar donde se inician
+los ciclones en el océano Indico al sur del ecuador.
+
+
+                       EL SABADO DIA 20 DE ABRIL DE 2024
+
+Estudian la derrota ortodrómica entre el punto -A- de salida cercano a Port Luis
+(Mauricio)= 19º55,0´S – 057º40,0´E y el punto -B- de llegada cercano a la Marina de
+Donghi Puri (Bali)= 08º55,0´S – 115º15,0´E y calculan:
+
+11. La distancia ortodrómica entre ambos puntos:
+
+   a) 3205 millas.
+   b) 3395 millas.
+   c) 3506 millas.
+   d) 3708 millas.
+
+
+                                                                                     3/10
+ 12. Con formulación independiente con respecto a la primera pregunta y las
+ mismas coordenadas de los puntos -A- y -B-, calculan el rumbo inicial
+ ortodrómico en su valor circular:
+
+    a) 087º
+    b) 096º
+    c) 080º
+    d) 078º
+
+
+                         EL DOMINGO 21 DE ABRIL DE 2024
+
+ 13. A hora oficial de Mauricio (Ho+1), Hora Oficial de Mauricio 08:00 y situados en
+     el punto -A- de salida=19º55,0´S – 057º40,0E, ponen el reloj de bitácora en hora
+     civil de Greenwich:
+
+    a) 01:00
+    b) 02:00
+    c) 03:00
+    d) 04:00
+
+                           EL JUEVES 9 DE MAYO DE 2024
+
+ Navegan con un buen oeste dominante por la aleta de estribor con cielos despejados y
+ marejada de poniente, acercándose por el noroeste al continente australiano.
+
+14. A hora civil de Greenwich= 03:40 se encuentran en situación estimada=
+    18º44,9´N – 080º36,4´E y se han puesto al pairo para reparar un obenque y en
+    ese instante y situación, calculan la hora civil de Greenwich a la que pasará el
+    Sol por el meridiano fijo del lugar, teniendo en cuenta que el Sol para esa
+    fecha, pasará por el meridiano de Greenwich a 11:56:24 HcG:
+
+   a) 17:18:49 HcG.
+   b) 17:06:10 HcG.
+   c) 17:26.05 HcG.
+   d) 17:30:00 HcG.
+
+
+
+                         EL MIERCOLES 15 DE MAYO DE 2024
+
+ Se encuentran al oeste de la costa noroccidental de Australia ya cercanos a entrar en el
+ Mar de Timor, han dejado los Oestes dominantes y reciben el alisio del Indico Sur por el
+ través, navegando con buen andar y marejada del ESE
+
+ A hora civil de Greenwich= 06:20 su situación estimada es= 20º10,2´S – 100º20,2´E y
+ con formulación independiente, en esta situación de estima y HcG referida calculan con
+ la ayuda de la página del Almanaque Náutico del año en curso:
+                                                                                     4/10
+15. El horario en Greenwich del Sol a esa hora:
+
+   a) 270º10,1´
+   b) 275º54,6´
+   c) 280º20,2´
+   d) 285º30,3´
+
+16. La declinación del Sol a esa hora:
+
+   a) +18º10´18´´
+   b) +18º22´10´´
+   c) +18º41´00´´
+   d) +18º59´46´´
+
+
+17. El ángulo en el polo ( P ) formado entre el sol y el meridiano del barco, a esa
+    hora, habiéndose calculado el horario en Greenwich del Sol para ese instante=
+    275º54´36´´:
+
+   a) 16º14,8´(W)
+   b) 16º26,9´(W)
+   c) 16º14,8´(E)
+   d) 16º26º,9´(E)
+
+
+
+
+                       EL DOMINGO 19 DE MAYO DE 2024
+
+Ya en el Mar de Timor, al Sur de la isla de Java, navegando con las brisas del SW que
+soplan en esa época del Año entre el Norte de Australia y las islas de Indonesia con
+viento moderado por la aleta de estribor, cielos despejados y marejada moderada,
+proceden:
+
+18. A hora civil de Greenwich= 02:50 en situación estimada 10º34,5´S – 105º26,8´E
+    a tomar altura instrumental al Sol (limbo inferior) = 46º32,9´con elevación del
+    observador de= 3 metros y un error d índice de= -4´ y calculan el valor de la
+    altura verdadera observada:
+
+   a) 46º30´8´
+   b) 46º20,3´
+   c) 46º40,8´
+   d) 46º10,5´
+
+
+
+
+                                                                                 5/10
+19. En la misma situación de estima y a la misma hora civil de Greenwich
+    anteriores con formulación independiente y tras calcular la altura verdadera al
+    Sol, proceden a hallar la altura estimada por la fórmula del triángulo de
+    posición que la define, habiéndose calculado previamente: declinación del
+    Sol= +19º51´13´´ y ángulo en el polo= 31º10.6´ E:
+
+   a) 46º46,8´
+   b) 46º30,2´
+   c) 46º20,5´
+   d) 46º10,4´
+
+
+
+20. A 03:40 hora civil de Greenwich, se encuentran en situación estimada
+   10º31,8´S – 105º30,7´E y tras obtener las determinantes de la recta de altura al
+    Sol:
+         - Diferencia de alturas= +6´
+         - Azimut verdadero= 14,5º
+
+   Proceden a rectificar la situación de estima por una sola recta de altura (punto
+   aproximado) y sistema gráfico:
+
+   a) 10º26,0´S – 105º32,2´E
+   b) 10º32,2´S – 105º38,3´E
+   c) 10º22,1´S – 105º28,6´E
+   d) 10º26,2´N – 105º32,2´W
+
+
+
+
+                                                                               6/10
+                         MÓDULO GENÉRICO
+
+ Unidad teórica 3 : METEOROLOGÍA (preguntas de la nº 21 a la nº 30)
+
+
+21. Los ciclones que se producen al Sur del Ecuador en el océano Índico llevan
+     dirección:
+
+  a) Desde la zona NW de Australia y Sur de Sumatra, hacia la costa de Kenia y Norte
+     de Madagascar en África.
+  b) Desde la zona SW de Australia, hacia la costa de Sudáfrica en el Indico.
+  c) Desde la Isla de Madagascar en África hacia las costas de Perth en Australia.
+  d) En el océano Índico al Sur del ecuador no se producen ciclones.
+
+
+ 22. En los ciclones o huracanes. Las isobaras se presentan:
+
+    a) De forma alargadas y con gran extensión.
+    b) Concéntricas y muy juntas, casi circulares.
+    c) Muy separadas y de forma circular.
+    d) Al ser todo aire cálido, no hay isobaras porque la baja presión es constante.
+
+ 23. En la formación de un chubasco con fuertes vientos y lluvias intensas, se
+    produce:
+
+    a) Una línea de inestabilidad.
+    b) Formaciones nubosas del tipo cumulonimbos.
+    c) Nubes del tipo estratos y estratocúmulos.
+    d) Las respuestas a) y b) son correctas.
+
+
+ 24. La llamada Zona de Convergencia intertropical se sitúa:
+
+    a) Solo al Sur del Trópico de Cáncer.
+    b) Solo al Norte del trópico de Capricornio.
+    c) En la franja comprendida aproximadamente entre 300 millas al Norte y 300 millas
+       al Sur del Ecuador.
+    d) Esta franja solo afecta a la zona al Sur del trópico de Capricornio.
+
+
+ 25. La corriente Atlántica denominada de Canarias, lleva dirección de corriente:
+
+    a) Desde el SSW del estrecho de Gibraltar, hacia el Archipiélago Canario.
+    b) Desde el NW de las Islas canarias, hacia el SW de las islas Azores.
+    c) Desde el SW de la Isla del Hierro en el Archipiélago Canario, Hacia las Islas de
+       Cabo verde.
+    d) Desde el SE de la isla de Gran canaria por la costa africana hacia Mauritania.
+
+
+                                                                                       7/10
+26. En un ciclón del océano Índico al sur del ecuador se considera que estamos
+    en su semicírculo peligroso, si nos encontramos:
+
+   a) En el semicírculo de la derecha según su trayectoria.
+   b) En el semicírculo de la izquierda según su trayectoria.
+   c) Al Sur del ciclón.
+   d) Al Este del ciclón.
+
+
+27. El régimen de vientos alisios en el Atlántico Norte actúan:
+
+   a) Desde El Estrecho de Gibraltar Hacia canarias y desde allí hacia Cabo Verde y
+      luego se recurvan hacia el Mar Caribe.
+   b) Desde el Estrecho de Gibraltar hacia Canarias y desde allí hacia las Islas Azores.
+   c) Desde las Islas Azores hacia el Mar Caribe.
+   d) Desde las costas africanas de Marruecos, hasta las Islas de Cabo verde.
+
+
+28. Si desde nuestro yate estamos transmitiendo por radio en onda corta, las
+    ondas de este modo de radio son reflejadas por la capa atmosférica:
+
+   a) Mesosfera.
+   b) Ozonosfera.
+   c) Ionosfera.
+   d) Troposfera.
+
+
+29. El fenómeno óptico del halo o corona ocurre cuando.
+
+   a) Se está dentro de un frente frio.
+   b) Se está dentro de un frente ocluido.
+   c) Se está dentro de un frente cálido.
+   d) No estamos bajo la influencia de ningún tipo de frente.
+
+
+
+30. La atmosfera terrestre está compuesta principalmente por los gases:
+    Nitrógeno, oxigeno, argón y anhídrido carbónico. ¿Cuál de estos gases ocupa
+    la mayor proporción en la atmósfera?:
+
+   a) El oxígeno.
+   b) El nitrógeno.
+   c) El argón.
+   d) El anhídrido carbónico
+
+
+
+
+                                                                                    8/10
+Unidad teórica 4 : INGLÉS (preguntas de la nº 31 a la nº 40)
+
+Indique la traducción correcta a las siguientes frases
+
+31. MAYDAY to be used to announce a distress message
+
+   a) MAYDAY se usa para avisar de mensaje de emergencia.
+   b) MAYDAY se usa para avisar de mensaje de seguridad.
+   c) MAYDAY se usa para mensaje de hombre al agua.
+   d) MAYDAY se usa para mensaje meteorológico.
+
+32. My present speed is 14 knots
+
+   a) Mi rumbo actual es 14 grados.
+   b) Mi calado actual es 14 pulgadas.
+   c) Mi calado actual es 14 pies.
+   d) Mi velocidad actual es 14 nudos.
+
+33. The bearing of the mark or vessel concerned is the bearing in the 360 degree
+    notation from north
+
+   a) La demora de la marca o buque relacionado es la demora de 360 grados en
+      notación desde el norte.
+   b) La demora de la marca o buque relacionado es la demora de 360 grados en
+      notación desde el sur.
+   c) La demora de la marca o buque relacionado es la demora de 360 grados en
+      notación desde el este.
+   d) La demora de la marca o buque relacionado es la demora de 360 grados en
+      notación desde el oeste.
+
+34. QUESTION. Do I have permission to enter the fairway?
+
+   a) Pregunta ¿Tengo permiso para entrar al puerto?
+   b) Respuesta ¿Tengo permiso para entrar al canal?
+   c) Pregunta ¿Tengo permiso para entrar al canal?
+   d) Pregunta ¿Tengo permiso para entrar al rio?
+
+35. To run a vessel up on a beach to prevent its sinking in deep wáter
+
+   a) Llevar una embarcación a aguas profundas para prevenir su varada en una playa.
+   b) Varar una embarcación en una playa para prevenir su hundimiento en aguas
+      profundas.
+   c) Dirigir una embarcación mar adentro.
+   d) Manejar una embarcación para ir a una playa.
+
+36. Vessel not under command
+
+   a) Embarcación sin capitán.
+   b) Embarcación sin comandante.
+   c) Embarcación sin gobierno.
+   d) Embarcación sin timón.
+                                                                                9/10
+37. Aft
+
+   a) Proa.
+   b) Popa.
+   c) Babor.
+   d) Estribor.
+
+38. I have lost one person overboard
+
+   a) Una persona va a embarcar.
+   b) Una persona va a desembarcar.
+   c) He perdido una persona por la borda.
+   d) Hay una persona en el mar.
+
+39. My EPIRB/SART is transmitting by mistake
+
+   a) Mi EPIRB/SART ha sido correctamente activada.
+   b) Mi EPIRB/SART transmite por calibración.
+   c) Mi EPIRB/SART transmite por error.
+   d) Mi EPIRB/SART transmite correctamente.
+
+40. I require medical assistance
+
+   a) No necesito asistencia médica.
+   b) Necesito asistencia médica.
+   c) Asistencia médica en helicóptero.
+   d) Asistencia médica en embarcación.
+
+
+
+
+                       CY - TIPO 1
+                                                      10/10
+

@@ -1,0 +1,426 @@
+          Región de M urcia
+          Consejería de Fom ento e Infraestructuras
+          Dirección General de Transportes, Costas y Puertos                  http://nautica.carm.es
+          Plaza Santoña, 6, 30071 Murcia
+
+MARZO - 2019
+                             CAPITÁN DE YATE                                                   Tipo 1
+- El examen de CAPITÁN DE YATE consta de 40 preguntas tipo test de formulación
+independiente entre sí, con cuatro respuestas alternativas siendo únicamente una válida.
+Contestar todas las preguntas, ya que no hay penalización para las erróneas.
+
+- Se corregirá con un doble criterio: 1º) globalmente y 2º) por módulos
+
+                                                                                        Condiciones APTO
+        Módulos                               Nº preguntas     Condiciones APTO
+                            Materias                                                     (Corrección por
+       Temáticos                                 examen        (Corrección global)
+                                                                                           módulos* )
+                             Teoría           10 preguntas:
+        Módulo de                                                   5 correctas             5 correctas
+                           navegación             1 - 10
+       navegación
+       (1 hora y 30        Cálculo de         10 preguntas:
+         minutos)                                                   6 correctas             6 correctas
+                           navegación            11 - 20
+
+                                              10 preguntas:
+       Módulo de          Meteorología                                                      5 correctas
+                                                 21 - 30
+        genérico
+
+         (1 hora)                             10 preguntas:
+                              Inglés                                                        5 correctas
+                                                 31 - 40
+
+
+             Total examen                     40 preguntas     28 correctas del total
+
+
+- Tiempo de realización del examen:
+     2 horas y 30 minutos para los dos Módulos temáticos (40 preguntas)
+     1 hora y 30 minutos para el Módulo de navegación (20 preguntas)
+     1 hora para el Módulo genérico (20 preguntas)
+
+
+                         MÓDULO DE NAVEGACIÓN
+Unidad teórica 1 : TEORÍA DE NAVEGACIÓN (preguntas de la nº 1 a la nº 10)
+
+1. Si nos encontramos en el paralelo celeste 40º N ¿Cuánto valdrá el arco de nuestro
+    meridiano celeste, contado desde este paralelo hasta nuestro Polo Depreso?
+
+      a) 49º
+      b) 130º
+      c) 140º
+      d) 110º
+
+2. Las coordenadas horarias del Sol son:
+
+      a) Su horario y su declinación.
+      b) Su horario y su azimut verdadero.
+      c) Su horario y su altura verdadera.
+      d) Su horario y su ángulo sidéreo.
+
+
+1/8                                                                                     C.Y. - Tipo 1
+                                                                            Tipo 1
+3. Las coordenadas horizontales de un astro sobre la esfera celeste son:
+
+      a) Altura verdadera y declinación.
+      b) Azimut verdadero y declinación.
+      c) Azimut verdadero y altura verdadera
+      d) Altura verdadera y semicírculo horario.
+
+4. El arco de semicírculo horario de un astro en la esfera celeste que se cuenta desde la
+   posición del astro en dicho círculo horario, hasta su polo elevado, se le llama ... :
+
+      a) Codeclinación del astro.
+      b) Distancia polar del astro.
+      c) Altura polar del astro.
+      d) Las respuestas a y b son correctas.
+
+5. El equinoccio de primavera del hemisferio Norte en la Eclíptica coincide la
+   constelación zodiacal de...
+
+      a) Aries.
+      b) Libra.
+      c) Cáncer.
+      d) Capricornio
+
+6. El arco de semicírculo horario de un astro contado desde el ecuador celeste hasta la
+   posición del astro es...
+
+      a) La declinación del astro.
+      b) Su valor nunca será mayor de 90º.
+      c) Puede ser Norte (+) o Sur (-).
+      d) Todas las respuestas son correctas.
+
+
+COORDENADAS QUE SE MIDEN EN EL ECUADOR
+
+7. El arco de ecuador celeste que se mide desde el meridiano 0 o de Greenwich, hasta el
+   semicírculo horario de un astro es ... :
+
+      a) El horario en Greenwich del astro.
+      b) Su valor angular podrá ser de hasta 3602.
+      c) Su valor horario podrá ser de hasta 24 horas.
+      d) Todas las preguntas son correctas.
+
+MOVIMIENTO APARENTE DE LOS ASTROS:
+
+8. Con respecto a un observador en la esfera terrestre, la máxima altura del sol que éste
+   observador puede tomarle con el sextante, se produce en ... :
+
+      a) El momento del paso del Sol por el meridiano opuesto del observador.
+      b) El momento del paso del Sol por el meridiano del observador.
+      c) El momento del ocaso del Sol.
+      d) El momento del orto del Sol.
+
+
+
+
+2/8                                                                       C.Y. - Tipo 1
+                                                                        Tipo 1
+CONSTELACIONES
+
+9. Por el "Cinturón" de la constelación de Orión, pasa...
+
+      a) El Ecuador celeste.
+      b) El meridiano de Greenwich celeste.
+      c) El meridiano 180º celeste.
+      d) El Trópico de Cáncer celeste.
+
+10. El error de índice o desfase del sextante, se...
+
+      a) Sumará al ángulo medido si es a la derecha del 0.
+      b) Restará al ángulo medido si es a la izquierda del 0.
+      c) Se sumará siempre al ángulo medido.
+      d) Las respuestas a y b son correctas.
+
+
+Unidad teórica 2 : CÁLCULO DE NAVEGACIÓN (preguntas de la nº 11 a la nº 20)
+
+
+El viernes 22 de Marzo de 2019, el motovelero "Aldebarán" de la matrícula de Cartagena de
+dos palos y 24 metros de eslora navegando en aguas del Atlántico Sur.
+
+11. A hora de huso (Hz) = 0700 en mar abierto y ya fuera de la Bahía de Guanabara (Río
+   de Janeiro, Brasil), se encuentra en situación estimada 23º 04'S – 043º 05'W y en ese
+   instante su Capitán calcula la hora civil de Greenwich (HCG):
+
+      a) 100000
+      b) 100300
+      c) 070430
+      d) 120500
+
+12. Desde esa misma situación de estima anterior, calcula la distancia ortodrómica que
+   lo separa de un punto cercano de la bocana del puerto de Cape Town (Ciudad del
+   Cabo en Sudáfrica) = 33º 52'S - 018º 22'E
+
+      a) 3060,2 millas.
+      b) 3426,5 millas.
+      c) 3258,4 millas.
+      d) 3582,7 millas.
+
+13. Y con las mismas coordenadas anteriores, calcula el valor circular del rumbo inicial
+   ortodrómico de esa derrota
+
+      a) 108º
+      b) 116º
+      c) 124º
+      d) 132º
+
+
+
+
+3/8                                                                   C.Y. - Tipo 1
+                                                                        Tipo 1
+14. A hora civil de Greenwich 1310 su situación estimada es 23º 26'S - 042º 10'W y
+   navega a todo trapo con buena mar, cielos despejados y viento del WSW y proceden
+   a calcular el horario en Greenwich del Sol (HGʘ)
+
+      a) 015º 45,7’
+      b) 013º 15,7’
+      c) 020º 45,7’
+      d) 017º 20,2’
+
+15. A hora civil de Greenwich 1330, continúan navegando en las mismas condiciones y
+   su situación estimada es 23º 27' S - 041º 30'W y obtiene horario en Greenwich del Sol
+   = 020º 45,7'.
+  Calcula el ángulo en el Polo (P)
+
+      a) 20º 10,3’W
+      b) 20º 30,2’E
+      c) 20º 44,3’E
+      d) 20º 44,3’W
+
+16. A hora civil de Greenwich 1330 y en la misma situación estimada anterior, calcule el
+   valor de la declinación del Sol en ese instante.
+
+      a) +00º 37,5
+      b) +00º 39,3
+      c) +00º 01,0
+      d) +00º 39,0
+
+17. A hora civil de Greenwich 1350, continúan navegando sin novedad hacia Ciudad del
+   Cabo y en ese instante su situación estimada es 23º 27,2’S - 041º 27,2’W y con
+   declinación del Sol = + 00º 39,3’ y ángulo en el Polo = 15º 41,5’ E.
+   Calcula el azimut verdadero del Sol, en su valor circular utilizando las fórmulas que
+   resuelven los lados y ángulos del triángulo de posición.
+
+      a) 034,48º
+      b) 145,51º
+      c) 053,40º
+      d) 140,20º
+
+18. En el mismo instante, hora civil de Greenwich y situación estimada del anterior
+   ejercicio, procede a tomar altura instrumental al Sol (limbo inferior) = 61º 18,9’ con
+   elevación del observador = 3 metros y corrección de índice = 2' (+)
+   Calcula la altura verdadera del Sol
+
+      a) 61º 46,4’
+      b) 61º 18,9’
+      c) 61º 33,3’
+      d) 61º 05,1’
+
+
+
+
+4/8                                                                   C.Y. - Tipo 1
+                                                                         Tipo 1
+19. Obtenida la altura verdadera del sol y con la misma hora civil de Greenwich= 1350,
+   situación estimada de 23º 27,2’S - 041º 27,2'W, ángulo en el Polo = 15º 41,5’E y
+   declinación del Sol = +00º 39,3’, calcula la altura estimada del Sol, utilizando las
+   fórmulas que resuelven los lados y ángulos del triángulo de posición.
+
+      a) 61º 50,1’
+      b) 61º 40,3’
+      c) 61º 10,2’
+      d) 61º 28,3’
+
+20. A hora civil de Greenwich 1350 y habiendo obtenido los valores de las
+   determinantes de la recta de altura al Sol:
+       • Situación de estima = 23º 27,3'S - 041º 27,2'W
+       • Azimut verdadero del Sol = 034,5º
+       • Diferencia de alturas = +5'
+   Procede a calcular la posición rectificada del yate por el sistema gráfico de situación
+   por una sola recta de altura, método aproximado:
+
+      a) 23º 23,1'S – 041º 24,1’W
+      b) 23º 31,4’S – 041º 30,3’W
+      c) 23º 20,0’S – 041º 21,8’W
+      d) 23º 18,1’S – 041º 16,5’W
+
+
+
+
+5/8                                                                   C.Y. - Tipo 1
+                                                                                 Tipo 1
+                             MÓDULO GENÉRICO
+
+Unidad teórica 3 : METEOROLOGÍA (preguntas de la nº 21 a la nº 30)
+
+21. Navegamos en un gran yate de motor por aguas del océano Indico Sur, en crucero
+   desde el archipiélago de Seychelles hacia la Isla de Mauricio y a mitad del recorrido,
+   nos atrapa un ciclón, por su sector peligroso anterior, la maniobra para maniobrarlo
+   sería ...
+
+      a) Aguantando a izquierda. izquierda. izquierda de la dirección del viento.
+      b) Aguantando a derecha, derecha, derecha de la dirección del viento.
+      c) Aguantando a la capa en cualquier dirección.
+      d) Correremos el temporal de popa cerrada.
+
+22. En aguas del océano Atlántico Sur, costas atlánticas de Sudáfrica a Namibia, la
+   corriente que nos afecta es la de Benguela, la cual es de carácter ... :
+    a) Cálida.
+    b) Fría.
+    c) Templada.
+    d) Templada en invierno y cálida en verano.
+
+23. Los fenómenos ópticos atmosféricos del parhelio y paraselene (ver dos soles o dos
+   lunas), se debe a...
+
+      a) La refracción de la luz en la atmósfera.
+      b) La abundancia de cristales de hielo en suspensión en las nubes altas.
+      c) Defecto óptico de los que usan gafas graduadas.
+      d) Las respuestas a) y b) son correctas.
+
+24. En aguas del océano Índico al Norte del Ecuador, mes de Junio, el régimen de
+   vientos monzónicos que nos afecta será ... :
+
+      a) Vientos de componente Sur, cálidos y lluviosos.
+      b) Vientos de componente Norte, cálidos y muy secos.
+      c) Vientos de componente Norte, frescos y secos.
+      d) Vientos de componente Sur, frescos y húmedos.
+
+25. En los Huracanes o Ciclones ya formados, las nubes típicas son ... :
+
+      a) Altocúmulos.
+      b) Cumulonimbos.
+      c) Estratocúmulos.
+      d) Cirrocúmulos.
+
+26. Zona ártica del Norte de Islandia, navegando en crucero turístico en un gran yate
+   adaptado, observamos la mar en calma, el cielo blanquecino o amarillento y bajada
+   de temperatura de forma brusca; que nos indican estas circunstancias ... :
+
+      a) Que el viento va a rolar más hacia el Norte.
+      b) Una navegación en calma total con brisa suave del Sur.
+      c) La presencia próxima de hielos flotantes.
+      d) Que nos alejamos de la posible presencia de hielos en el Mar.
+
+
+
+6/8                                                                          C.Y. - Tipo 1
+                                                                                Tipo 1
+27. Chubascos, las masas de aire que interactúan en ellas están...
+
+      a) Estables.
+      b) Inestables.
+      c) Indiferentes.
+      d) Mezclándose en semifrías.
+
+28. La troposfera es la capa de la atmósfera terrestre...
+
+      a) Menos inestable.
+      b) De inestabilidad media.
+      c) Poco estable y fría.
+      d) Más inestable.
+
+29. Atlántico Norte, el régimen de vientos alisios actúa circulando...
+
+      a) De Este a Oeste en las zonas subtropical y tropical.
+      b) De Este a Oeste en la zona cercana al frente polar estacionario.
+      c) De Este a Sureste en la zona tropical.
+      d) De este Noroeste en la zona tropical.
+
+30. La zona de convergencia intertropical o ITCZ, abarca…
+
+      a) La zona tropical desde el Ecuador hasta el trópico de Capricornio.
+      b) La zona tropical desde el Ecuador hasta el trópico de Cáncer.
+      c) La zona ecuatorial en una estrecha faja al Norte y al Sur del Ecuador.
+      d) La zona intertropical desde el trópico de Cáncer al trópico de Capricornio.
+
+
+Unidad teórica 4 : INGLÉS (preguntas de la nº 31 a la nº 40)
+
+
+      All the questions concerning this exam are according to the I.M.O. Standard Marine
+                                  Communications Phrases
+
+31. If you ask for a permission for anchoring, you say…
+    a) Can I anchor?
+    b) May I anchor?
+    c) Should I anchor?
+    d) Is it permitted anchoring?
+
+32. When a wind blows round anticlockwise we say…
+    a) Veering
+    b) Backing
+    c) Running
+    d) Turnning
+
+33. The correct word in case of death or serious injury to a person in an accident or
+   shipping disaster, also said of a distressed vessel, is…
+    a) Accident
+    b) Casualty
+    c) Disaster
+    d) Accident
+
+
+
+7/8                                                                          C.Y. - Tipo 1
+                                                                          Tipo 1
+34. The most probable position of a search target at a given time is
+    a) Last position
+    b) Best position
+    c) Datum
+    d) Derelict
+
+35. The word to be used to announce a safety message is…
+    a) Mayday
+    b) Securité
+    c) Panpan
+    d) Safety
+
+36. Inclination of the vessel to port side or starboard side is
+    a) Clination
+    b) Angle
+    c) Dandy
+    d) List
+
+37. For indicating that the following message implies the intention of the sender to
+   inform others about danger, the word to be used is
+    a) Information
+    b) Warning
+    c) Advice
+    d) Danger
+
+38. In rescue operations, the word <hoist= indicates
+    a) A towing cable
+    b) A cable used by helicopters for lifting or lowering persons in a pick-up operation
+    c) The cable used to discharge static electricity from helicopters
+    d) Ropes supported by stanchions around an open hatch to prevent persons from falling
+        into a hold
+39. In IMO Standard Marine a zone or line separating the traffic lanes in which vessels are
+    proceeding in opposite or nearly opposite directions; or separating a traffic lane from
+    the adjacent sea area; or separating traffic lanes designated for particular classes of
+    vessels proceeding in the same direction, is called
+     a) Traffic lane
+     b) VTS area
+     c) VTS Control
+     d) Separation zone or line
+
+40. If a coastal station indicates you the following message <Keep clear of Point P due to
+    search and rescue in progress= … it means that in Point P there are
+     a) Underwater operations
+     b) Looking for operations
+     c) Searching exercises
+     d) Tug operations
+
+
+
+
+CAPITAN DE YATE: TIPO 1
+8/8                                                                     C.Y. - Tipo 1
+

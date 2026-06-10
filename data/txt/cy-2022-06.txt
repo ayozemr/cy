@@ -1,0 +1,463 @@
+          Región de M urcia
+          Consejería de Fom ento e Infraestructuras
+          Dirección General de M ovilidad y Litoral                           http://nautica.carm.es
+          Plaza Santoña, 6, 30071 Murcia
+
+JUNIO- 2022
+
+                            CAPITÁN DE YATE                                                  Tipo 1
+- El examen de CAPITÁN DE YATE consta de 40 preguntas tipo test de formulación
+independiente entre sí, con cuatro respuestas alternativas siendo únicamente una
+válida. Contestar todas las preguntas, ya que no hay penalización para las erróneas.
+
+- Se corregirá con un doble criterio: 1º) globalmente y 2º) por módulos
+
+                                                                                        Condiciones APTO
+        Módulos                                Nº preguntas    Condiciones APTO
+                             Materias                                                    (Corrección por
+       Temáticos                                  examen       (Corrección global)
+                                                                                           módulos* )
+                             Teoría            10 preguntas:
+        Módulo de                                                   5 correctas            5 correctas
+                           navegación              1 - 10
+       navegación
+       (1 hora y 30        Cálculo de          10 preguntas:
+         minutos)                                                   6 correctas            6 correctas
+                           navegación             11 - 20
+
+                                               10 preguntas:
+       Módulo de          Meteorología                                                     5 correctas
+                                                  21 - 30
+        genérico
+
+         (1 hora)                              10 preguntas:
+                              Inglés                                                       5 correctas
+                                                  31 - 40
+
+
+             Total examen                      40 preguntas    28 correctas del total
+
+
+- Tiempo de realización del examen:
+    2 horas y 30 minutos para los dos Módulos temáticos (40 preguntas)
+    1 hora y 30 minutos para el Módulo de navegación (20 preguntas)
+    1 hora para el Módulo genérico (20 preguntas)
+
+
+                          MÓDULO DE NAVEGACIÓN
+
+Unidad teórica 1 : TEORÍA DE NAVEGACIÓN (preguntas de la nº 1 a la nº 10)
+
+
+1. El ángulo que se forma en el triángulo de posición en el polo elevado del
+    observador entre el meridiano celeste de este y el semicírculo horario del
+    astro, se llama:
+
+   a) Angulo en el polo y puede ser Este (PE).
+   b) Angulo en el polo y puede ser Oeste (PW).
+   c) Angulo en el polo y siempre será mayor de 90º.
+   d) a) y b) son correctas.
+
+
+
+
+1/10
+2. El semicírculo máximo de la esfera celeste que de polo a polo de esta pasa
+    por la posición del astro, se le llama:
+
+   a) Semicírculo azimutal del astro.
+   b) Semicírculo horario del astro.
+   c) Semicírculo zenital del astro.
+   d) Semicírculo diferencial del astro.
+
+
+3. Las cartas de navegación oceánicas que presentan abundantes datos de
+    ayudas a la navegación de altura y se publican para cada mes del año se
+    denominan:
+
+   a) Ruting Chart.
+   b) Polar Chart.
+   c) Meridional Chart.
+   d) Ecuator Chart.
+
+
+4. Las alturas instrumentales a los astros se resuelven en alturas verdaderas con
+    las:
+
+   a) Tablas de correcciones para obtener las alturas verdaderas de los astros del
+      Almanaque Náutico.
+   b) Tablas de correcciones para obtener las alturas verdaderas de los astros del
+      Manual de Navegación Náutico.
+   c) Tablas de correcciones para obtener las alturas verdaderas de los astros del
+      Cuaderno de Navegación de Altura.
+   d) Tablas de correcciones para obtener las alturas verdaderas de los astros de la
+      Guía Anual de Navegación Oceánica.
+
+
+5. Los valores de: el Semicírculo Horario del Sol y la Declinación de este son los
+    elementos de las coordenadas celestes:
+
+   a) Azimutales.
+   b) Horizontales.
+   c) Uranográficas.
+   d) Horarias.
+
+
+6. El arco del semicírculo horario de un astro en la esfera celeste que se cuenta
+   desde dicho astro hasta su polo elevado, se le llama:
+
+   a) La codeclinación del astro.
+   b) La distancia polar del astro.
+   c) La declinación del astro.
+   d) a) y b) son correctas.
+
+
+
+
+                                                                                2/10
+7. El plano eclíptico de la Tierra presenta una inclinación con respecto al plano
+    ecuatorial del Sol de:
+
+   a) 30º27´
+   b) 23º27´
+   c) 27º30´
+   d) 20º27´
+
+8. La hora de huso (Hz) coincide con la hora civil del lugar (HCL):
+
+   a) Cuando nos encontremos en el meridiano occidental del huso donde estamos.
+   b) Cuando nos encontremos en el meridiano oriental del huso donde estamos.
+   c) Cuando nos encontremos en el meridiano central del huso donde estamos.
+   d) Ningún meridiano del huso coincide con la hora civil del lugar.
+
+9. Si navegamos hacia el oeste desde la Isla del Hierro (canarias) hacia la Isla de
+    Santa Lucía (Caribe), con respecto a los husos horarios, habrá que:
+
+   a) Atrasar una hora cada vez que se cambie de huso.
+   b) Adelantar una hora cada vez que se cambie de huso.
+   c) Como vamos hacia el oeste el cambio consistirá en adelantar 2 horas cada
+      huso.
+   d) Como vamos hacia el oeste el cambio consistirá en atrasar 2 horas cada huso.
+
+10. Con respecto a la Constelación de Orión:
+
+   a) Toda ella se ubica en el hemisferio Norte celeste.
+   b) Toda ella se ubica en el hemisferio Sur celeste.
+   c) La mitad de ella se ubica en el hemisferio Norte y la otra mitad en el hemisferio
+      Sur.
+   d) Solo la estrella Rigel se encuentra en el hemisferio Sur.
+
+
+
+Unidad teórica 2 : CÁLCULO DE NAVEGACIÓN (preguntas de la nº 11 a la nº 20)
+
+El yate motovelero <Eclipse=, tras su regreso del Caribe en abril y tras un periodo de
+reparaciones, carenaje y alistamiento en el varadero y talleres de Puerto Sherry
+(Cádiz), zarpa para incorporarse a la temporada del verano, hacia la Marina de Sapri
+en la costa de Amalfi al sur de Italia.
+
+                             DIA 30 DE JUNIO DE 2022
+
+11. HCG= 0600, al sur de Cabo de Gata, situados en el punto -A- 36º 20,0´N – 002º
+    17,7´W, el Capitán calcula la distancia ortodrómica al punto -B- en Sapri
+    (costa de Amalfi en Salerno Italia) situado en 39º 53,0´N – 015º 34,8´E:
+
+   a) 665,3´
+   b) 868,7´
+   c) 728,2´
+   d) 940,5´
+                                                                                   3/10
+12.    De forma independiente y con los mismos datos de salida y de llegada
+      anteriores, calcula el rumbo inicial ortodrómico en su valor circular:
+
+      a) 070º
+      b) 065º
+      c) 075º
+      d) 080º
+
+13. A hora civil del lugar (Hcl)= 120342 en situación estimada= 36º 28,6´N – 001º
+    44,5´W, calculan la hora civil en Greenwich (HcG) de ese instante:
+
+      a) 120342
+      b) 121544
+      c) 121040
+      d) 122046
+
+
+                             DIA 1 DE JULIO DE 2022
+
+
+14. A hora civil de Greenwich (HcG)= 115539 en situación estimada= 37º 34,9´N –
+    002º 03,7´E, se produce el paso del Sol por el meridiano móvil del yate y el
+    Capitán aprovecha el cielo despejado para tomar altura meridiana al Sol
+    (limbo inferior) con altura instrumental= 75º 18,9´ (elevación del observador=
+    3 metros, corrección de índice= +3´) y calculando previamente la declinación
+    del Sol en ese momento= +23º 05,2´, rectifica la latitud por altura meridiana al
+    Sol:
+
+      a) 37º 36,7´N
+      b) 37º 30,9 N
+      c) 37º 25,2´N
+      d) 37º 18,3´N
+
+15. A hora civil de Greenwich HcG) = 152010 están en situación estimada= 37º
+    42,2´N – 002º 36,6´E y con la ayuda del Almanaque Náutico, calculan el valor
+    del horario en Greenwich del Sol (HGO) de ese instante:
+
+      a) 34º 38,5´
+      b) 36º 40,5´
+      c) 38º 58,5´
+      d) 49º 03,5´
+
+
+16. A hora civil de Greenwich (HcG)= 173020 en situación estimada= 37º 50,1’ N –
+    002º 57,2´E, calculan con la ayuda del Almanaque Náutico la declinación del
+    Sol de ese momento (dO):
+
+      a) +23º 04´12´´
+      b) +23º 01´18´´
+      c) +23º 07´12´´
+      d) +23º 10´05´´
+                                                                                4/10
+17. A hora civil de Greenwich (HcG)= 191520 en situación estimada= 37º 54,9´N –
+    003º 13,9´E; obtienen los valores de la declinación del Sol= +23º 03,2´y el
+    Angulo en el Polo= 111º (W) y utilizando las fórmulas que definen los lados
+    del triángulo de posición y sus complementos, calculan el azimut verdadero
+    del Sol (ZvO) en ese instante:
+
+   a) 305,3º
+   b) 300,7º
+   c) 310,4º
+   d) 295,8º
+
+
+                            DIA 2 DE JULIO DE 2022
+
+
+18. Adentrados en el Mediterráneo occidental con viento del SSW por la aleta de
+    estribor y cielos despejados, a hora civil de Greenwich (HcG)= 032050 están
+    en situación estimada= 38º 13,8´N – 004º 23,6´E y calculan con la ayuda del
+    Almanaque Náutico el horario en Greenwich de Aries (HGY):
+
+   a) 320º 08,3´
+   b) 325º 10,6´
+   c) 330º 21,7´
+   d) 335º 20,5
+
+19. A hora civil de Greenwich (HcG)=051010 en situación estimada= 38º 18,1´N –
+    004º 41,3´E, tras obtener horario en Greenwich de Aries (HGY) de ese
+    instante= 357º 46,1´, calculan el horario en Greenwich de la estrella <DENEB=
+    con la ayuda de los complementos de estrellas del Almanaque Náutico:
+
+   a) 47º 12,8´
+   b) 50º 20,6´
+   c) 45º 30,4´
+   d) 40º 10,2´
+
+                            DIA 3 DE JULIO DE 2022
+
+
+20. Después de navegar toda la noche con poco viento y mar en calma, en el
+    crepúsculo matutino a hora civil de Greenwich (HcG)= 051510 obtienen las
+    determinantes de la Recta de Altura de la estrella <DENEB=:
+   - Situación estimada= 38º 18,7´N – 005º 13,6´E
+   - Azimut verdadero (Zv)= 298º
+   - Diferencia de alturas= -5´
+Y con estos datos rectifican la situación estimada por el sistema gráfico de una
+sola recta de altura (punto aproximado):
+
+   a) 18º 11,2´N – 005º 20,1´E
+   b) 38º 19,1´N – 005º 11,8´E
+   c) 38º 12,6´N – 005º 14,5´E
+   d) 38º 16,3´N – 005º 17,7´E
+                                                                             5/10
+                        MÓDULO GENÉRICO
+
+Unidad teórica 3 : METEOROLOGÍA (preguntas de la nº 21 a la nº 30)
+
+
+21. El gas más abundante de la atmósfera terrestre es:
+
+   a) El oxígeno.
+   b) El hidrógeno.
+   c) El nitrógeno.
+   d) El argón.
+
+22. Desde el punto meteorológico la zona de la atmósfera terrestre más activa
+    es:
+
+   a) La tropopausa.
+   b) La ionosfera.
+   c) La troposfera.
+   d) La mesosfera.
+
+23. Si en el mapa del tiempo observamos una línea de inestabilidad acusada, se
+    está produciendo en esa zona:
+
+   a) La interactuación de una masa de aire frío que va descendiendo, con otra cálida
+      que asciende.
+   b) La formación de nubes convectivas del tipo cúmulos y cumulonimbos.
+   c) Tiempo adverso en general.
+   d) Todas las respuestas son correctas.
+
+24. Cuando dos masas de aire interactúan, pero una de ellas vuelve a su
+    condición de origen, se espera una evolución de:
+
+   a) Empeoramiento del tiempo.
+   b) Una mejoría del tiempo.
+   c) Un tiempo incierto.
+   d) Una masa de aire no vuelve nunca a su condición de origen.
+
+25. Las mangas o trombas marinas están siempre asociadas a las nubes del
+    tipo:
+
+   a) Cumulonimbos.
+   b) Cúmulos.
+   c) Estratocúmulos.
+   d) Altocúmulos.
+
+
+
+
+                                                                                 6/10
+26. Las mangas marinas se producen:
+
+      a) Cuando asciende desde la superficie del mar una masa de aire frio y hay un
+         altocúmulo encima.
+      b) Por la convergencia de dos masas de aire con distintas temperaturas y encima
+         hay una nube tipo cumulonimbo.
+      c) Por la bajada de una masa de aire cálido desde una nube tipo cúmulo hasta la
+         superficie del mar.
+      d) Por la llegada de un potente frente estacionario.
+
+27. El fenómeno óptico de la corona solar es debido a:
+
+      a) La bajada de temperatura en las capas altas de la atmósfera al paso de un
+         frente frio.
+      b) La luz amarillenta del Sol al paso de un frente frío.
+      c) La reflexión de la luz solar con cielos despejados.
+      d) La difracción de la luz solar en las gotas de agua de las nubes, asociadas a un
+         frente cálido.
+
+28. El fenómeno del rayo se produce cuando:
+
+      a) La electricidad viaja entre cargas eléctricas opuestas dentro de una misma
+         nube.
+      b) La electricidad viaja entre cargas eléctricas opuestas entre dos nubes
+         contiguas.
+      c) La electricidad viaja entre cargas eléctricas opuestas entre una nube y tierra.
+      d) Todas las respuestas son correctas.
+
+
+29.    Los huracanes        en   el   Atlántico   Norte   llevan   una     trayectoria    de
+      desplazamiento:
+
+      a) Desde las Islas Azores hacia el sur de la península de Florida.
+      b) Desde las Islas canarias hacia las Islas Bermudas.
+      c) Desde las Islas de Cabo Verde hacia el Mar caribe.
+      d) Desde el Golfo de Guinea hasta el Norte del Mar caribe.
+
+
+30. Las Reglas y las Normas establecidas para la seguridad en la navegación en
+    aguas con presencia de hielos, están recogidas en:
+
+      a) El Convenio SOLAS en su Capítulo V
+      b) En el Reglamento Internacional Para Prevenir los Abordajes (RIPA).
+      c) En el Convenio PARPOL en su Anexo VI.
+      d) En el Código IMGD en su anexo VII.
+
+
+
+
+                                                                                         7/10
+Unidad teórica 4 : INGLÉS (preguntas de la nº 31 a la nº 40)
+
+
+31. When the information requested is not immediately available, we say:
+
+   a) Wait for information
+   b) Wait 2 minutes
+   c) Wait a few minutes
+   d) Stand by
+
+32. What word is to be used to announce a distress message?
+
+   a) Pan Pan
+   b) Mayday
+   c) Securite
+   d) Distress
+
+33. If any part of the message are considered sufficiently important to need
+    safeguarding, say:
+
+   a) <Say again… " - followed by the corresponding part of the message.=
+   b) Tell again… < - followed by the corresponding part of the message.=
+   c) "Repeat ... " - followed by the corresponding part of the message.=
+   d) Do not tell again… " - followed by the corresponding part of the message.=
+
+34. To evacuate crew and passengers from a vessel following a distress, yhe
+    word to be used is:
+
+   a) Go out from vessel
+   b) Get out from vessel
+   c) Abandon vessel
+   d) Slip out from vessel
+
+35. A vessel which is not at anchor, or made fast to the shore, or aground is a
+    vessel
+
+   a) … running
+   b) … upside-down
+   c) … alongside
+   d) … Underway
+
+36. When a vessel is crossing our course from starboard side, …
+
+   a) We will give way
+   b) We call her by INMARSAT
+   c) We need not give way
+   d) We call her by VHF
+                                                                                   8/10
+37. In rescue operations, the word <hoist= indicates
+
+   a) a towing cable
+   b) A cable used by helicopters for lifting or lowering persons in a pick-up operation
+   c) The cable used to discharge static electricity from helicopters
+   d) Ropes supported by stanchions around an open hatch to prevent persons from
+      falling into a hold
+
+
+38. When you hear the message marker <request= it’s expected you
+
+   a) have to provide any kind of information
+   b) should answer a question
+   c) Have to abandon your ship
+   d) Have to follow an order
+
+39. What is the correct sentence?
+
+   a) I have slope to port of 20 degrees
+   b) I have inclination to port of 20 degrees
+   c) I have nod to port of 20 degrees
+   d) I have list to port of 20 degrees
+
+40. When a Coast Guard asks you about the wind direction in your area, it should
+    be preceded by the word
+
+   a) Information
+   b) Question
+   c) Answer
+   d) Order
+
+
+
+
+                                                                                     9/10
+CAPITÁN DE YATE
+
+   TIPO 1
+
+
+
+              10/10
+

@@ -1,0 +1,406 @@
+         Región de M urcia
+         Consejería de Fom ento e Infraestructuras
+         Dirección General de M ovilidad y Litoral                           http://nautica.carm.es
+         Plaza Santoña, 6, 30071 Murcia
+
+NOVIEMBRE - 2019
+                             CAPITÁN DE YATE                                                  Tipo 1
+- El examen de CAPITÁN DE YATE consta de 40 preguntas tipo test de formulación
+independiente entre sí, con cuatro respuestas alternativas siendo únicamente una válida.
+Contestar todas las preguntas, ya que no hay penalización para las erróneas.
+
+- Se corregirá con un doble criterio: 1º) globalmente y 2º) por módulos
+
+                                                                                       Condiciones APTO
+       Módulos                                Nº preguntas    Condiciones APTO
+                            Materias                                                    (Corrección por
+      Temáticos                                  examen       (Corrección global)
+                                                                                          módulos* )
+                            Teoría            10 preguntas:
+       Módulo de                                                   5 correctas             5 correctas
+                          navegación              1 - 10
+      navegación
+      (1 hora y 30        Cálculo de          10 preguntas:
+        minutos)                                                   6 correctas             6 correctas
+                          navegación             11 - 20
+
+                                              10 preguntas:
+      Módulo de          Meteorología                                                      5 correctas
+                                                 21 - 30
+       genérico
+
+        (1 hora)                              10 preguntas:
+                             Inglés                                                        5 correctas
+                                                 31 - 40
+
+
+            Total examen                      40 preguntas    28 correctas del total
+
+
+- Tiempo de realización del examen:
+     2 horas y 30 minutos para los dos Módulos temáticos (40 preguntas)
+     1 hora y 30 minutos para el Módulo de navegación (20 preguntas)
+     1 hora para el Módulo genérico (20 preguntas)
+
+
+                         MÓDULO DE NAVEGACIÓN
+Unidad teórica 1 : TEORÍA DE NAVEGACIÓN (preguntas de la nº 1 a la nº 10)
+
+
+1. Cuando observamos un astro, los vértices que se forman en el triángulo de posición
+   de la esfera celeste correspondiente, forman unos ángulos que son:
+    a) Ángulo cenital, ángulo en el polo y ángulo paraláctico.
+    b) Ángulo nadir, ángulo cenital y ángulo sidéreo.
+    c) Ángulo cenital, ángulo de declinación y ángulo apogeo.
+    d) Ángulo de codeclinación, ángulo en el polo y ángulo perigeo.
+
+2. El arco de semicírculo horario que queda comprendido entre el Ecuador celeste y el
+   centro de un astro concreto, se corresponde con la coordenada celeste horaria:
+    a) Azimut.
+    b) Declinación.
+    c) Altura.
+    d) Distancia polar
+
+
+
+1/8                                                                                    C.Y. - Tipo 1
+                                                                          Tipo 1
+3. Las coordenadas celestes uranográficas ecuatoriales, tienen como referencia:
+    a) El Almicantarat celeste del observador.
+    b) El Paralelo celeste del astro.
+    c) El Meridiano celeste del observador.
+    d) El Ecuador celeste.
+
+4. El eje imaginario que desde nuestra situación en la esfera celeste (Cenit), pasa por el
+   centro de la esfera y corta en el extremo opuesto un punto, este punto es:
+    a) El orto.
+    b) La ascensión recta.
+    c) El nadir.
+    d) El ángulo sidéreo.
+
+5. Si cruzamos el meridiano 180º a rumbo Este el día 17 de noviembre de 2019, a HRB=
+   10:00 ¿Qué fecha y hora HRB tendremos tras cruzarlo?
+    a) La misma fecha (día 17) y la misma HRB.
+    b) Una fecha menos (día 16) y la misma HRB.
+    c) Una fecha más (día 18) y la misma HRB.
+    d) Dos fechas más (día 19) y la misma HRB.
+
+6. El plano del círculo máximo que es perpendicular por el centro del eje cenit - nadir
+   con respecto a un observador y se forma en el centro de la esfera celeste, es:
+    a) El horizonte visible o de la Mar.
+    b) El horizonte verdadero o racional.
+    c) El horizonte sensible o aparente.
+    d) El horizonte relativo o aproximado.
+
+7. Dos astros que están situados en la esfera celeste oblicua de un observador, sobre
+   un mismo almicantarat, tienen:
+    a) La misma declinación respecto al horizonte verdadero o racional.
+    b) La misma altura verdadera respecto al horizonte verdadero o racional.
+    c) El mismo ángulo sidéreo respecto al horizonte verdadero o racional.
+    d) El mismo horario respecto al horizonte verdadero o racional.
+
+8. ¿Cómo se identifica a la Estrella Polar con la ayuda de constelaciones?
+    a) Con la ayuda de las estrellas de la constelación Osa o Carro Mayor: Merak y Dubbe,
+       prolongando su enfilación unas cinco veces.
+    b) Con la ayuda de la constelación de Casiopea, prolongando las bisectrices que se
+       formarían imaginariamente entre los ángulos de sus estrellas.
+    c) Con la ayuda de la constelación de la Cruz del Sur, prolongando la enfilación de sus
+       brazos.
+    d) a) y b) son correctas.
+
+9. Los puntos de corte de la Eclíptica con el Ecuador Celeste son:
+    a) Primer punto de Libra y Aries.
+    b) Primer punto de Cáncer y Capricornio.
+    c) Primer punto de Casiopea y Orión.
+    d) Primer punto de la Polar y Arcturus.
+
+10. Al camino aparente del movimiento del Sol sobre la esfera celeste según se ve
+   desde la Tierra, cuyo plano está inclinado 23°27' respecto del plano del ecuador
+   celeste, se le llama:
+    a) Camino solar sidéreo.
+    b) Ascensión recta.
+    c) Línea equinoccial.
+    d) Eclíptica.
+2/8                                                                    C.Y. - Tipo 1
+                                                                           Tipo 1
+Unidad teórica 2 : CÁLCULO DE NAVEGACIÓN (preguntas de la nº 11 a la nº 20)
+
+El yate "Poseidón" de la matrícula de Cartagena, motovelero de dos palos y 23 metros de
+eslora, se dispone a cruzar el Atlántico con un grupo de Capitanes de Yate, desde la Marina
+de Puerto Calero en la Isla de Lanzarote, hacia la Isla de Guadalupe en el Caribe.
+
+                          VIERNES 15 DE NOVIEMBRE DE 2019
+
+Atracados en Puerto Calero, calculan la derrota ortodrómica entre el WPT de inicio= 28º 58’N
+013º 42’W (cercano a Puerto Calero en la isla canaria de Lanzarote) y el WPT final= 16º 06'N
+051º 09'W (a barlovento de la Isla de Guadalupe en el Caribe)
+
+11. Calculan la distancia ortodrómica
+    a) 2310,15’
+    b) 2240,62
+    c) 2202,82
+    d) 2106,10
+
+12. Calculan el valor del rumbo inicial ortodrómico en su valor circular
+    a) 257,75º
+    b) 250,08º
+    c) 240,10º
+    d) 235,20º
+
+A HRB= 2030 (arreglada a la hora de uso), se encuentran en el WPT de inicio= 28º 58’N 013º
+42’W
+13. Calculan la hora civil de Greenwich (HCG) de ese instante
+    a) HCG= 1930
+    b) HCG= 2030
+    c) HCG= 2130
+    d) HCG= 2230
+
+                          SABADO 16 DE NOVIEMBRE DE 2019
+
+Navegando con alisio moderado por la aleta de babor y a todo trapo, a HCG= 1115 se
+encuentra en situación estimada= 24º40'N – 017º 10'W
+14. Calculan el horario en Greenwich del Sol (HGʘ)
+    a) HGʘ= 350º 10,3’
+    b) HGʘ= 352º 34,8’
+    c) HGʘ= 355º 16,2’
+    d) HGʘ= 358º 20,6’
+
+A HCG= 1130 están en situación estimada= 24º 38’N – 017º 13’W y con un horario en
+Greenwich del Sol= 356º 19,8’
+15. Calculan el ángulo en el polo formado (˄P)
+    a) ˄P= 20º 53,2’ E
+    b) ˄P= 20º 53,2’ W
+    c) ˄P= 13º 32,8’ E
+    d) ˄P= 13º 32,8’ W
+3/8                                                                     C.Y. - Tipo 1
+                                                                              Tipo 1
+A HCG= 1145 la situación estimada que tienen es= 24º 36'N - 017º 15'W y en ese instante
+toman altura instrumental al Sol (limbo inferior)= 43º 24,0’ con elevación del observador= 3
+metros y error de índice= +3'
+16. Calculan la altura verdadera del Sol
+    a) avʘ= 43º 46,4’
+    b) avʘ= 43º 56,6’
+    c) avʘ= 43º 05,5’
+    d) avʘ= 43º 39,4’
+
+A la misma HCG y situación estimada anterior, habiendo calculado previamente los valores de:
+declinación δʘ= -18º 43,3’, el ángulo en el polo de ese instante ˄P = 17º 10,2’ (E) y utilizando
+las fórmulas que definen los ángulos del triángulo de posición,
+17. Calculan el azimut verdadero del Sol (Zvʘ) en su valor circular en ese instante
+    a) Zvʘ= 206,7º
+    b) Zvʘ= 157,3º
+    c) Zvʘ= 337,3º
+    d) Zvʘ= 022,4º
+
+A la misma HCG y situación estimada anterior y los mismos valores de δʘ y ˄P, utilizando las
+fórmulas que definen los lados del triángulo de posición,
+18. Calculan el valor de la altura estimada del ʘ
+    a) aeʘ= 43º 33,7’
+    b) aeʘ= 43º 10,2’
+    c) aeʘ= 43º 40,8’
+    d) aeʘ= 43º 50,6’
+
+
+                           DOMINGO 17 DE NOVIEMBRE DE 2019
+
+
+A HCG= 1130 del Domingo 17, se encuentran en situación estimada= 23º 50'N 018º 40'W
+navegando con buena mar, alisio establecido de popa y cielos despejados y obtienen los
+siguientes datos de las determinantes de la Recta de Altura al Sol.
+       Diferencia de alturas ˄aʘ= -4’
+       Azimut verdadero Zvʘ= 156,5º
+
+19. Rectifican su posición por una sola recta de altura al Sol, método punto aproximado
+   y por el sistema gráfico
+    a) Posición rectificada= 23º 47,3'N – 018º 35,3’W
+    b) Posición rectificada= 23º 50,3'N – 018º 38,3’W
+    c) Posición rectificada= 23º 53,7'N – 018º 41,8’W
+    d) Posición rectificada= 23º 57,4'N – 018º 38,3’W
+
+
+
+
+4/8                                                                        C.Y. - Tipo 1
+                                                                          Tipo 1
+Ya oscurecido y en el crepúsculo vespertino del Domingo 17, a HCG= 1904, en situación
+estimada= 23º 40'N – 019º 10'W, obtienen horario del lugar de Aries (hIɤ)= 322,5º y toman
+azimut de aguja a la estrella Polar= 352º
+20. Calculan el valor de la corrección total por azimut a la Polar utilizando la tabla
+   correspondiente del Almanaque Náutico
+    a) Ct= 8,7ºE
+    b) Ct= 8,7ºW
+    c) Ct= 1,7ºE
+    d) Ct= 1,7ºW
+
+
+
+                         MÓDULO GENÉRICO
+
+Unidad teórica 3 : METEOROLOGÍA (preguntas de la nº 21 a la nº 30)
+
+
+21. La zona de contacto del aire cálido de los anticiclones subtropicales y el aire frio de
+    los anticiclones polares se conforma como:
+   a) El frente polar.
+   b) El frente tropical.
+   c) El frente subtropical.
+   d) El frente ecuatorial.
+
+22. Un huracán en su avance por el Atlántico Tropical del Norte, forma dos semicírculos,
+   ¿Cuál es el semicírculo manejable?:
+    a) Avanzando desde aguas de Azores hacia el Caribe, es el semicírculo delantero.
+    b) Avanzando desde la zona de Canarias hacia el Caribe el semicírculo derecho.
+    c) Avanzando desde la zona de Cabo Verde hacia el Caribe. es el semicírculo izquierdo.
+    d) Avanzando desde la zona de Nigeria hacia el Caribe, es el semicírculo trasero.
+
+23. El tiempo meteorológico (nubes, lluvias, vientos, etc.), se produce en:
+    a) La Exosfera.
+    b) La Meteosfera.
+    c) La Termosfera.
+    d) La Troposfera.
+
+24. Con referencia a la intensidad de los vientos, su fuerza y efectos devastadores, la
+   escala que mide a los ciclones y huracanes es:
+    a) La escala Douglas.
+    b) La escala Beaufort.
+    c) La escala Safir-Simpson.
+    d) La escala Richter.
+
+25. En el centro o vórtice de un ciclón o huracán, imperan:
+    a) Los vientos moderados.
+    b) Las altas presiones.
+    c) Los cielos cubiertos.
+    d) Las bajas presiones.
+
+
+
+
+5/8                                                                    C.Y. - Tipo 1
+                                                                           Tipo 1
+26. Cuando en una tormenta escuchamos un fuerte estampido, se denomina a este
+    fenómeno sonoro como:
+   a) Trueno.
+   b) Relámpago.
+   c) Rayo.
+   d) Estruendo.
+
+27. Océano Indico, navegamos por aguas del Golfo de Bengala al NE de Sri-Lanka en el
+     mes de Junio, estaremos por tanto en época de:
+    a) El Monzón de Verano con cielos despejados y vientos fuertes.
+    b) El Monzón de Verano con cielos parcialmente cubiertos, lluvia escasa y vientos flojos.
+    c) El Monzón de Verano con cielos despejados y mar en calma.
+    d) El Monzón de Verano con cielos muy cubiertos y abundantes lluvias.
+
+28. En los océanos Atlántico y Pacífico, los vientos que van desde los anticiclones
+   subtropicales, hacia las bajas presiones ecuatoriales, se llaman:
+    a) Vientos Alisios.
+    b) Vientos Contralisios.
+    c) Vientos Ecuatoriales.
+    d) Vientos Oestes Dominantes.
+
+29. ¿Cuál de las siguientes corrientes NO discurre en el Océano Atlántico?:
+    a) Del Golfo o Gulfstream.
+    b) De Canarias.
+    c) De El Niño.
+    d) De Benguela.
+
+30. La mayor probabilidad de encontrarnos con un iceberg navegando por aguas del
+   Atlántico Norte, sería:
+    a) Al Sur de las Islas Azores en el mes de Enero.
+    b) Al Sur de Islandia en el mes de Abril.
+    c) Al Norte de Madeira en el mes de Enero.
+    d) Al Norte de Finisterre en el mes de Mayo.
+
+
+Unidad teórica 4 : INGLÉS (preguntas de la nº 31 a la nº 40)
+
+
+31. For avoiding confusion and error in navigational and safety communications from
+   ship to shore and vice versa, from ship to ship, and on board ship, communications
+   must be precise, simple and …
+    a) Unambiguous
+    b) Ambiguous
+    c) Unclear
+    d) Indeterminate
+
+32. When the information requested cannot be obtained, say:
+    a) <Fail=
+    b) <Not=
+    c) <No information=
+    d) <I don’t know=
+
+
+
+
+6/8                                                                      C.Y. - Tipo 1
+                                                                               Tipo 1
+33. When it is accepted to remain on the VHF channel/frequency indicated, say:
+   a) <Waiting for on VHF channel ... /frequency ...=
+   b) <Awaiting on VHF channel ... /frequency ...=
+   c) "Standing by on VHF channel ... /frequency ... "
+   d) <Expecting on VHF channel ... /frequency ...=
+
+34. When the changing of a VHF Channel is accepted, say:
+   a) <I go to VHF Channel…=
+   b) <moving to VHF Channel…=
+   c) <I go on VHF Channel…=
+   d) <changing to VHF Channel…=
+
+35. If any part of the message is considered sufficiently important to need safeguarding,
+   say:
+    a) "Say again ... " - followed by the corresponding part of the message.
+    b) "Speak again ... " - followed by the corresponding part of the message.
+    c) "Repeat ... " - followed by the corresponding part of the message.
+    d) "Tell ... " - followed by the corresponding part of the message.
+
+36. When the light of a buoy or a lighthouse are inoperative, it is said…
+    a) Broken
+    b) Crash down
+    c) Upside down
+    d) Unlit
+
+37. When a mistake is made in a message, say…:
+    a) "Error ..." followed by the word: "Correction ... " plus the corrected part of the message.
+    b) "Mistake ..." followed by the word: "Correction ... " plus the corrected part of the
+       message.
+    c) "Wrong ..." followed by the word: "Correction ... " plus the corrected part of the
+       message.
+    d) "Error message..." followed by the word: "Correction ... " plus the corrected part of the
+       message.
+
+38. Depth in water at which a vessel floats is called
+    a) Draught (or draft)
+    b) Bottom
+    c) Deep
+    d) Lowest land
+
+39. A vessel which through exceptional circumstances is unable to manoeuvre as
+   required by the COLREGs is known as
+    a) Under command
+    b) On the way
+    c) Not under command
+    d) Nor on the way
+
+40. The most probable position of a search target at a given time is called
+    a) Center
+    b) Datum
+    c) Point of departure
+    d) SAR Point
+
+
+
+
+7/8                                                                          C.Y. - Tipo 1
+                    Tipo 1
+
+
+
+
+      CAPITAN DE YATE
+
+         TIPO 1
+
+
+
+8/8               C.Y. - Tipo 1
+

@@ -1,0 +1,439 @@
+         Región de Murcia
+         Consejería de Fomento e Infraestructuras
+         Dirección General de Litoral y Puertos                               http://nautica.carm.es
+         Plaza Santoña, 6, 30071 Murcia
+
+
+
+JUNIO-2025               CAPITÁN DE YATE                                                 Tipo 1
+- El examen de CAPITÁN DE YATE consta de 40 preguntas tipo test de formulación
+independiente entre sí, con cuatro respuestas alternativas siendo únicamente una
+válida. Contestar todas las preguntas, ya que no hay penalización para las erróneas.
+
+- Se corregirá con un doble criterio: 1º) globalmente y 2º) por módulos
+
+                                                                                         Condiciones APTO
+        Módulos                                 Nº preguntas    Condiciones APTO
+                             Materias                                                     (Corrección por
+       Temáticos                                   examen       (Corrección global)
+                                                                                            módulos* )
+                             Teoría             10 preguntas:
+        Módulo de                                                    5 correctas            5 correctas
+                           navegación               1 - 10
+       navegación
+       (1 hora y 30        Cálculo de           10 preguntas:
+         minutos)                                                    6 correctas            6 correctas
+                           navegación              11 - 20
+
+                                                10 preguntas:
+       Módulo de          Meteorología                                                      5 correctas
+                                                   21 - 30
+        genérico
+
+         (1 hora)                               10 preguntas:
+                               Inglés                                                       5 correctas
+                                                   31 - 40
+
+
+             Total examen                       40 preguntas    28 correctas del total
+
+
+- Tiempo de realización del examen:
+       2 horas y 30 minutos para los dos Módulos temáticos (40 preguntas)
+       1 hora y 30 minutos para el Módulo de navegación (20 preguntas)
+        1 hora para el Módulo genérico (20 preguntas)
+
+
+                        MÓDULO DE NAVEGACIÓN
+Unidad teórica 1 : TEORÍA DE NAVEGACIÓN (preguntas de la nº 1 a la nº 10)
+
+1. La Hora Civil en Greenwich se relaciona con la Hora Civil del Lugar mediante:
+
+  a) La altura.
+  b) La declinación.
+  c) La longitud.
+  d) La latitud.
+
+2. ¿Dónde se comunican las correcciones de las Cartas?
+
+  a) En el apartado “novedades” de la página web de la Dirección General de la Marina
+     Mercante.
+  b) En los Derroteros.
+  c) En el Libro de faros.
+  d) En los Avisos a los navegantes.
+3. El concepto de “altura meridiana” hace referencia a una observación tomada
+   sobre cualquier cuerpo celeste cuando:
+
+  a) La distancia cenital meridiana es nula.
+  b) La distancia cenital meridiana es máxima.
+  c) Su posición terrestre está sobre el meridiano del observador.
+  d) Su posición terrestre está sobre el meridiano de Greenwich.
+
+4. ¿Cómo se denomina a la hora correspondiente al Huso Horario?
+
+  a) Hora civil.
+  b) Hora aparente.
+  c) Hora oficial.
+  d) Hora legal.
+
+
+5. Si obtenemos una declinación del Sol de 23º 27’ S estaremos navegando en el
+   mes de:
+
+  a) Junio.
+  b) Diciembre.
+  c) Septiembre.
+  d) Marzo.
+
+6. En relación con las observaciones realizadas con el sextante, ¿qué error hace
+   referencia al ángulo que forma el Horizonte de la mar y el aparente?
+
+  a) Depresión.
+  b) Paralaje.
+  c) Refracción astronómica.
+  d) Semidiámetro.
+
+7. Los puntos cardinales Norte y Sur, se encuentran en las intersecciones de:
+
+  a) La eclíptica del astro con el Almicantarat.
+  b) El horizonte aparente con el meridiano del astro.
+  c) El horizonte astronómico con el meridiano de lugar.
+  d) El Azimut del astro con el eje zenital.
+
+
+8. Si observamos la constelación con el mayor número de estrellas brillantes
+   (brillo superior a magnitud 2), habremos identificado:
+
+  a) Osa Mayor.
+  b) Casiopea.
+  c) Orión.
+  d) Cruz del Sur.
+
+
+
+
+                          2/10
+9. En la mar, durante el crepúsculo vespertino, con el sextante obtenemos la altura
+   de un astro. Tras aplicar las pertinentes correcciones, obtenemos:
+
+ a) El ángulo correspondiente al arco de círculo vertical del astro, contado desde el
+    horizonte astronómico hasta el almicantarat.
+ b) El arco de Ecuador contado desde Aries hasta el círculo horario del astro de 0º a
+    160º en sentido inverso.
+ c) El ángulo correspondiente al arco de círculo horario del astro contado desde el
+    ecuador celeste hasta el astro.
+ d) El arco de ecuador celeste contado desde el punto vernal en el sentido contrario
+    delas agujas del reloj visto desde el polo Norte del astro hasta el pie del máximo
+    de ascensión del astro.
+10. Las coordenadas uranográficas toman como plano fundamental de referencia
+  el:
+
+   a) Ecuador terrestre.
+   b) Ecuador celeste.
+   c) Horizonte verdadero.
+   d) Horizonte aparente.
+
+
+Unidad teórica 2 : CÁLCULO DE NAVEGACIÓN (preguntas de la nº 11 a la nº 20)
+
+
+11. El día 14 de junio de 2025 estando situados en longitud de estima Le=007º 26’ E
+    Calcular la hora UTC de paso del Sol por el meridiano superior del lugar.
+
+     a) UTC = 12h 30,0m      (14.06)
+     b) UTC = 12h 30,0m      (15.06)
+     c) UTC = 11h 30,6m      (14.06)
+     d) UTC = 12h 15,5m      (14.06)
+
+12. Calcular HʘG y dʘ (Horario del Sol en Greenwich y Declinación del sol)
+    el día 14 de junio de 2025 a TU 15:00 en L: 007º 26´ E
+
+     a) HʘG= 44º 44,9´ ;     dʘ= 23º 20,5´ N
+     b) HʘG= 44º 54,5´ ;     dʘ= 23 17,6´ N
+     c) HʘG= 29º 54,5` ;     dʘ= 23º 17,6´ N
+     d) HʘG= 44º 35,5´ ;     dʘ= 23º 20,5´ N
+
+13. Calcular el azimut verdadero del Sol (Azʘ) el día 14 de junio de 2025 en
+    situación l: 43º 40’N L: 007º 26’E a TU 09:00, declinación del sol (dʘ) 23º 16,9’N
+    y Horario del Sol (E): 322º 21,4’
+
+     a) Az= 291,1º
+     b) Az= 248,9º
+     c) Az= 111,1º
+     d) Az= 068,9º
+
+
+                           3/10
+14. Calcular el horario en el lugar (hL) de la estrella Aldebarán (19) en posición
+    l: 43º 40 `N L:007º 26`E a TU 09:00 del 14 de junio de 2025
+
+    a) 321º 8,6`
+    b) 290º 39,6`
+    c) 47º 55`
+    d) 336º 0,6`
+
+
+15. Calcular la altura de estima del sol el día 14 de junio del 2025 a TU 14:00 en
+    situación l: 42º 38`N L: 018º 05`E, siendo la declinación del Sol (dʘ) 23º 17,5` N
+    y horario en el lugar del sol (hʘL) 47º 59,7`.
+
+    a) 46º 03,3´
+    b) 10º 37,5´
+    c) 56º 10,8`
+    d) 46º 10,8`
+
+
+16. El día 14 de junio de 2025 se observa el Sol limbo inferior con altura
+    instrumental aiʘ = 62º 20’. en situación GPS l: 42º 20` L:007º 20`E. Error de
+    índice Ei = 0 . Elevación del observador Eo = 8 metros.
+    Calcular la altura verdadera del Sol (avʘ).
+
+    a) Avʘ= 62º 10´
+    b) Avʘ= 62º 22,3´
+    c) Avʘ= 62º 30,3´
+    d) Avʘ= 62º 15,3´
+
+
+17. Un buque que navega a RA 165° en l: 36° N, toma en el momento del ocaso del
+    ʘ (sol) marcación a ese mismo astro 95° por Er (estribor), sabiendo que la
+    declinación del ʘ en ese momento es de 13° 45’ S.
+   Se pide calcular la Ct (corrección total):
+
+   a) -7,1º
+   b) 0º
+   c) +7,1º
+   d) Ninguna es correcta.
+
+
+
+
+                          4/10
+18. Calcular gráficamente la situación observada por dos rectas de altura
+    simultaneas en situación de estima: 24°50,3´ N; 150°58,0´E. Sabiendo que se
+    han obtenido los siguientes determinantes:
+    -Kochab: Z= N14W; Diferencia de alturas= +3.
+    -Hamal: Z= N75E; Diferencia de de alturas= +2.
+
+   a) 24°53.7´N; 150°59,3´E
+   b) 24°46,6´N; 150°56,3´E
+   c) 24°50,5´N; 151°00,2´E
+   d) 24°52,3´N; 151°00,7´E
+
+
+19. El 15 de Marzo del 2025 se sale de las coordenadas l: 43º 27`N L:008º 23`W con
+    destino a un punto de coordenadas l:36º 54`N L: 075º 50´W. Calcular distancia
+    ortodrómica.
+
+   a) D=5088,4 millas
+   b) D=4742,8 millas
+   c) D=3032,3 millas
+   d) D=1249,8 millas
+
+
+20. Calcular el Rumbo Inicial Ortodrómico para navegar de la forma más efectiva
+    desde Tokio (latitud: 35º 25,0’N; Longitud: 139º 46,0’E)
+    hasta Lima (latitud: 10º 16,3’S y Longitud: 077º 53,0’W).
+
+   a) Ri=297º
+   b) Ri=063º
+   c) Ri=243º
+   d) Ri=117º
+
+
+
+
+                         5/10
+                         MÓDULO GENÉRICO
+
+Unidad teórica 3 : METEOROLOGÍA (preguntas de la nº 21 a la nº 30)
+
+
+21. La capa de la atmósfera terrestre donde actúa el fenómeno del jet Stream es:
+
+   a) La troposfera.
+   b) La tropopausa.
+   c) La estratosfera.
+   d) La ionosfera.
+
+22. La corriente marina de Benguela (Atlántico Sureste) es desde el punto de vista
+    térmico:
+
+   a) Fría.
+   b) Cálida.
+   c) Templada.
+   d) Fría en invierno y templada en verano.
+
+23. Los vientos monzónicos actúan en:
+
+   a) El Océano Atlántico.
+   b) El Océano Pacífico Norte.
+   c) En el Océano Pacífico Sur.
+   d) En el Océano Índico.
+
+24. Las trombas o mangas marinas están asociadas a las nubes del tipo:
+
+   a) Cumulostratos.
+   b) Cumulonimbos.
+   c) Estratocúmulos.
+   d) Cirrocúmulos.
+
+25. Los hielos flotantes de origen terrestre que llegan al Mar y derivan por él son:
+
+   a) Iceberg.
+   b) Icepack.
+   c) Packberg.
+   d) Banquisa.
+
+26. ¿Cómo tiene lugar la circulación general de las corrientes en el Océano
+    Atlántico Norte?
+
+   a) En sentido antihorario.
+   b) En sentido horario.
+   c) No hay un sentido general de circulación.
+   d) Al Este en sentido horario y al Oeste en sentido antihorario.
+
+
+
+                          6/10
+27. Cuando en una tormenta escuchamos un fuerte estampido, se denomina a este
+    fenómeno sonoro como:
+
+   a) Trueno.
+   b) Relámpago.
+   c) Rayo.
+   d) Estruendo.
+
+28. ¿Cuál de las siguientes opciones es característica de las trombas?
+
+   a) Su recorrido suele llegar a las 200 millas, intensificándose al tocar tierra.
+   b) En ellas existe un anillo formado de polvo y desechos de suelo, dónde se apoya
+      su base.
+   c) Son descargas eléctricas intensas y rápidas.
+   d) El agua de la superficie se encrespa, formando un anillo de agua pulverizada.
+
+
+29. De los gases que constituyen la atmósfera terrestre, el de mayor proporción
+    es:
+
+   a) El nitrógeno.
+   b) El oxígeno.
+   c) El argón.
+   d) El hidrógeno.
+
+30. ¿Cómo se denomina al fenómeno meteorológico en el que la diferencia de
+  potencial eléctrico entre objetos en punta como mástiles o pararrayos en un
+  barco y la base de una nube, dan lugar a descargas eléctricas, manifestándose
+  como un resplandor de color azul o verde, que envuelve los extremos y que
+  desaparece con una explosión apagada?
+
+   a) Rayo verde.
+   b) Auroras polares o boreales.
+   c) Halos o coronas.
+   d) Fuego de San Telmo.
+
+
+
+Unidad teórica 4 : INGLÉS (preguntas de la nº 31 a la nº 40)
+
+
+31. Elija la traducción adecuada de los términos: “Dangerous wreck reported
+    /Damaged and unlit / Danger of capsizing”.
+
+   a) Accidente peligroso superado / Dañada e iluminada / Peligro de Colisión.
+   b) Vertido peligroso informado / Dañada y apagada / Peligro de Zozobra.
+   c) Casco en peligro reportado / Dañada e iluminada / Peligro de Colisión.
+   d) Restos peligrosos de naufragio notificado/ Dañada y apagada / Peligro de
+      Zozobra.
+
+                         7/10
+32. Elija la traducción adecuada de los términos siguientes: “Derelict / Disabled
+    and adrift / Definitely withdrawn”:
+
+   a) Buque hundido / Destrozado / Definitivamente sumergido.
+   b) Buque, aún a flote, abandonado en el mar / Sin gobierno y a la deriva
+      /Definitivamente retirado.
+   c) Buque retirado / Inhabilitado para navegar / Definitivamente suspendido de
+      actividad.
+   d) Buque encallado /A la deriva / Definitivamente abandonado.
+
+
+33. Elija la traducción de la frase: My present speed is 20 knots
+
+   a) Mi rumbo actual es 20 grados.
+   b) Mi calado actual es 20 pulgadas.
+   c) Mi calado actual es 20 pies.
+   d) Mi velocidad actual es 20 nudos.
+
+
+34. Traduzca la frase: Vessel not under command.
+
+   a) Buque sin capitán.
+   b) Buque sin comandante.
+   c) Buque sin gobierno.
+   d) Buque sin timón.
+
+
+35. Conforme a las frases normalizadas de la OMI para las comunicaciones
+     marítimas, elija la traducción correcta de: “There was a total blackout (at …
+    UTC/from ... to ... UTC)”.
+
+   a) Ha habido una avería total (a las ... horas UTC/ de las ... a las horas UTC).
+   b) Ha habido una parada total (a las ... horas UTC/ de las ... a las horas UTC).
+   c) Ha habido un bloqueo total (a las ... horas UTC/ de las ... a las horas UTC).
+   d) Ha habido un corte total (a las ... horas UTC/ de las ... a las horas UTC).
+
+
+36. Elija la traducción correcta de la frase: What is your MMSI number?
+
+   a) ¿Cuál es el número máximo de personas a bordo?
+   b) ¿Cuál es el número IMO del buque?
+   c) ¿Cuál es su número de identificación del Servicio Móvil Marítimo?
+   d) ¿Cuál es el número de chalecos a bordo?
+
+
+
+
+                          8/10
+37. Elija la traducción adecuada: I require medical assistance
+
+    a) No necesito asistencia médica.
+    b) Necesito asistencia médica.
+    c) Asistencia médica en helicóptero.
+    d) Asistencia médica en embarcación
+
+
+38. Elija la traducción adecuada: Vessel in position..., in fire.
+
+    a) Buque en posición..., tiene un incendio
+    b) Buque en posición…, ha tenido una explosión
+    c) Buque en posición…, está hundiéndose.
+    d) Buque en posición…, ha sufrido un abordaje.
+
+
+39. Elija la traducción adecuada: “List/danger of capsizing”
+
+   a) Escora/peligro de zozobra.
+   b) Varada/escora peligrosa.
+   c) Hundimiento/escora peligrosa.
+   d) Inundación/peligro de hundimiento.
+
+
+40. “My last port of call was...”. Seleccione la traducción correcta:
+
+   a) Mi próximo puerto de escala será…
+   b) Mi hora estimada de llegada será…
+   c) Mi hora estima de salida del puerto será...
+   d) Mi último puerto de escala fue...
+
+
+
+
+                          9/10
+CAPITAN YATE
+
+ - Tipo 1 -
+
+
+
+   10/10
+

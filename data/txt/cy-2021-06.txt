@@ -1,0 +1,456 @@
+          Región de Murcia
+          Consejería de Fomento e Infraestructuras
+          Dirección General de Movilidad y Litoral                            http://nautica.carm.es
+          Plaza Santoña, 6, 30071 Murcia
+
+JUNIO- 2021
+
+                                CAPITÁN DE YATE                                           Tipo 1
+- El examen de CAPITÁN DE YATE consta de 40 preguntas tipo test de formulación
+independiente entre sí, con cuatro respuestas alternativas siendo únicamente una
+válida. Contestar todas las preguntas, ya que no hay penalización para las erróneas.
+
+- Se corregirá con un doble criterio: 1º) globalmente y 2º) por módulos
+
+                                                                                        Condiciones APTO
+        Módulos                                Nº preguntas    Condiciones APTO
+                             Materias                                                    (Corrección por
+       Temáticos                                  examen       (Corrección global)
+                                                                                           módulos* )
+                             Teoría            10 preguntas:
+        Módulo de                                                   5 correctas            5 correctas
+                           navegación              1 - 10
+       navegación
+       (1 hora y 30        Cálculo de          10 preguntas:
+         minutos)                                                   6 correctas            6 correctas
+                           navegación             11 - 20
+
+                                               10 preguntas:
+       Módulo de          Meteorología                                                     5 correctas
+                                                  21 - 30
+        genérico
+
+         (1 hora)                              10 preguntas:
+                              Inglés                                                       5 correctas
+                                                  31 - 40
+
+
+             Total examen                      40 preguntas    28 correctas del total
+
+
+- Tiempo de realización del examen:
+    2 horas y 30 minutos para los dos Módulos temáticos (40 preguntas)
+    1 hora y 30 minutos para el Módulo de navegación (20 preguntas)
+    1 hora para el Módulo genérico (20 preguntas)
+
+
+
+                          MÓDULO DE NAVEGACIÓN
+
+Unidad teórica 1 : TEORÍA DE NAVEGACIÓN (preguntas de la nº 1 a la nº 10)
+
+
+1. Los círculos menores de la esfera celeste que son paralelos al horizonte
+   aparente de un observador, son:
+
+   a) Los almicantarat.
+   b) Los paralelos al ecuador celeste.
+   c) Los arcos de declinación.
+   d) Los arcos de las codeclinaciones.
+
+
+
+
+1/10
+2. En la constelación del Carro u Osa Mayor (Hemisferio Norte Celeste), la cola
+   de la misma, señala como línea de referencia hacia la estrella:
+
+   a) Arcturus.
+   b) Mimosa.
+   c) Bellatrix.
+   d) Sirius
+
+3. Se define como arco de codeclinaclón de una estrella a:
+
+   a) El arco de círculo máximo contado desde la estrella a su Polo elevado.
+   b) El arco de círculo máximo contado desde la estrella al Ecuador Celeste.
+   c) El arco de círculo máximo contado desde la estrella a su Almicantarat.
+   d) El arco de círculo máximo contado desde la estrella al meridiano 000º Celeste.
+
+4. En las coordenadas uranográficas ecuatoriales, sus componentes son:
+
+   a) Dependientes del observador solo si es del Sol.
+   b) Angulo sidéreo y declinación de una estrella.
+   c) Declinación y azimut de una estrella.
+   d) La altura verdadera y el azimut independientemente sea de estrella o de Sol.
+
+5. La proyección de la posición de un observador sobre la Esfera Celeste, ocupa
+    un punto que se denomina:
+
+   a) Azimut.
+   b) Cénit
+   c) Nadir.
+   d) Altura.
+
+6. Si navegamos por círculo máximo de la esfera terrestre, estamos realizando
+
+   a) Una derrota loxodrómica.
+   b) Una derrota mercatoriana.
+   c) Una derrota ortodrómica.
+   d) Una derrota batimétrica.
+
+7. Sobre la esfera celeste un yate se encuentra en un meridiano celeste concreto
+    y en ese instante, un astro se encuentra en su círculo horario
+    correspondiente.
+   ¿Cómo se llama el arco de Ecuador celeste entre el meridiano celeste del
+    observador y el círculo horario del astro?
+
+   a) Horario en Greenwich del observador.
+   b) Horario del lugar.
+   c) Horario en Greenwich del astro.
+   d) Horario sidéreo.
+
+
+
+2/10
+8. El huso horario marca la hora de huso (Hz) u hora legal (HI).
+   ¿Cuál será la diferencia máxima de tiempo que puede haber entre esa hora del
+    huso y la hora civil del lugar (HcI) de cualquier punto dentro del huso?
+
+      a) Una hora.
+      b) 7,5 minutos.
+      c) 15 minutos.
+      d) 30 minutos
+
+9. Cuando decimos "primer punto de Aries", nos estamos refiriendo a ...
+
+      a) Un ángulo cenital.
+      b) Un punto celeste de referencia para localizar las estrellas observables.
+      c) El punto de inicio de un arco de horizonte.
+      d) El punto cenital del azimut de un astro.
+
+10. La máxima altura observable de un astro con el sextante, se produce al...
+
+      a) paso del astro por el horizonte en el Orto.
+      b) paso del astro por el horizonte, al Ocaso.
+      c) paso del astro por el meridiano opuesto del Observador.
+      d) paso del astro por el meridiano superior del observador.
+
+
+Unidad teórica 2 : CÁLCULO DE NAVEGACIÓN (preguntas de la nº 11 a la nº 20)
+
+El yate a vela “Eclipse" de 23 metros de eslora y dos palos, matrícula de
+Cartagena, se encuentra en la Marína de Kíng Point de Plymoulh para iniciar un
+viaje hacia el puerto de Tazacorte en la isla Canaria de la Palma
+
+11.
+       24 de Junio 2021
+       El Capitán estudia la derrota ortodrómica desde el punto -A- de salida 49º59'N -
+       006º 01’W al Oeste de Plymouth, hasta el punto -B- de llegada 28º44'N – 018º
+       04'W, cercano al Puerto de Tazacorte en la Isla de la Palma (Canarias) y calcula la
+       distancia ortodrómica
+           a) 1206,70 millas náuticas.
+           b) 1170,30 millas náuticas.
+           c) 1388,07 millas náuticas.
+           d) 1436,20 millas náuticas.
+
+12.
+       24 de Junio 2021
+       De forma independiente y con los mismos datos anteriores de salida y de llegada,
+       calcula el rumbo verdadero inicial ortodrómico en su valor circular
+           a) 208º
+           b) 200º
+           c) 220º
+           d) 230º
+
+3/10
+13.
+       25 de Junio 2021
+       HRB= 0600 arreglada a la hora de huso (Hz) se encuentran en el punto de salida -
+       A- (49º 59'N – 006º 44’W) y proceden a calcular la hora civil de Greenwich en ese
+       instante
+           a) 0400
+           b) 0500
+           c) 0600
+           d) 0800
+
+14.
+       26 de Junio 2021:
+       Navegan sin novedad con viento y marejada del WNW y al rumbo ortodrómico,
+       cielos parcialmente cubiertos y a hora civil de Greenwich =0510, distinguen entre
+       claros a la
+       Estrella Polar y le toma altura instrumental= 47º 31’, (corrección de índice= -3' y
+       elevación= 3m.).
+       Situación estimada en ese instante= 47º 10,2'N – 007º 59,4'W y tras obtener el
+       valor del horario del lugar de Aries (hIƳ)= 344º 03,6', con ayuda de las tablas del
+       Almanaque Náutico para la Polar, rectifican la latitud
+           a) 47º 05.1'N
+           b) 47º 09,6'N
+           c) 47º 14,8'N
+           d) 47º 24,3'N
+
+15.
+       26 de Junio 2021
+       La misma HcG (0510), igual HIƳ (344º 03,6’) y en la misma situación de estima
+       (47º 10,2'N - 007º 59,4'W), toma azimut de aguja a la estrella Polar= 007º y con la
+       ayuda de la tabla del Almanaque Náutico, calculan la corrección total de la aguja:
+           a) 6,15º E
+           b) 6,15º W
+           c) 7,15º E
+           d) 7,15º W
+
+
+16.
+       27 de Junio 2021:
+       Continúan navegando hacia Canarias al Ra= 214º con el viento y la Mar marejada
+       del NW y a HcG= 1015 la situación estimada es= 44º 22,2'N – 008º 36,4'W y en
+       ese instante toman azimut de aguja al Sol= 121º y tras hallar su declinación= +23º
+       29,5' y el ángulo en el polo= 35º 34,9'(E). Con la ayuda de las fórmulas que
+       resuelven los ángulos del triángulo de posición, calculan el valor de la corrección
+       total y hallan el valor del rumbo verdadero que llevan
+           a) 200º
+           b) 207º
+           c) 215º
+           d) 221º
+
+
+
+4/10
+17.
+       28 de Junio 2021
+       HcG= 1050, en situación estimada 41º 42,3'N - 012º 30,6'W calculan, con la ayuda
+       del Almanaque Náutico, el valor de la declinación del Sol para ese instante
+           a) +23º 15,1’
+           b) +23º 16,6’
+           c) +23º 17,1’
+           d) +23º 18,1’
+
+18.
+       29 Junio 2021:
+       A HcG= 130058, se encuentran en situación estimada= 40º 07,2'N - 014º 25,0'W.
+       En ese instante y esa situación, se produce el paso del Sol por el meridiano móvil
+       del yate y obtienen altura verdadera del Sol= 72º 59,5' y declinación del Sol= +23º
+       11,7’ y tras calcular el valor de la distancia zenital con su signo correspondiente,
+       rectifican la latitud por meridiana del Sol:
+           a) 40º 12,2'N
+           b) 40º 13,3'N
+           c) 40º 14,4'N
+           d) 40º 16,6'N
+
+19.
+       30 de Junio 2021:
+       HcG= 1500, la situación estimada que tienen es= 37º 03,2'N - 016º 06,5'W; a 295
+       millas al Oeste del faro de San Vicente al Sur de Portugal, navegando sin novedad
+       hacia Canarias y viento bonancible que sopla del Norte.
+       En ese Instante calculan el ángulo en el polo del Sol
+           a) 27º 57,3'E
+           b) 27º 57,3'W
+           c) 27º 57,3'N
+           d) 27º 57,3'S
+
+20.
+       30 de Junio 2021
+       A HcG= 2024 en el final del crepúsculo vespertino, con cielos despejados y buena
+       visibilidad, observan a la estrella “Vega" y calculan los datos de las determinantes
+       de la recta de altura de dicha estrella=
+                   Situación estimada 36º 23,2'N – 015º I0,2'W.
+                   Azimut verdadero= N65ºE.
+                   Diferencia de alturas= +5'
+
+       y proceden a rectificar la posición por punto aproximado a una sola estrella por el
+       método gráfico
+           a) 36º 25'2’N – 015 º04,4’W
+           b) 36º 30,3’N - 015º 08,3’W
+           c) 36º 20,2’N - 015º 00,0’W
+           d) 36º 15,3’N - 015º 10,1’W
+
+5/10
+                        MÓDULO GENÉRICO
+
+Unidad teórica 3 : METEOROLOGÍA (preguntas de la nº 21 a la nº 30)
+
+
+21. La corriente del Atlántico Norte que fluye en sentido hacia el Sur desde la
+    costa de Galicia y hasta el Cabo de San Vicente al Sur de Portugal se
+    denomina:
+
+   a) corriente Ibérica.
+   b) corriente de Portugal.
+   c) corriente de San Vicente.
+   d) corriente de Finisterre.
+
+22. Los vientos monzónicos actúan en:
+
+   a) El Océano Atlántico.
+   b) El Océano Pacífico Norte.
+   c) En el Océano Pacífico Sur.
+   d) En el Océano Índico.
+
+23. El fenómeno del Jet Stream se refiere a:
+
+   a) Las corrientes de vientos en chorro en la tropopausa
+   b) las corrientes de vientos en chorro en la Ozonosfera.
+   c) las corrientes de vientos en chorro en la Estratosfera.
+   d) Las corrientes de vientos en chorro en la Ionosfera.
+
+24. Mes de Julio, navegamos desde Cabo Verde al Caribe y nos atrapa un
+    huracán por su semicírculo manejable, según los vientos que acompañan a
+    este semicírculo, el yate:
+
+   a) Se alejará del centro o vórtice del huracán.
+   b) Sera arrastrado hacia la periferia del semicírculo peligroso.
+   c) Será arrastrado hacia el semicírculo peligroso posterior.
+   d) Será arrastrado hacia el mismo centro o vórtice del huracán.
+
+25. Los hielos de origen terrestre que caen a la mar y son arrastrados por las
+    corrientes, se forman en:
+
+   a) Únicamente en los glaciares del Norte de Noruega.
+   b) Solo en las regiones antárticas.
+   c) Solo en las regiones árticas.
+   d) Por igual en los glaciares del hemisferio Norte como en los del hemisferio Sur.
+
+
+
+
+6/10
+26. El fenómeno del rayo y del relámpago se produce cuando:
+
+   a) Cuando exista una carga eléctrica diferente entre dos nubes contiguas.
+   b) Cuando exista una carga eléctrica diferente entre una nube y tierra.
+   c) Cuando se igualan las cargas eléctricas de las lluvias.
+   d) las respuestas a) y b) son correctas.
+
+
+27. Con relación a trombasmarinas y tornados:
+
+   a) Ambos fenómenos son el resultado de la estabilidad correctiva de la atmósfera.
+   b) La tromba marina es de mayor fuerza y virulencia que el tornado.
+   c) Son fenómenos similares, marino la tromba y terrestre el tornado.
+   d) las respuestas a) y c) son correctas.
+
+
+28. Navegamos por el océano Indico, mes de Julio y recibimos aviso desde la
+    Estación de Seguimiento de Ciclones de Fremantle (Australia Occidental) de
+    que se nos acerca un ciclón.
+   ¿Qué tipo de nubes precederá a este ciclón según las nubes asociadas a
+    estos fenómenos?:
+
+   a) Altocúmufos.
+   b) Cirros.
+   c) Nimbostratos.
+   d) Cúmulos.
+
+29. La tropopausa es la capa de la atmósfera terrestre que hace de unión entre
+
+   a) la troposfera y la estratosfera.
+   b) la estratosfera y la mesosfera.
+   c) la Ionosfera y la exosfera.
+   d) La tropopausa y la exosfera.
+
+30. La corriente marina ecuatorial del Norte en el Océano Atlántico es producida
+    fundamentalmente por:
+
+   a) El arrastre de los vientos predominantes del Oeste que soplan desde las costas
+      orientales de Estados Unidos, hada Europa.
+   b) El arrastre de los vientos predominantes del Sur que soplan del Ecuador hacia
+      el trópico de Cáncer.
+   c) El arrastre de los vientos alisios que soplan desde Canarias a Cabo Verde y
+      desde allí, se recurvan hada el Caribe.
+   d) El arrastre producido por el desnivel entre las aguas orientales y las aguas
+      occidentales del Atlántico Norte.
+
+
+
+
+7/10
+Unidad teórica 4 : INGLÉS (preguntas de la nº 31 a la nº 40)
+
+
+31. The IMO Standard Marine Communication Phrases have been compiled with
+    few objetives, one of witch is:
+
+   a) Keeping a good watch
+   b) Keeping a closer watch
+   c) to assist in the greater safety of navigation and of the conduct of ship
+   d) Maintaining free of dangers
+
+32. When you hear the message marker “request” it’s expected you
+
+   a) have to provide any kind of information
+   b) should answer a question
+   c) Have to abandon your ship
+   d) Have to follow an order
+
+33. When a mistake is made in a message, for transmiting the correct data you
+    have to say
+
+   a) "Wrong ..." - followed by the Word
+   b) "Mistake ..." - followed by the Word
+   c) "Error ..." - followed by the Word
+   d) "Equivocation ..." - followed by the Word
+
+
+34. Courses always to be expressed
+
+       a) in 360 degree notation from relative north
+       b) in 360 degree notation from magnetic north
+       c) in 360 degree notation from true north
+       d) in 360 degree notation from relative north
+
+
+35. In rescue operations, the word “hoist” indicates
+
+   a) a towing cable
+   b) A cable used by helicopters for lifting or lowering persons in a pick-up operation
+   c) The cable used to discharge static electricity from helicopters
+   d) Ropes supported by stanchions around an open hatch to prevent persons from
+      falling into a hold
+
+
+36. If you have to give a help in a search operation, when you reach the search
+    operations area, you have to be receive orders from
+
+   a) On scene comander
+   b) Captain and commander of the biggest ship in the área
+   c) The radio station
+   d) The first ship you find on arrival
+8/10
+37. When an INSTRUCTION (e.g. by a VTS Station, naval vessel or other fully
+    authorized personnel) or an ADVICE is given, respond if in the affirmative:
+
+   a) Yes
+   b) Of course
+   c) Ok
+   d) I will
+
+
+38. When you listen the following message “Diving operations by vessel XX” you
+    know
+
+   a) There are towing operations
+   b) Towing operations in progress
+   c) There are persons under water
+   d) There are Shipping operations
+
+39. The IMO´s Standard Marine Communication Phrases builds on a
+
+   a) Simplified International Language
+   b) Language mixing French and English languages
+   c) Deep knowledge on English language
+   d) Basic knowledge of the English language
+
+40. When it is advisable to remain on a VHF Channel / frequency say:
+
+   a) Go on VHF Channel ... / frequency ... "
+   b) Hear in VHF Channel ... / frequency ... "
+   c) “Keep on VHF Channel ... / frequency ... "
+   d) "Stand by on VHF Channel ... / frequency ... "
+
+
+
+
+9/10
+        CY - TIPO 1
+10/10
+

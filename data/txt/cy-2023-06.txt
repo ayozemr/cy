@@ -1,0 +1,438 @@
+       Región de M urcia
+       Consejería de Fom ento e Infraestructuras
+       Dirección General de M ovilidad y Litoral                           http://nautica.carm.es
+       Plaza Santoña, 6, 30071 Murcia
+
+JUNIO- 2023
+
+                         CAPITÁN DE YATE                                                  Tipo 1
+- El examen de CAPITÁN DE YATE consta de 40 preguntas tipo test de formulación
+independiente entre sí, con cuatro respuestas alternativas siendo únicamente una
+válida. Contestar todas las preguntas, ya que no hay penalización para las erróneas.
+- Se corregirá con un doble criterio: 1º) globalmente y 2º) por módulos
+
+                                                                                     Condiciones APTO
+      Módulos                               Nº preguntas    Condiciones APTO
+                          Materias                                                    (Corrección por
+     Temáticos                                 examen       (Corrección global)
+                                                                                        módulos* )
+                          Teoría            10 preguntas:
+     Módulo de                                                   5 correctas            5 correctas
+                        navegación              1 - 10
+    navegación
+    (1 hora y 30        Cálculo de          10 preguntas:
+      minutos)                                                   6 correctas            6 correctas
+                        navegación             11 - 20
+
+                                            10 preguntas:
+    Módulo de          Meteorología                                                     5 correctas
+                                               21 - 30
+     genérico
+
+      (1 hora)                              10 preguntas:
+                           Inglés                                                       5 correctas
+                                               31 - 40
+
+
+          Total examen                      40 preguntas    28 correctas del total
+
+
+- Tiempo de realización del examen:
+    2 horas y 30 minutos para los dos Módulos temáticos (40 preguntas)
+    1 hora y 30 minutos para el Módulo de navegación (20 preguntas)
+    1 hora para el Módulo genérico (20 preguntas)
+
+
+                       MÓDULO DE NAVEGACIÓN
+Unidad teórica 1 : TEORÍA DE NAVEGACIÓN (preguntas de la nº 1 a la nº 10)
+
+1. En la esfera celeste, el eje que va desde el punto de situación del observador,
+   pasa por el centro de la esfera y sale por la parte opuesta, se le conoce como:
+
+   a) Eje de los antípodas.
+   b) Eje zenit – nadir.
+   c) Eje de situación.
+   d) Eje ortodrómico.
+
+2. Un observador sobre la esfera celeste se encuentra en la latitud= 30º 45,1’N
+  ¿Cuál será su polo depreso?:
+
+   a) El polo Norte.
+   b) El polo Sur.
+   c) El polo occidental.
+   d) El polo oriental.
+                                                      1
+3. En las coordenadas horarias, el Sol se localiza por:
+
+   a) Su círculo horario y su declinación.
+   b) Su azimut y su altura.
+   c) Su ángulo sidéreo y su declinación.
+   d) Su latitud y su longitud celestes.
+
+4. Las estrellas tienen como coordenadas celestes:
+
+   a) Las coordenadas horarias.
+   b) Las coordenadas horizontales.
+   c) Las Coordenadas uranográficas.
+   d) Las Coordenadas geográficas.
+
+5. El arco de círculo máximo que se cuenta en la esfera celeste desde un astro
+   visible y por tanto observable, hasta al zenit del observador, se llama:
+
+   a) La distancia polar.
+   b) La altura observada.
+   c) La codeclinación del astro.
+   d) La distancia zenital.
+
+6. El arco de círculo máximo que se cuenta en la esfera celeste desde el astro a
+   su polo elevado es:
+
+   a) La codeclinación del astro.
+   b) La distancia polar del astro.
+   c) La distancia zenital del astro.
+   d) a) y b) son correctas.
+
+7. Cuando el Sol en la eclíptica coincide con el punto de Libra:
+
+   a) Comienza el otoño en el hemisferio Norte.
+   b) Comienza la primavera en el hemisferio Sur.
+   c) Es el verano en ambos hemisferios.
+   d) a) y b) son correctas.
+
+8. El ángulo de inclinación del plano eclíptico con respecto al plano ecuatorial
+   del Sol es de:
+
+   a) 66º33´
+   b) 23º27´
+   c) 20º23´
+   d) 15º20´
+
+9. Los dos ángulos que se forman en la constelación de Casiopea, tienen cada
+   uno su bisectriz, las cuales prolongadas en la esfera celeste nos llevara a:
+
+   a) La estrella Polar de la constelación de la Osa o Carro Menor.
+   b) La estrella Arcturus de la constelación de la Osa o Carro Mayor.
+   c) La estrella Vega de la constelación de Orión.
+   d) La estrella Sirio de la constelación de la Cruz del Sur.
+10. En la constelación de Orión hay un cinturón en su parte central formado por
+  tres estrellas visibles y por ellas pasa:
+
+   a) El meridiano de Greenwich celeste.
+   b) El meridiano 180º celeste.
+   c) El ecuador celeste.
+   d) El paralelo 23º 27´N celeste.
+
+
+
+Unidad teórica 2 : CÁLCULO DE NAVEGACIÓN (preguntas de la nº 11 a la nº 20)
+
+El yate <ECLIPSE=, motovelero de 22 metros de eslora, atracado en la Marina Yacht
+Port de Cartagena (Murcia), prepara una salida de varios días en crucero de prácticas
+de navegación de Baleares para Capitanes de Yate.
+
+                            Viernes 23 de Junio de 2023
+
+Atracados en la marina, realizan un ejercicio de derrota ortodrómica entre un punto de
+salida -A- cercano a Mindelo en el Archipiélago de las Islas de Cabo verde (Atlántico
+Norte Suroriental) = 17º 30,0´N – 025º 00,0´W. Hacia otro punto -B- cercano a la isla
+de Antigua y Barbuda (Mar Caribe) = 17º 30,0´N – 060º 00,0´W y calculan:
+
+11. La distancia ortodrómica:
+
+   a) 1646,9´
+   b) 1728,8´
+   c) 1892,7´
+   d) 1999,9´
+
+12. El rumbo inicial ortodrómico en su valor circular:
+
+   a) 275º
+   b) 270º
+   c) 279º
+   d) 283º
+
+Zarpan por la tarde de la Marina de Cartagena y a la hora oficial de España= 1650
+(H+2) se encuentra situados en 37º 40,1´N – 000º 19,9´W y tras calcular la hora civil
+de Greenwich (HcG) en ese instante:
+
+13. Ponen el reloj de bitácora a esa hora:
+
+   a) HcG= 1850
+   b) HcG= 1450
+   c) HcG= 1250
+   d) HcG= 1200
+                            Sábado 24 de Junio de 2023
+
+Trabajamos con el Almanaque Náutico del año en curso (se pueden utilizar las hojas
+que se adjuntan del mismo)
+
+
+14. A HcG (hora civil de Greenwich) = 1020 en situación estimada= 37º 59,9´N –
+  001º 19,6´E, proceden a calcular el HGO (horario en Greenwich del Sol) en ese
+  momento:
+
+  a)   314º 20,1´
+  b)   324º 26,3´
+  c)   334º 23,9´
+  d)   344º 28,2´
+
+15. A continuación, con esos mismos datos de HcG y situación de estima,
+  calculan el valor de la declinación del Sol en ese instante:
+
+   a) +23º 33,0´
+   b) +23º 30,1´
+   c) +23º 27,5´
+   d) +23º 24,7´
+
+
+16. Y por último, con los mismos datos, calculan el valor del ángulo en el polo
+    ( P ) que se forma:
+
+   a) 24º 16,5´E
+   b) 24º 16,5´W
+   c) 26º 55,7´E
+   d) 26º 55,7´W
+
+                           Domingo 25 de Junio de 2023
+
+
+Trabajos con el sextante (se puede utilizar la hoja que se adjunta del Almanaque
+Náutico del año en curso para la corrección de las alturas observadas que se adjunta y
+los datos que se aportan)
+
+17. A HcG (Hora civil de Greenwich) = 1010, en situación estimada= 38º 20,0´N –
+  002º 39,4´E, le toman altura instrumental al Sol (limbo inferior) = 63º 23,3´ con
+  elevación del observador 3 metros y corrección de índice= +3´y calculan la
+  altura verdadera del Sol en ese instante:
+
+   a) 68º 07,6´
+   b) 63º 38,5´
+   c) 68º 38,3´
+   d) 63º 07,5´
+18. Por la tarde, a HcG (Hora civil de Greenwich) = 1630, en situación estimada=
+    38º 28,6´N – 002º 40,0´E y con declinación del Sol = +23º 22,9´, han tomado
+    altura verdadera al Sol = 29º 54,5´ y con estos datos proceden a calcular el
+    valor de la distancia zenital con el Sol y su orientación:
+
+   a) -62º 08,5´ cara al este.
+   b) +64º 06,5´cara al norte.
+   c) -60º 05,5´ cara al sur.
+   d) +60º 10,4´cara al oeste.
+
+
+19. A la misma HcG y situación estimada anterior y habiéndose obtenido
+    previamente los datos siguientes:
+     - Declinación del Sol = +23º 22,9´
+     - Ángulo en el polo = 69º 29,8´W.
+
+   Utilizando las fórmulas del triángulo de posición que resuelven los datos y
+   sus complementos, proceden a calcular la altura estimada al Sol en ese
+   momento:
+
+   a) 29º 54,5´
+   b) 27º 30,2´
+   c) 26º 10,1´
+   d) 25º 20,2´
+
+
+                            Lunes 26 de Junio de 2023
+
+ 20. De regreso a Cartagena a Hora Civil de Greenwich = 0940 se encuentran en
+   situación estimada = 37º 59,7´N – 002º 00,6´E y tras tomar altura verdadera al
+   Sol, obtienen las determinantes siguientes de la Recta de Altura del Sol en
+   ese instante:
+     - Azimut verdadero = 116, 5º
+     - Diferencia de alturas= +5´
+
+   Y con estos datos, proceden a rectificar su posición estimada por el sistema
+   gráfico de una sola recta de altura al Sol, punto aproximado.
+
+
+   a) 37º 50,2´N – 002º 01,3 E
+   b) 37º 55,5´N – 002º 06,2´E
+   c) 37º 55,5´N – 002º 06,2´W
+   d) 37º 50,2´N – 002º 01,3´E
+                         MÓDULO GENÉRICO
+
+Unidad teórica 3 : METEOROLOGÍA (preguntas de la nº 21 a la nº 30)
+
+
+21. En la composición de la atmósfera terrestre el Nitrógeno representa:
+
+   a) ozonósfera. Un 20,95% de contenido.
+   b) Un 0,93% de contenido.
+   c) Un 78,08% de contenido.
+   d) Un 0.03% de contenido.
+
+22. La composición estructural de la atmosfera terrestre, presenta un estrato a
+    una altura aproximada de 150 kilómetros desde la superficie que hace
+    rebotar hacia abajo las ondas electromagnéticas cortas y medias y no les
+    permite salir al espacio exterior, este estrato o capa se le llama:
+
+   a) La mesosfera.
+   b) La ionosfera.
+   c) La exosfera
+   d) La magnetosfera.
+
+23. El origen de una formación tormentosa es consecuencia:
+
+   a) De que una masa de aire frio procedente de las capas altas, interactúe sobre
+      otra masa de aire cálida.
+   b) De que una masa de aire frio en contacto con otra cálida, la primera tienda a
+      seguir el movimiento iniciado.
+   c) De una temperatura muy fría a nivel de superficie.
+   d) Las respuestas a) y b) son correctas.
+
+24. Tanto en las formas tormentosas como en la formación de las trombas
+    marinas o mangas, las nubes que intervienen son del tipo:
+
+   a) Cumulonimbos.
+   b) Estratocúmulos.
+   c) Cirrocúmulos.
+   d) Cirrostratos.
+
+25. La luz zodiacal es un fenómeno óptico de la atmosfera que consiste en un
+    resplandor o claridad en el cielo durante el crepúsculo astronómico, esto
+    ocurre cuando:
+
+   a) Cuando el sol es ya visible en el crepúsculo matutino.
+   b) Cuando el sol aun es visible en el crepúsculo vespertino.
+   c) Cuando el sol está depreso unos 18º en ambos crepúsculos.
+   d) Cuando ye es de noche tras el crepúsculo vespertino.
+26. Cuando dos nubes contiguas están con distinta carga eléctrica puede
+    ocurrir:
+
+   a) Que la tiene mayor carga la eche a tierra.
+   b) Que la de mayor carga le ceda a la de menor carga el flujo eléctrico en forma de
+      relámpago.
+   c) Que la de mayor carga le ceda a la de menor carga el flujo eléctrico en forma de
+      trueno.
+   d) No hay descarga alguna porque ambas nubes están aisladas de tierra.
+
+
+27. Los regimenes de vientos característicos en el Océano Indico son:
+
+   a) Los monzones que soplan siempre de tierra hacia el Mar.
+   b) Los monzones que soplan siempre de Mar hacia tierra.
+   c) Los monzones que soplan desde África hacia Australia.
+   d) Los monzones que soplan de tierra hacia el Mar en la época invernal y del Mar
+      hacia tierra en el verano.
+
+
+28. En el Océano Pacífico Norte, los vientos Oestes dominantes soplan en la
+    dirección:
+
+   a) Desde Asia (Japón), hacia América del Norte (Canadá y california).
+   b) Desde Australia, hacia las costas de Panamá.
+   c) Desde Nueva Guinea, hacia las costas de México.
+   d) Desde el archipiélago filipino, hacia las costas de Ecuador.
+
+
+29. En el océano Atlántico Norte, los huracanes se establecen desde el
+    archipiélago de Cabo Verde en la costa occidental de África, hacia el Caribe
+    en la estación anual de:
+
+   a) Invierno.
+   b) Primavera - Verano.
+   c) Cualquier época del año.
+   d) En los meses de Diciembre y Enero.
+
+
+30. La corriente del Golfo o del Atlántico Norte fluye:
+
+   a) Desde las costas de Labrador en Canadá, hacia las costas de Europa.
+   b) Desde las costas de Florida y orientales de Estados Unidos, hacia Europa.
+   c) Viene fluyendo desde el Mar caribe hacia el archipiélago de Azores.
+   d) Se mueve en invierno hacia el Mar Caribe y en verano hacia Europa.
+Unidad teórica 4 : INGLÉS (preguntas de la nº 31 a la nº 40)
+
+
+31. In order to reduce grammatical, lexical and idiomatic varieties to a tolerable
+    minimum, using standardized structures, in matitime communications we
+    must use
+
+   a) Marine standard vocabulary
+   b) IMO Standard Marine Communication Phrases
+   c) International vessels language
+   d) International english for marine
+
+
+32. When the changing of a VHF Channel is accepted, say:
+
+   a) "Changing to VHF Channel ...".
+   b) <Go to Channel …=.
+   c) <Come to Channel=
+   d) <Leave to Channel=.
+
+
+33. The word <Datum=means
+
+   a) Position for anchoring
+   b) Position for berthing
+   c) The channel for communications
+   d) The most probable position of a search target at a given time
+
+
+34. A vessel still afloat, abandoned at sea is named
+
+   a) Shipwreck
+   b) Sunken
+   c) Derelict
+   d) Collapse
+
+
+35. Vessel Traffic Services special terms: A routing measure comprising a
+    designated area between the landward boundary of a Traffic Separation
+    Scheme and the adjacent coast is called
+
+   a) Inshore Traffic Zone (ITZ)
+   b) Offshore Traffic Zone (OTZ)
+   c) Traffic Separation Scheme (TSS)
+   d) Area controlled by a VTS Centre
+36. You hear by VHF a Security Message as follows: = Dredging operations by
+    vessel Olimpus in in position .xx xx.. . Wide berth requested=
+    It means you have to:
+
+   a) Stop engine
+   b) Go backwards
+   c) Pass the point as far as posible
+   d) Pass the point as close as posible
+
+
+37. PAN PAN (repeated three times) are the words indicating the following
+    message refers to a
+
+   a) Distress message
+   b) Urgency message
+   c) Security message
+   d) Meteorological message
+
+
+38. <There is no list= means
+
+    a) Your ship has leaned to starboard side
+    b) Your ship has leaned to port side
+    c) Your ship has not leaned
+    d) Your ship is not on even keel
+
+
+39. Major uncontrolled flow of seawater into the vessel is known as
+
+   a) Flooding
+   b) Sinking
+   c) Afloat
+   d) Colapse
+
+40. In SAR communications, when you need medical assistance for a
+   crewmember, on the VHF you say:
+
+   a) I want require medical assistance
+   b) I require require medical assistance
+   c) I demand medical assistance
+   d) I need medical assistance
+
+
+
+
+                        CY - TIPO 1
+

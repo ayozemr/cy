@@ -1,0 +1,457 @@
+          Región de Murcia
+          Consejería de Fomento e Infraestructuras
+          Dirección General de Movilidad y Litoral                            http://nautica.carm.es
+          Plaza Santoña, 6, 30071 Murcia
+
+ABRIL- 2021
+                              CAPITÁN DE YATE                                                 Tipo 1
+- El examen de CAPITÁN DE YATE consta de 40 preguntas tipo test de formulación
+independiente entre sí, con cuatro respuestas alternativas siendo únicamente una
+válida. Contestar todas las preguntas, ya que no hay penalización para las erróneas.
+
+- Se corregirá con un doble criterio: 1º) globalmente y 2º) por módulos
+
+                                                                                        Condiciones APTO
+        Módulos                                Nº preguntas    Condiciones APTO
+                             Materias                                                    (Corrección por
+       Temáticos                                  examen       (Corrección global)
+                                                                                           módulos* )
+                             Teoría            10 preguntas:
+        Módulo de                                                   5 correctas            5 correctas
+                           navegación              1 - 10
+       navegación
+       (1 hora y 30        Cálculo de          10 preguntas:
+         minutos)                                                   6 correctas            6 correctas
+                           navegación             11 - 20
+
+                                               10 preguntas:
+       Módulo de          Meteorología                                                     5 correctas
+                                                  21 - 30
+        genérico
+
+         (1 hora)                              10 preguntas:
+                              Inglés                                                       5 correctas
+                                                  31 - 40
+
+
+             Total examen                      40 preguntas    28 correctas del total
+
+
+- Tiempo de realización del examen:
+    2 horas y 30 minutos para los dos Módulos temáticos (40 preguntas)
+    1 hora y 30 minutos para el Módulo de navegación (20 preguntas)
+    1 hora para el Módulo genérico (20 preguntas)
+
+
+
+                          MÓDULO DE NAVEGACIÓN
+Unidad teórica 1 : TEORÍA DE NAVEGACIÓN (preguntas de la nº 1 a la nº 10)
+
+
+1. La definición de paralelo de declinación de un astro en la esfera celeste se
+   corresponde con el:
+    a) Círculo menor que es paralelo al Ecuador celeste y es perpendicular a los
+       círculos horarios de los astros.
+    b) Círculo menor de la esfera celeste que es perpendicular al ecuador y paralelo a
+       los círculos horarios de los astros.
+    c) Círculo máximo de la esfera celeste que va de polo a polo.
+    d) Círculo máximo de la esfera celeste que corta al Ecuador celeste por el
+       horizonte verdadero o racional del observador.
+
+
+
+1/10
+2. Se considera como polo depreso de un observador en la esfera celeste al
+   polo:
+    a) Del mismo nombre que la latitud del observador.
+    b) De distinto nombre que la latitud del observador.
+    c) El que siempre se corresponderá con el Polo Norte.
+    d) El que siempre se corresponderá con el Polo Sur.
+
+
+3. Desde el cenit de un observador en la esfera celeste y paralelos a su horizonte
+   verdadero o racional, se sitúan los círculos menores denominados:
+    a) Paralelos de alturas de declinación.
+    b) Paralelos de iguales azimutes.
+    c) Paralelos horarios.
+    d) Almicantarat.
+
+4. En el triángulo de posición: la distancia cenital (z), se calcula por la siguiente
+   ecuación básica:
+    a) z= 90º - Declinación del astro.
+    b) z= 90º - Horario del astro.
+    c) z= 90º - Altura verdadera.
+    d) z= 90º - Azimut verdadero del astro.
+
+5. El arco de semicírculo horario que es complementario a la declinación de un
+   astro en la esfera celeste con respecto a su polo elevado es:
+    a) Siempre menor de 90º.
+    b) La codeclinación del astro.
+    c) La distancia polar del astro.
+    d) Todas las respuestas son correctas.
+
+6. El paso anual del Sol por el primer punto de Aries en la Eclíptica, se
+   corresponde con:
+    a) El inicio de la primavera para el Hemisferio Norte.
+    b) El inicio del otoño para el Hemisferio Sur.
+    c) El inicio de la primavera simultáneamente en el Hemisferio Norte y el Hemisferio
+       Sur.
+    d) Las respuestas a) y b) son correctas.
+
+7. El arco de ecuador celeste contado desde el punto vernal, hacia el Oeste (de
+   0º a 360º), hasta el círculo horario de una estrella se le llama:
+    a) Angulo sidéreo.
+    b) Angulo acimutal.
+    c) Angulo en el Polo.
+    d) Angulo paraláctico.
+
+
+
+
+2/10
+8. Al crepúsculo del Sol después del ocaso, se le llama:
+    a) Crepúsculo ocasional.
+    b) Crepúsculo vespertino.
+    c) Crepúsculo nocturno.
+    d) Crepúsculo final.
+
+9. La estrella Rigel pertenece a la constelación:
+    a) Casiopea.
+    b) Osa Menor.
+    c) Osa Mayor.
+    d) Orión.
+
+10. La publicación apropiada de cartografía para organizar una derrota oceánica
+  es utilizar una carta tipo:
+   a) Routeing Chart.
+   b) Littoral Chart
+   c) Coast Chart.
+   d) Defeat Chart.
+
+
+
+Unidad teórica 2 : CÁLCULO DE NAVEGACIÓN (preguntas de la nº 11 a la nº 20)
+
+
+El yate catamarán a vela “Dragut” de regreso del Caribe hacia su puerto base en
+Cartagena, se encuentra atracado en la Marina de Nassau en Bahamas,
+preparando la travesía del Atlántico y zarpa para aprovechar los vientos Oestes
+dominantes.
+
+11. Día 15 de Abril de 2021. El Capitán calcula la distancia ortodrómica desde un
+  punto de salida -A- en Nassau (Bahamas)= 25º 42,1´N – 076º 42,4´W y otro punto -
+  B- de llegada al Sur del Cabo de San Vicente (Portugal)= 36º 53,8´N – 009º 00,0´W:
+   a) 3105,7 Millas náuticas.
+   b) 3213,6 Millas náuticas.
+   c) 3302,3 Millas náuticas.
+   d) 3464,5 Millas náuticas.
+
+
+12. Con los mismos datos de salida y de llegada anteriores, calcula el rumbo
+  verdadero inicial ortodrómico:
+   a) Rv inicial= 061º
+   b) Rv inicial= 076º
+   c) Rv inicial= 054º
+   d) Rv inicial= 083º
+
+
+
+
+3/10
+13. Día 16 de Abril de 2021. Al amanecer zarpan de Nassau y a hora del reloj de
+  bitácora (HRB) arreglada a la hora de huso (Hz)= 08:00, se encuentran en el punto
+  de salida –A- 25º 42,1´N – 076º 42,4´W y el Capitán calcula el día y la hora civil en
+  Greenwich (HcG) en ese instante:
+   a) HcG= 03:00 del día 17
+   b) HcG= 13:00 del día 16
+   c) HcG= 13:00 del día 17
+   d) HcG= 03:00 del día 15
+
+
+14. Día 17 de Abril de 2021. Navegan por la ortodrómica al rumbo inicial con viento y
+  mar por la aleta de babor y a hora civil de Greenwich (HcG)= 17:30 la situación
+  estimada es 27º 17,6´N – 073º 26,4´W y habiendo obtenido previamente del
+  Almanaque Náutico el horario en Greenwich del Sol (HGO)= 82º 37,8´, calcula el
+  valor del ángulo en el Polo con el Sol ( P ) en ese instante:
+   a) P= 9º11,4´(W)
+   b) P= 9º12,3´(E)
+   c) P= 9º12,3´(N)
+   d) P= 9º12,3´(S)
+
+15. Día 18 de Abril de 2021. Hora civil de Greenwich (HcG)= 14:50, se encuentran en
+  situación estimada= 28º 03,6´N – 070º 57,1´W y a esa hora, el Capitán tras haber
+  hallado con ayuda del Almanaque Náutico la declinación del Sol= +11º 07,6´y el
+  ángulo en el Polo con el Sol= 28º 16,4´ (E) y con las fórmulas que definen los
+  ángulos y sus complementos del Triángulo de posición, calcula el valor circular del
+  azimut verdadero del Sol en ese instante:
+   a) Zv= 102,4º
+   b) Zv= 110,8º
+   c) Zv= 117,0º
+   d) Zv= 124,9º
+
+16. Día 19 de Abril de 2021. Hora civil de Greenwich (HcG)= 14:10, la situación
+  estimada es= 29º 26,5´N – 069º 37,9´W y en ese instante, el Capitán toma altura
+  instrumental al Sol (limbo inferior)= 51º 01,3´ con error de índice= -3´ y elevación 3
+  metros; aplicando las siguientes correcciones obtenidas del Almanaque Náutico:
+  Depresión del horizonte (altura del observador) -3,1´; Semidiámetro, refracción y
+  paralaje= +15,2´ y Corrección adicional= 0´.
+  Con estos datos, calcula la altura verdadera del Sol en ese instante:
+   a) Av= 51º00,2´
+   b) Av= 51º10,4´
+   c) Av= 51º20,3´
+   d) Av= 51º30,5´
+
+
+
+
+4/10
+17. A la misma hora civil de Greenwich y en la misma situación estimada del anterior
+  ejercicio y habiendo obtenido previamente los valores de: declinación del Sol= +11º
+  22,8´y ángulo en el Polo con el Sol= 36º 53,9´(E); y con las fórmulas que definen los
+  lados y sus complementos del Triángulo de posición, calcula la altura estimada del
+  Sol para ese momento:
+   a) Ae= 51º14,1´
+   b) Ae= 51º09,2´
+   c) Ae= 51º26,7´
+   d) Ae= 51º03,1´
+
+18. Día 20 de Abril de 2021. Habiendo navegado un 25% de la travesía atlántica
+  desde Bahamas a San Vicente, a hora civil de Greenwich (HcG)= 23:26, se
+  encuentran en situación estimada= 31º 12,0´N – 066º 14,4´W y en ese instante el
+  Capitán, tras haber obtenido del Almanaque Náutico el valor del horario en
+  Greenwich de Aries (HGY)=200º 45,4´, calcula el horario del lugar de Aries (HlY)
+  para ese instante:
+
+   a) HlY= 272º15,0´
+   b) HlY= 206º00,6´
+   c) HlY= 127º20,8´
+   d) HlY= 134º31,0´
+
+19. Día 21 de Abril de 2021. Hora civil de Greenwich (HcG)= 02:26, se encuentran
+  en situación estimada= 31º 32,8´N – 065º 53,3´W, continúan navegando a todo
+  trapo por rumbo ortodrómico con viento y marejada del WNW y en ese instante el
+  Capitán obtiene nuevo horario en Greenwich de Aries (HGY)= 245º 52,8´y calcula el
+  horario en Greenwich de la estrella “Arcturus” (HG*), sabiendo que el ángulo sidéreo
+  de esta estrella (A.S.) es= 145º 50,4´
+   a) HG*= 100º30,7´
+   b) HG*= 096º29,2´
+   c) HG*= 018º10,2´
+   d) HG*= 031º43,2´
+
+20. Día 22 de Abril de 2021. Hora civil de Greenwich (HcG)= 08:52, comienza el
+   crepúsculo matutino para el yate y en ese instante siendo la situación de estima=
+   31º 52,1´N – 065º 18,8´W, el Capitán toma simultáneamente alturas a las estrella:
+   “Altaír” y “Alphecca” y obtiene las determinantes de las Rectas de Altura de ambas
+   estrellas:
+  * Altaír= Azimut verdadero 137º y Diferencia de Alturas +7´
+  * Alphecca= Azimut verdadero 274º y Diferencia de Alturas -3´
+  Y procede a rectificar la situación estimada por el sistema gráfico de dos rectas de
+   altura simultáneas a dos estrellas:
+
+   a) 31º 38,4´N – 065º 10,1´W
+   b) 31º 44,9´N – 065º 16,0´W
+   c) 31º 56,2´N – 065º 22,4´W
+   d) 32º 00,1´N – 065º 30,3´W
+
+5/10
+                        MÓDULO GENÉRICO
+
+Unidad teórica 3 : METEOROLOGÍA (preguntas de la nº 21 a la nº 30)
+
+
+21. La capa de la atmósfera terrestre donde se produce el fenómeno de las
+  auroras boreales y se reflejan las ondas hertzianas se denomina:
+
+   a) La troposfera.
+   b) La tropopausa.
+   c) La ionosfera.
+   d) La mesosfera.
+
+
+22. Al ponerse en contacto una masa de aire con otra de aire caliente y húmedo
+  se produce:
+
+   a) Una inestabilidad en la atmósfera.
+   b) Ambas masas de aire se estabilizan.
+   c) La masa cálida y húmeda se difumina.
+   d) La masa fría se calienta y se iguala con la cálida.
+
+
+23. Las trombas o mangas marinas a partir de un tipo de nube característica,
+  estas son:
+
+   a) Los cirrostratos.
+   b) Los cumulonimbos.
+   c) Los altocúmulos
+   d) Los estratocúmulos.
+
+
+24. Cuando se está dentro de un frente cálido, con mucha humedad y un velo
+  lechoso en el cielo, se ve alrededor del Sol o la Luna el fenómeno de:
+
+   a) Fuego de San Telmo.
+   b) Halo o Corona.
+   c) Parhelio.
+   d) Rayo Verde.
+
+
+25. El aire que constituye la atmósfera terrestre, está compuesto por diversas
+  clases de gases, el más abundante de ellos es:
+
+   a) El Nitrógeno.
+   b) El Oxígeno.
+   c) El Hidrógeno.
+   d) El Anhídrido Carbónico.
+
+
+6/10
+26. Los ciclones o huracanes son:
+
+   a) Perturbaciones atmosféricas originadas entre los trópicos.
+   b) Fenómenos atmosféricos que originan situaciones adversas de mal tiempo y
+      que se forman entre los 8º y 15º de latitud Norte o Sur.
+   c) Un gran torbellino de aire caliente, térmicamente homogéneo con fuertes
+      vientos, gran acumulación de Nubes convectivas de desarrollo vertical y oleaje
+      confuso y enorme.
+   d) Todas las respuestas son correctas.
+
+
+27. En el centro o vórtice del huracán o ciclón, la Mar es:
+
+   a) Marejada.
+   b) Gruesa.
+   c) Muy gruesa.
+   d) Montañosa a confusa y a veces enorme.
+
+
+28. En el Hemisferio Norte y entre otras circunstancias, en el sector peligroso
+  anterior de un huracán:
+
+   a) El viento rola rápidamente hacia la derecha.
+   b) La bajada del barómetro es grande y acusada.
+   c) Los vientos rolan rápidamente hacia la izquierda.
+   d) a) y b) son correctas.
+
+
+29. Los hielos de origen marino se producen en la superficie del Mar y una vez
+  formados se les denomina:
+
+   a) Ice-Pack o Banquisa.
+   b) Ice-Berg o Ice-Platform.
+   c) Glaciar-Berg o Ice-Plain.
+   d) Pack-Berg o Ice-Praire.
+
+
+30. Según los sistemas generales de vientos, los vientos oestes dominantes del
+  Atlántico Norte soplan con una trayectoria:
+
+   a) Desde las costas del Mar caribe hacia las costas de África Occidental.
+   b) Desde la península de Florida hacia el Estrecho de Gibraltar.
+   c) Desde la costa oriental de Estados Unidos y Canadá hacia la costa atlántica de
+      Europa.
+   d) Desde las Islas Azores a las Islas Canarias.
+
+
+
+
+7/10
+Unidad teórica 4 : INGLÉS (preguntas de la nº 31 a la nº 40)
+
+31. Under de I.M.O. Standard Marine Communication Phrases, Phrases for
+    providing VTS services mean…
+
+   a) Phrases for providing Vessels Timing Services
+   b) Phrases for providing Vessels Tracking Services
+   c) Phrases for providing Vessesls Traffic Services
+   d) Phrases for providing Video Tracking Schedule
+
+32. The Word PAN PAN is to be used to announce an
+
+   a) Advise message
+   b) Urgency message
+   c) Emergency message
+   d) Distress message
+
+33. When a message is not properly heard, say:
+
+       a) "Say again (please)."
+       b) “Tell it again (please)”
+       c) “Tell it again”
+       d) “Spell again”
+
+
+34. If someone asks you for your MMSI, you answer your
+
+   a) Maritime Mobile Service Identity number
+   b) Mobile Marine Safety Identification
+   c) Marine Manufactured Station Identification
+   d) Marine Making Service Identity number
+
+
+35. You and your sailing ship are close to a distress and you can see 3 persons
+    floating on the wáter and communicate this to the authority conducting
+    safety operations.
+    And this authority ask you if you can pick up survivors?
+    What you answer?
+
+   a) All of them are alive
+   b) None of them are alive
+   c) Yes, I can pick up all of them
+   d) I see no survivors
+
+
+
+
+8/10
+36. A Message Markers of instruction indicates that…
+
+   a) You have to follow a regulation
+   b) You are going to receive an advise
+   c) You are going to receive information
+   d) You are going to receive a question
+
+
+37. When it is advisable to remain on a VHF Channel / frequency say:
+
+   a) Go on VHF Channel ... / frequency ... "
+   b) Hear in VHF Channel ... / frequency ... "
+   c) “Keep on VHF Channel ... / frequency ... "
+   d) "Stand by on VHF Channel ... / frequency ... "
+
+
+38. When it is advisable to change to VHF channel 10, say
+
+   a) Advise change to VHF channel 10
+   b) Run to VHF channel 10
+   c) Don`t change to VHF channel 10
+   d) Experience another channel
+
+
+39. The movement of an anchor over the sea bottom involuntarily because it is
+     no longer preventing the movement of the vessel is known as
+
+   a) Dragging (of anchor)
+   b) Ripping (of anchor)
+   c) Flushing (of anchor)
+   d) Flashing (of anchor)
+
+
+40. When you hear the message marker “request” it’s expected you ...
+
+   a) have to provide any kind of information
+   b) should answer a question
+   c) Have to abandon your ship
+   d) Have to follow an order
+
+
+
+
+9/10
+  CAPITAN DE YATE
+
+        TIPO 1
+
+
+
+10/10
+

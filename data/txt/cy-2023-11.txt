@@ -1,0 +1,464 @@
+            Región de M urcia
+            Consejería de Fom ento e Infraestructuras
+            Dirección General de Litoral y Puertos                              http://nautica.carm.es
+            Plaza Santoña, 6, 30071 Murcia
+
+NOVIEMBRE- 2023
+
+                             CAPITÁN DE YATE                                                   Tipo 1
+- El examen de CAPITÁN DE YATE consta de 40 preguntas tipo test de formulación
+independiente entre sí, con cuatro respuestas alternativas siendo únicamente una
+válida. Contestar todas las preguntas, ya que no hay penalización para las erróneas.
+
+- Se corregirá con un doble criterio: 1º) globalmente y 2º) por módulos
+
+                                                                                           Condiciones APTO
+           Módulos                                Nº preguntas    Condiciones APTO
+                               Materias                                                     (Corrección por
+          Temáticos                                  examen       (Corrección global)
+                                                                                              módulos* )
+                                Teoría            10 preguntas:
+           Módulo de                                                   5 correctas            5 correctas
+                              navegación              1 - 10
+          navegación
+          (1 hora y 30        Cálculo de          10 preguntas:
+            minutos)                                                   6 correctas            6 correctas
+                              navegación             11 - 20
+
+                                                  10 preguntas:
+          Módulo de          Meteorología                                                     5 correctas
+                                                     21 - 30
+           genérico
+
+            (1 hora)                              10 preguntas:
+                                 Inglés                                                       5 correctas
+                                                     31 - 40
+
+
+                Total examen                      40 preguntas    28 correctas del total
+
+
+- Tiempo de realización del examen:
+          2 horas y 30 minutos para los dos Módulos temáticos (40 preguntas)
+          1 hora y 30 minutos para el Módulo de navegación (20 preguntas)
+           1 hora para el Módulo genérico (20 preguntas)
+
+
+                           MÓDULO DE NAVEGACIÓN
+
+Unidad teórica 1 : TEORÍA DE NAVEGACIÓN (preguntas de la nº 1 a la nº 10)
+
+1. En la esfera celeste, cuando observamos un astro y le calculamos su altura
+   verdadera, el arco de círculo máximo complementario que va desde ese astro
+   hasta nuestro zenit es:
+      a) La codeclinación del astro.
+      b) La distancia zenital.
+      c) La distancia polar del astro.
+      d) Las respuestas a y b son correctas.
+
+2. Los elementos de la coordenada celeste horizontal son:
+     a) La latitud y la longitud del astro.
+     b) El ángulo sidéreo y la declinación del Sol.
+     c) El horario del lugar (Hl) del observador y la altura observada del astro.
+     d) El azimut verdadero y la altura verdadera del astro observado.
+
+1/9
+3. El arco de círculo máximo de la esfera celeste que se cuenta desde la posición
+   del observador hasta su polo elevado es:
+
+      a)   La Colatitud del observador.
+      b)   De valor desde 0º a 90º.
+      c)   Norte o Sur.
+      d)   Todas las respuestas son correctas.
+
+4. El horario en Greenwich del Sol (HGO) es uno de los valores de la coordenada
+   celeste:
+
+     a) Horaria.
+     b) Horizontal.
+     c) Uranográfica.
+     d) Geográfica.
+
+5. ¿Cuál es la coordenada celeste que se utiliza para las estrellas?
+
+     a) Horizontal.
+     b) Uranográfica ecuatorial.
+     c) Horaria azimutal equidistante.
+     d) Geográfica celeste.
+
+
+6. En la esfera celeste de un observador, el arco de horizonte astronómico o
+   verdadero contado desde el meridiano verdadero del observador y el astro
+   correspondiente es:
+
+      a)   El azimut verdadero del astro.
+      b)   Desde 0º o norte verdadero, hasta 360º contados en el sentido dextrógiro.
+      c)   La distancia zenital.
+      d)   Las respuestas a y b son correctas.
+
+
+7. El Almanaque Náutico es una publicación que la realiza:
+
+     a) El Instituto Hidrográfico de la Marina en Cádiz.
+     b) El Real Instituto de Navegación de Madrid.
+     c) El Real Instituto y Observatorio de la Armada en San Fernando (Cádiz).
+     d) El Instituto de Ciencias Náuticas en Móstoles (Madrid).
+
+
+8. Para obtener las correcciones necesarias para el cálculo de la altura observada
+   de un astro después de haber sido observado con el sextante, utilizaremos:
+
+     a) La tabla de correcciones a las alturas observadas del Almanaque Náutico.
+     b) Las 10 tablas anexas de correcciones de la parte estelar del Almanaque
+        Náutico.
+     c) Las tablas anexas de ayuda a la navegación de altura.
+     d) Las guías de alturas observadas.
+
+
+                                                                                   2/9
+9. La duración del Almanaque Náutico es de:
+
+     a) Los 365 días del año en curso, más los diez primeros días del siguiente año.
+     b) Los 3 últimos días del año anterior y los 365 días del año vigente.
+     c) El año vigente completo más los siguientes 3 días del siguiente año.
+     d) Solo para los días del año en curso y el día 1 de Enero del siguiente año.
+
+10. Antes de observar con el sextante tendremos en cuenta:
+
+     a) El error de índice y la altura del observador.
+     b) Las circunstancias favorables de nitidez del horizonte, y altura adecuada del
+        astro sobre el mismo.
+     c) El viento reinante antes de la observación.
+     d) Las respuestas a y b son correctas.
+
+
+
+Unidad teórica 2 : CÁLCULO DE NAVEGACIÓN (preguntas de la nº 11 a la nº 20)
+
+
+El yate <Odiseo= amarrado en el puerto deportivo Tomas Maestre del Mar menor
+de Murcia, prepara unas jornadas de fin de semana para prácticas de Capitanes
+de Yate.
+
+              11 de Agosto de 2023 (1º fin de semana de prácticas)
+
+Fondeados al norte de la isla Grosa en un punto de coordenadas= 37º45,5´N –
+000º42,5´W, al ser hora oficial (HO)= 10:00 (H+2), calcula:
+
+11. La hora civil en Greenwich (HCG) en ese instante:
+
+   a) 10:00
+   b) 09:00
+   c) 08:00
+   d) 07:00
+
+12. La hora oficial (HO) (H+2) de paso del sol por el meridiano fijo del fondeo,
+  sabiendo que la hora de paso del sol por el meridiano de Greenwich para este
+  día se producirá a 12:05:18 HCG:
+
+   a) 12:00:00
+   b) 12:05:18
+   c) 14:02:28
+   d) 14:05:18
+
+
+
+
+                                                                                  3/9
+            1 de Septiembre de 2023 (2º fin de semana de prácticas)
+
+A Hora civil de Greenwich (HCG)= 20:30 la situación de estima es= 37º56,2´-
+001º03,0´E y con ayuda del Almanaque Náutico (ver hojas adjuntas); calculan:
+
+13. El horario en Greenwich de Aries (HGY):
+
+   a) 288º14,6´
+   b) 286º30,3´
+   c) 289º31,5´
+   d) 280º30,2´
+
+14. El horario en Greenwich de la estrella Capella (HG*), principal de la
+  constelación del Auriga, sabiendo que el horario en Greenwich de Aries (HGY)
+  es= 288º14,6´ y el ángulo sidéreo con la ayuda del cartoncillo de estrellas que
+  se adjunta fotocopiado:
+
+   a) 202º26,2´
+   b) 204º28,5
+   c) 206º30,6’
+   d) 208º32,7’
+
+
+
+             8 de Septiembre de 2023 (3º fin de semana de prácticas)
+
+A hora civil de Greenwich (HCG)= 21:10 están fondeados al sur de Formentera en=
+38º20,6´N – 001º40,0´E Y tras calcular el horario en Greenwich de la estrella
+Betelgeuse (HG*) principal de la constelación de Orión) = 216º03,8´, calculan:
+
+
+15. El tiempo que tardará la estrella Betelgeuse en pasar por el meridiano fijo del
+  fondeo:
+
+   a) 14 horas, 10 minutos, 24 segundos.
+   b) 14 horas 8 minutos, 20 segundos.
+   c) 14 horas 14 minutos, 34 segundos.
+   d) 14 horas, 17 minutos, 50 segundos.
+
+16. Con la misma situación y hora civil en Greenwich anterior, utilizando las
+  fórmulas que resuelven los lados y sus complementos del triángulo de
+  posición, calculan la altura estimada de la estrella Vega, principal de la
+  constelación de la Lira, sabiendo que el ángulo en el polo formado ( P ) es=
+  27º24,0´(W) (el resto de los datos, ver cartoncillo adjunto de las estrellas
+  fotocopiado):
+
+   a) 67º20,2´
+   b) 68º39,3´
+   c) 69º10,2´
+   d) 69º45,3´
+
+
+                                                                                4/9
+17. Obtenida la altura estimada de la estrella Vega, le toman altura instrumental=
+  68º34´47´´ con corrección de índice= +3´y elevación del observador= 3 metros.
+  (ver hoja adjunta del Almanaque Náutico de la tabla que resuelven las
+  correcciones para las alturas observadas):
+
+   a) 67º30,2´
+   b) 68º34,3´
+   c) 68º39,3´
+   d) 68º37,2´
+
+
+
+              15 de septiembre de 2023 (4º fin de semana de prácticas)
+
+De regreso a Tomas Maestre, a hora civil de Greenwich (HCG)= 06:30 en el
+crepúsculo matutino, están en posición estimada= 38º46,2 N – 002º51,0´E y
+obtiene simultáneamente las determinantes de las rectas de altura de las estrellas.
+
+-Rigel (constelación de Orión) = Diferencia de alturas +5´y azimut verdadero 193º
+
+-Aldebarán (constelación de Taurus) = diferencia de alturas +6´y azimut verdadero
+222º
+
+18. Y con estos datos rectifican la posición por el método gráfico:
+
+   a) 38º44´05´´N – 002º50´08´´ E
+   b) 38º40´00´´N – 002º43´10´´ E
+   c) 38º42´12´´N – 002º45´30´´E
+   d) 38º38´20´´N – 002º47´10´´E
+
+
+
+             17 de Septiembre de 2023 (fin de las jornadas de prácticas)
+
+Atracados en Tomas Maestre, estudian la derrota ortodrómica entre un punto -A-
+situado en Madeiras= 32º35´N – 017º00´W y otro punto -B- situado en Martinica
+(Caribe)= 14º20´N – 061º00´W y calculan:
+
+19. La distancia ortodrómica:
+
+   a) 2633,8´
+   b) 2525,6
+   c) 2712,5´
+   d) 2826,7´
+
+20. El rumbo inicial ortodrómico:
+
+   a) 250º
+   b) 256º
+   c) 260º
+   d) 265º
+
+                                                                                5/9
+                        MÓDULO GENÉRICO
+
+Unidad teórica 3 : METEOROLOGÍA (preguntas de la nº 21 a la nº 30)
+
+
+21. ¿Qué es el Jets Stream?
+
+   a) Las corrientes de vientos cálidos y secos de tierra firme cuando llegan al mar.
+   b) La corriente oceánica también llamada Gulf Stream o Corriente del Golfo.
+   c) Las corrientes de fuertes vientos originadas por los ciclones y huracanes.
+   d) Las corrientes de vientos que soplan en las capas altas de la troposfera e incluso
+      en la parte baja de la tropopausa.
+
+
+22. Los estudios y análisis que se hacen para la elaboración de las informaciones
+  meteorológicas, se realizan principalmente en la capa atmosférica de:
+
+   a) Troposfera.
+   b) Tropopausa.
+   c) Ionosfera.
+   d) Mesosfera.
+
+
+23. Entre las capas de la atmósfera terrestre de la troposfera y la estratosfera,
+  interactúa como capa de unión la:
+
+   a) Ozonosfera.
+   b) Tropopausa.
+   c) Ionosfera.
+   d) Mesosfera.
+
+
+24. Cuando en el mapa del tiempo se observa una línea de inestabilidad
+  atmosférica, es porque:
+
+   a) La masa de aire frío desaparece.
+   b) La masa de aire cálido desaparece.
+   c) Las masas de aire frio y cálido se nivelan neutralizándose.
+   d) La masa de aire frio se pone en contacto con la cálida desequilibrando la
+      atmósfera.
+
+
+25. Al observarse una línea de inestabilidad en el mapa del tiempo, las nubes que
+  se producen en esa zona son del tipo:
+
+   a) Cúmulos y Cumulonimbos.
+   b) Estratos y estratocúmulos.
+   c) Cirrocúmulos.
+   d) Cirrostratos.
+
+
+                                                                                     6/9
+26. Si estamos navegando en la zona de una línea de inestabilidad atmosférica
+  con fuertes tormentas y aparato eléctrico, si escuchamos un fuerte estampido,
+  este fenómeno sonoro es:
+
+   a) Un estruendo.
+   b) Un relámpago.
+   c) Un rayo.
+   d) Un trueno.
+
+
+27. Los fenómenos de ciclones y huracanes se miden según la escala
+  internacional:
+
+   a) Strom-Beaufort.
+   b) Safir-Beaufort.
+   c) Safir-Douglas.
+   d) Safir-Simpson.
+
+
+28. Si navegando por la zona tropical del Atlántico Norte nos atrapa un huracán
+  por su sector peligroso anterior, conllevará:
+
+   a) Una caída acusada del barómetro.
+   b) Que el viento rolará con rapidez a la derecha y nos llevará hacia el vórtice.
+   c) Que el huracán está pasando y pronto amainará el tiempo.
+   d) Las respuestas a y b son correctas.
+
+
+29. Cuando ya están formados los ciclones y huracanes, moviéndose en su
+  trayectoria oceánica, las nubes que lo forman son del tipo:
+
+   a) Grandes Cumulonimbos.
+   b) Cúmulos.
+   c) Estratocúmulos.
+   d) Nimbostratos.
+
+
+30. En el Atlántico Norte los icebergs afloran en fecha y área:
+
+   a) Entre final de Marzo y final de Mayo al sur de Labrador y sur de Groenlandia,
+      pudiendo llegar incluso a los grandes bancos de terranova.
+   b) A partir de Enero y hasta Mayo al norte de Azores.
+   c) A partir de Diciembre y hasta Mayo al norte de Madeira.
+   d) Al norte de Irlanda y Escocia pasado el verano.
+
+
+
+
+                                                                                      7/9
+Unidad teórica 4 : INGLÉS (preguntas de la nº 31 a la nº 40)
+
+
+
+31. When the information requested by a Maritime Coordination Center is not
+  immediately available, you must say:
+
+   a) Wait 2 minutes
+   b) Stand by 2 minutes
+   c) Call in 2 minutes
+   d) Expect 2 minutes
+
+32. When the changing of a VHF Channel is accepted, say:
+
+   a) <Changing to VHF Channel…=
+   b) <Going to VHF Channel…=
+   c) <Moving to VHF Channel…=
+   d) <Set to VHF Channel…=
+
+33. If you require permission to enter a navigable channel, you say:
+
+   a) <Can I enter the fairway=
+   b) <Is possible I enter the fairway=
+   c) <Could I enter the fairway=
+   d) <Do I have permission to enter the fairway?"
+
+34. The moving of an anchor over the sea bottom involuntarily is known as
+
+   a) Drifting
+   b) Dropping
+   c) Drop back
+   d) Dragging
+
+35. A minor inflow of seawater into the vessel due to damage to the hull is a
+
+   a) Water Scape
+   b) Leaking
+   c) Water Lost
+   d) Water flood
+
+36. The inclination of the vessel to port side or starboard side is
+
+   a) Bent
+   b) Tendency
+   c) List
+   d) Liking
+
+
+
+
+                                                                                8/9
+37. When a wreck is in an unconfirmed position we say …
+
+   a) Located in position…
+   b) Reported in position…
+   c) Stated in position…
+   d) Fixed in position…
+
+38. When a wreck is in a confirmed position we say …
+
+   a) Located in position…
+   b) Reported in position…
+   c) Stated in position…
+   d) Fixed in position…
+
+39. The depth in water at which a vessel floats is known by
+
+   a) Deep of wáter
+   b) Draught
+   c) Deeph
+   d) Water deep
+
+
+40. Derelict means
+   a) A vessel damaged or impaired in such a manner as to be incapable of proceeding
+      its voyage
+   b) Moving of an anchor over the sea bottom involuntarily because it is no longer
+      preventing the movement of the vessel
+   c) Goods or any other commodity, specifically a vessel abandoned at sea
+   d) A vessel restricted by its ability to manoeuvre by the nature of its work or its deep
+      draft
+
+
+
+
+                          CY - TIPO 1
+
+
+                                                                                        9/9
+

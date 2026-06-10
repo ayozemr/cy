@@ -1,0 +1,440 @@
+       Región de Murcia
+       Consejería de Fomento e Infraestructuras
+       Dirección General de Litoral y Puertos                              http://nautica.carm.es
+       Plaza Santoña, 6, 30071 Murcia
+
+
+
+NOVIEMBRE-2024                  CAPITÁN DE YATE                                           Tipo 1
+- El examen de CAPITÁN DE YATE consta de 40 preguntas tipo test de formulación
+independiente entre sí, con cuatro respuestas alternativas siendo únicamente una
+válida. Contestar todas las preguntas, ya que no hay penalización para las erróneas.
+
+- Se corregirá con un doble criterio: 1º) globalmente y 2º) por módulos
+
+                                                                                     Condiciones APTO
+      Módulos                               Nº preguntas    Condiciones APTO
+                          Materias                                                    (Corrección por
+     Temáticos                                 examen       (Corrección global)
+                                                                                        módulos* )
+                          Teoría            10 preguntas:
+     Módulo de                                                   5 correctas            5 correctas
+                        navegación              1 - 10
+    navegación
+    (1 hora y 30        Cálculo de          10 preguntas:
+      minutos)                                                   6 correctas            6 correctas
+                        navegación             11 - 20
+
+                                            10 preguntas:
+     Módulo de         Meteorología                                                     5 correctas
+                                               21 - 30
+      genérico
+
+      (1 hora)                              10 preguntas:
+                           Inglés                                                       5 correctas
+                                               31 - 40
+
+
+          Total examen                      40 preguntas    28 correctas del total
+
+
+- Tiempo de realización del examen:
+    2 horas y 30 minutos para los dos Módulos temáticos (40 preguntas)
+    1 hora y 30 minutos para el Módulo de navegación (20 preguntas)
+    1 hora para el Módulo genérico (20 preguntas)
+
+
+                       MÓDULO DE NAVEGACIÓN
+Unidad teórica 1 : TEORÍA DE NAVEGACIÓN (preguntas de la nº 1 a la nº 10)
+
+1. De las siguientes afirmaciones, indicar la que NO es correcta:
+    a) Los círculos horarios son círculos máximos que pasan por los polos celestes.
+    b) Los círculos horarios son círculos máximos paralelos al Ecuador.
+    c) El círculo máximo que pasa por los polos celestes y por el cenit del observador,
+       es el Meridiano del Lugar.
+    d) El círculo máximo que pasa por los polos celestes y por el cenit de Greenwich,
+       es el Meridiano de Greenwich.
+
+2. En el triángulo esférico, el único lado que puede tener un valor mayor de 90º,
+   es:
+    a) La Distancia Zenital.
+    b) La Colatitud.
+    c) La Codeclinación o Distancia Polar.
+    d) La Latitud.
+3. La elipse que recorre el Sol aparentemente alrededor de la Tierra:
+
+   a) Se denomina Eclíptica.
+   b) El plano de la Eclíptica es paralelo al Ecuador.
+   c) El plano de la Eclíptica, con respecto al Ecuador, tiene una inclinación de 23º
+      27’.
+   d) Las respuestas a) y c) son correctas.
+
+4. Indicar cuál de las siguientes afirmaciones es correcta:
+
+   a) En una observación, la altura obtenida con el sextante es la altura instrumental.
+   b) La falta de paralelismo de los espejos, grande y chico, da lugar a un error en la
+      lectura obtenida, denominado “Error de Índice”.
+   c) Si el cero de la Alidada está a la izquierda del cero del Limbo, el sextante tiene
+      Error de Índice negativo.
+   d) Son correctas las anteriores respuestas.
+
+5. Puntos de intersección del Meridiano del Lugar con el Horizonte Verdadero:
+
+   a) Puntos cardinales Norte (N) y Sur (S).
+   b) Puntos cardinales Este (E) y Oeste (W).
+   c) Puntos Aries () y Libra (Ω).
+   d) No hay intersección entre ambos círculos.
+
+6. Al aplicar a la altura obtenida con el sextante la corrección por Error de Índice
+   y la corrección por Depresión, se obtiene:
+
+   a) Altura observada (ao).
+   b) Altura aparente (aa).
+   c) Altura verdadera (av).
+   d) Altura instrumental (ai).
+
+7. Arco de Ecuador desde Aries hasta el círculo horario del astro contado de 0º a
+   360º hacia el oeste.
+
+   a) Azimut del astro (Z).
+   b) Ángulo Sidéreo (AS).
+   c) Se puede obtener su valor para las principales estrellas en el Almanaque
+      Náutico (AN).
+   d) Son correctas las respuestas b) y c).
+
+8. Prolongando hacia el Norte la línea de las Tres María, se encuentra la estrella:
+    a) Aldebaran.
+    b) Sirius.
+    c) Gacrux.
+    d) Acrux.
+
+                                                                                    2/10
+9. Arco de horizonte contado desde el punto cardinal Norte (N) hasta el vertical
+   del astro, contado de 0º a 360º hacia el Este (E):
+    a) Azimut astronómico (Za).
+    b) Azimut cuadrantal (Zc).
+    c) Azimut náutico (Zn).
+    d) Horario astronómico u Horario del Lugar (hL).
+
+10. Al pasar el Sol por el Punto Vernal:
+   a) Su declinación es máxima, 23º 27’ N.
+   b) Se encuentra en el primer punto de Aries.
+   c) Su declinación es cero grados (0º), pasa de ser negativa a ser positiva.
+   d) Son correctas las respuestas b) y c).
+
+
+Unidad teórica 2 : CÁLCULO DE NAVEGACIÓN (preguntas de la nº 11 a la nº 20)
+
+
+11. Calcular la hora reloj de bitácora (HRB) de paso del Sol por el meridiano
+    superior del lugar, el día 24 de Noviembre del 2024, siendo la longitud L =
+    095º 45’ W.
+
+   a) HRB = Hz = 12h 15,5m      (24.11)
+   b) HRB = Hz = 12h 09,8m      (24.11)
+   c) HRB = Hz = 11h 56,6m      (24.11)
+   d) HRB = Hz = 12h 24,3m      (24.11)
+
+
+12. El día 24 de Noviembre del 2024, al ser UT = 19h 11m 00s, en situación de
+    estima: le = 16º 40’ S Le = 049º 15’ E.
+    Calcular el horario del lugar de la estrella Enif (nº93).
+
+    a) hl = 74º 52,9’
+    b) hl = 124º 35,0’
+    c) hl = 85º 48,6’
+    d) hl = 101º 23,4’
+
+
+13. El día 12.01.2024, encontrándonos en latitud estimada le = 42º 10’ S, se
+    observa la estrella Rasalhague (nº 82), obteniéndose la altura verdadera av =
+    24º 42,3’ y el horario del lugar de la estrella hL = 38º 53,7’. Calcular la
+    diferencia de alturas (Δa).
+
+    a) Δa = - 3,6’
+    b) Δa = + 2,2’
+    c) Δa = + 3,8’
+    d) Δa = - 5,1
+
+
+                                                                                 3/10
+14. El día 24.11.2024, se observa el Sol limbo inferior con altura instrumental aiʘ
+    = 34º 01,5’. Error de índice Ei = 1,5’ a la derecha. Elevación del observador Eo
+    = 5 metros.
+    Calcular la altura verdadera del Sol (avʘ).
+
+   a) avʘ= 34º 10,4’
+   b) avʘ= 34º 17,6’
+   c) avʘ= 34º 13,9’
+   d) avʘ= 34º 09,8’
+
+
+15. Estamos en latitud estimada le = 25º 19’ N, siendo el Ángulo en el Polo de la
+    estrella Regulus P = 26º 46,7’ E y su declinación d= +11º 52,2’.
+    Calcular su azimut náutico (Zn).
+
+   a) Zn = 113º
+   b) Zn = 100º
+   c) Zn = 117º
+   d) Zn = 110º
+
+16. Estando en situación de estima: le = 43º 56,8’ N y Le = 045º 39’ W, se observa
+    el Sol a su paso por el meridiano superior del lugar con una altura verdadera
+    meridiana avmʘ = 62º 25,0’, siendo su declinación dʘ = +16º 22,9’
+    Calcular la latitud observada.
+
+   a) lo = 43º 59,9’ N
+   b) lo = 43º 50,2’ N
+   c) lo = 43º 54,4’ N
+   d) lo = 43º 57,9’ N
+
+17. El día 10 de abril a hora legal Hz = 06h 13m 30s, un buque (A) se encuentra en
+    longitud L = 132º 42’ W.
+    En qué longitud se encontrará otro buque (B) si su hora civil del lugar es HcL
+    = 09h 47m 06s del mismo día.
+
+   a) LB = 081º 30’ 00’' W
+   b) LB = 081º 36’ 00’' W
+   c) LB = 081º 17’ 35’' W
+   d) LB = 080º 42’ 55’’ W
+
+
+
+
+                                                                                4/10
+18. A UT = 22h 12m 00s, en situación estimada le = 15º 22’ S Le = 113º 45’ E, se
+    observan las estrellas Hamal y Fomalhaut, obteniéndose los determinantes
+    de ambas:
+    Calcular la situación observada (So) mediante gráfico.
+
+            le = 15º 22’ S                                     le = 15º 22’ S
+      Hamal Z = N 15,5 W                         Fomalhaut     Z = S 64,5 W
+      2212 Δa = +3,3’                                2212       Δa = – 2,8’
+
+   a) lo = 15º 18,2’ S      Lo = 113º 46,4’ E
+   b) lo = 15º 16,5’ S      Lo = 113º 44,6’ W
+   c) lo = 15º 20,3’ S      Lo = 113º 45,2’ W
+   d) lo = 15º 18,2’ N      Lo = 113º 46,4’ W
+
+
+19. El día 24 de noviembre de 2024, en el momento del orto verdadero del Sol,
+    UT= 8h 36m 07s, en situación de: le = 47º 30’ N y Le = 018º 30’ W, se obtiene
+    azimut de aguja del Sol Zaʘ = S54W, siendo su declinación dʘ = ―20º 40,2’
+    S. Calcular la corrección total (Ct).
+
+   a) Ct = 5,5º NE
+   b) Ct = 3,6º NW
+   c) Ct = 6,0º NE
+   d) Ct = 4,5º NW
+
+20. Situados en l = 43º 09,6’ N y L = 009º 47,4’ W, calcular el rumbo inicial (Ri) y
+    distancia ortodrómica (Dort) para navegar por círculo máximo hasta el punto
+    P de: lp = 06º 48’ N y Lp = 058º 08’ W.
+
+   a) Ri = 240º    Dort = 3.250,2 millas.
+   b) Ri = 246º    Dort = 3.340,5 millas.
+   c) Ri = 244º    Dort = 3.346,6 millas.
+   d) Ri = 241º    Dort = 3.351,3 millas
+
+
+
+
+                                                                                5/10
+                     MÓDULO GENÉRICO
+Unidad teórica 3 : METEOROLOGÍA (preguntas de la nº 21 a la nº 30)
+
+21. Los vientos alisios en el Atlántico Norte circulan en dirección:
+
+   a) En las zonas tropical y subtropical. desde el E hacia el W.
+   b) En las zonas tropical y subtropical, desde el W hacia el E.
+   c) En las zonas tropical y subtropical, desde el N hacia el S.
+   d) En las zonas tropical y subtropical, desde el S hacia el N.
+
+22. El fenómeno del halo o corona que se produce tanto con el sol como con la
+    luna, consiste en:
+
+   a) La formación de un círculo blanquecino muy pronunciando alrededor de estos,
+      cuando la atmósfera está cargada de humedad y ocurre cuando se está dentro
+      de un frente frío.
+   b) La formación de un circulo con los colores del arco iris muy debilitado alrededor
+      de estos y ocurre cuando se está dentro de un frente cálido.
+   c) La formación de un círculo oscuro, bien pronunciado alrededor de estos, los
+      días despejados y claros.
+   d) La formación de un círculo claro y difuso alrededor de estos, los días de lluvias
+      y tormentas.
+
+23. La corriente del Atlántico Norte denominada "de Portugal", discurre:
+
+   a) En sentido N/NNE desde el cabo de San Vicente, a la costa de Galicia.
+   b) En sentido W desde la costa portuguesa, hacia las islas Azores.
+   c) En sentido S/SSE desde la costa de Galicia basta el cabo de San Vicente.
+   d) Desde el Cabo de San Vicente al Sur de Portugal, hacia NW, adentrándose en
+      el Atlántico.
+
+24. El fenómeno del jet stream se basa en:
+   a) Las corrientes de vientos en chorro en la tropopausa.
+   b) Las corrientes de vientos en chorro en la troposfera.
+   c) Las corrientes de vientos en chorro en la estratosfera.
+   d) Las corrientes de vientos en chorro en la ionosfera.
+
+
+25. Las trayectorias de los huracanes en el Atlántico Norte, son de Este a Oeste,
+    siguiendo la circulación general de los vientos que parten desde...:
+
+   a) las Islas Azores.
+   b) las Islas de Cabo Verde.
+   c) las Islas Canarias.
+   d) el Golfo de Guinea.
+                                                                                   6/10
+26. La Corriente del Golfo (Gulf Stream), hace un recorrido en el Atlántico Norte
+    en la dirección:
+
+   a) Desde Groenlandia, por el Sur a lo largo de la costa oriental de Estados Unidos.
+   b) Desde Noruega y de forma arqueada, hacia la costa de América del Norte.
+   c) Desde la costa atlántica Sur de Estados Unidos, de forma arqueada, hacia las
+      costas de Europa, recorriendo el Atlántico Norte.
+   d) Desde la costa atlántica Norte de estados Unidos, de forma arqueada, hacia las
+      costas África, recorriendo el Atlántico Norte.
+
+
+27. Atlántico Norte, navegamos con un velero cercano al mar Caribe, es mes de
+    junio, nos alcanza un huracán por su sector peligroso anterior,
+    procederemos a maniobrarlo:
+
+   a) Corriendo el temporal a todo trapo.
+   b) Poniéndonos a la capa y mínimo de vela, recibiendo el viento por la amura de
+      estribor.
+   c) Poniéndonos a la capa y mínimo de vela, recibiendo el viento por babor.
+   d) Escaparemos poniendo rumbo Norte.
+
+
+28. Según los sistemas generales de vientos, los vientos oestes dominantes del
+    Atlántico Norte soplan con una trayectoria:
+
+   a) Desde las costas del Mar caribe hacia las costas de África Occidental.
+   b) Desde la península de Florida hacia el Estrecho de Gibraltar.
+   c) Desde la costa oriental de Estados Unidos y Canadá hacia la costa atlántica de
+      Europa.
+   d) Desde las Islas Azores a las Islas Canarias.
+
+
+29. En el caso de producirse en nuestro yate el fenómeno del "fuego de San
+    Telmo", esto podría ser el preludio de….
+
+   a) La caída inminente de un rayo que podría alcanzar al barco.
+   b) Que la tormenta va a amainar.
+   c) Que va a dejar de llover.
+   d) Que va a empezar a nevar de forma copiosa.
+
+
+30. Con relación al origen de los hielos flotantes, el tipo iceberg, es de origen ..
+
+   a) Formado en la superficie del mar.
+   b) Formado exclusivamente en el Antártico.
+   c) Formado exclusivamente en el Ártico.
+   d) Formado en los glaciares de tierra firme, tanto en el ártico, como en el antártico.
+
+                                                                                     7/10
+Unidad teórica 4 : INGLÉS (preguntas de la nº 31 a la nº 40)
+
+31. Qué significa "Alteration to starboard":
+
+   a) Luz alternativa de estribor.
+   b) Al costado.
+   c) Caída a estribor.
+   d) Cambiar de rumbo.
+
+32. "Backing (of wind)" significa:
+
+   a) Cambio de la dirección del viento en sentido contrario a la agujas del reloj.
+   b) Viento dextrógiro.
+   c) A sotavento.
+   d) Cambio de la dirección del viento en sentido de las agujas del reloj.
+
+33. Traducir la siguiente expresión: “I am not under command”:
+
+   a) Estoy a la deriva.
+   b) Estoy sin gobierno.
+   c) Estoy sin comandante.
+   d) No recibo órdenes del comandante.
+
+34. Seleccione la traducción correcta de: “Check the slip gear in the lifeboats
+   and report”.
+
+   a) “Chequee el mecanismo de deslizamiento en los botes salvavidas y reporte de
+      la situación”.
+   b) “Chequee el engranaje de deslizamiento en los botes salvavidas e informe de la
+      situación”.
+   c) “Compruebe el engranaje de arriado de los botes salvavidas y reporte de la
+      situación”.
+   d) “Compruebe los mecanismos de arriado de los botes salvavidas e informe de la
+      situación”.
+
+35. De acuerdo a las frases normalizadas de la OMI para las comunicaciones
+    marítimas, elija la traducción correcta de: “Was the distress alert / MAYDAY
+    acknowledged?”
+
+   a) ¿Se acusó recibo de la alerta de socorro/MAYDAY?
+   b) ¿Fue transmitida la alerta de socorro/MAYDAY?
+   c) ¿Conocieron la alerta de socorro/MAYDAY?
+   d) ¿Se reconoció la alerta de socorro/MAYDAY?
+
+
+
+
+                                                                                      8/10
+36. La traducción correcta de «WARNING. Obstruction in the fairway» es….
+
+   a) INFORMACIÓN. Obstrucción en el paso.
+   b) RECOMENDACIÓN. Obstrucción en el paso.
+   c) AVISO. Obstrucción en el paso.
+   d) PETICIÓN. Obstrucción en el paso.
+
+37. Seleccione la traducción de “Your orders are to berth on…”.
+
+   a) Tiene orden de fondear en….
+   b) Tiene orden de atracar en….
+   c) Tiene orden de entrar en….
+   d) Tiene orden de empezar a navegar….
+
+
+38. Elija la traducción correcta de: «Yes, danger of heavy listing (to
+   port/starboard) ».
+
+   a) Sí, hay peligro de balance importante (a babor/ estribor).
+   b) Sí, hay peligro de balance importante (a estribor/ babor).
+   c) Sí, hay peligro de escora importante (a babor/ estribor).
+   d) Sí, hay peligro de escora importante (a estribor/ babor).
+
+
+39. La traducción correcta de “Take your lifejacket and a blanket. You will find
+    your lifejacket under your bed”, es…
+
+   a) Sujete su chaleco salvavidas y una manta. Su chaleco salvavidas está situado
+      debajo de su asiento.
+   b) Lleve su chaleco salvavidas y una manta. Su chaleco salvavidas está situado
+      debajo de su cama.
+   c) Agarre su traje térmico y una manta. Su traje térmico está situado debajo de su
+      asiento.
+   d) Lleve su traje térmico y un impermeable. Su traje térmico está situado debajo de
+      su cama.
+
+
+40. Elija la traducción adecuada: “Are you dragging/dredging anchor?
+
+   a) ¿Está usted arrastrando/arriando el ancla?
+   b) ¿Está usted garreando/arrastrando el ancla?
+   c) ¿Está usted arrastrando/enredando el ancla?
+   d) ¿Está usted garreando/encepando el ancla?
+
+
+
+
+                                                                                  9/10
+CAPITAN YATE
+
+ - Tipo 1 -
+
+
+              10/10
+

@@ -1,0 +1,419 @@
+       Región de Murcia
+       Consejería de Fomento e Infraestructuras
+       Dirección General de Litoral y Puertos                               http://nautica.carm.es
+       Plaza Santoña, 6, 30071 Murcia
+
+
+
+MARZO-2026               CAPITÁN DE YATE                                              Tipo 1
+- El examen de CAPITÁN DE YATE consta de 40 preguntas tipo test de formulación
+independiente entre sí, con cuatro respuestas alternativas siendo únicamente una
+válida. Contestar todas las preguntas, ya que no hay penalización para las erróneas.
+
+- Se corregirá con un doble criterio: 1º) globalmente y 2º) por módulos
+
+                                                                                      Condiciones APTO
+      Módulos                                Nº preguntas    Condiciones APTO
+                          Materias                                                     (Corrección por
+     Temáticos                                  examen       (Corrección global)
+                                                                                         módulos* )
+                           Teoría            10 preguntas:
+     Módulo de                                                    5 correctas            5 correctas
+                         navegación              1 - 10
+    navegación
+    (1 hora y 30         Cálculo de          10 preguntas:
+      minutos)                                                    6 correctas            6 correctas
+                         navegación             11 - 20
+
+                                             10 preguntas:
+     Módulo de          Meteorología                                                     5 correctas
+                                                21 - 30
+      genérico
+
+      (1 hora)                               10 preguntas:
+                            Inglés                                                       5 correctas
+                                                31 - 40
+
+
+          Total examen                       40 preguntas    28 correctas del total
+
+
+- Tiempo de realización del examen:
+    2 horas y 30 minutos para los dos Módulos temáticos (40 preguntas)
+    1 hora y 30 minutos para el Módulo de navegación (20 preguntas)
+    1 hora para el Módulo genérico (20 preguntas)
+
+
+                       MÓDULO DE NAVEGACIÓN
+Unidad teórica 1 : TEORÍA DE NAVEGACIÓN (preguntas de la nº 1 a la nº 10)
+
+1. El Meridiano Superior del Lugar, es el semicírculo máximo que pasa por…….
+    a) los puntos E y W por el Nadir.
+    b) los polos celestes y por el Nadir.
+    c) los polos celestes y por el Cenit.
+    d) los puntos E y W y por el Cenit.
+
+2. El arco de círculo horario contado desde el Ecuador hasta el astro se
+   denomina:
+   a) Altura.
+   b) Declinación.
+   c) Distancia cenital.
+   d) Distancia polar.
+3. Almicantarat, es cualquier círculo…..
+    a) menor de la esfera celeste paralelo al Ecuador.
+    b) máximo de la esfera celeste paralelo al Ecuador.
+    c) menor de la esfera celeste paralelo al Horizonte.
+    d) de la esfera celeste perpendicular al Horizonte.
+
+
+4. Ángulo en el Polo:
+    a) Es el arco de horizonte comprendido entre el meridiano superior del lugar y el
+       semicírculo horario del astro.
+    b) Es el arco de Ecuador comprendido entre el meridiano inferior del lugar y el
+       semicírculo horario del astro.
+    c) Es el arco de horizonte comprendido entre el meridiano inferior del lugar y el
+       semicírculo horario del astro.
+    d) Es el arco de Ecuador comprendido entre el meridiano superior del lugar y el
+       semicírculo horario del astro.
+
+
+5. Cuando el Sol se encuentra en el Punto de Aries o en el Punto de Libra, el
+   valor de su declinación es:
+    a) 23º27’ N
+    b) 23º27’ S
+    c) 00º 00’
+    d) 00º10’ N
+
+
+6. Ángulo sidéreo de un astro, es el arco de Ecuador celeste de…
+    a) 0º a 360º, medido entre el primer punto de Aries y el círculo horario del astro en
+       el sentido Este-Oeste.
+    b) 0º a 360º, medido entre el primer punto de Aries y el círculo horario del astro en
+       el sentido Oeste-Este.
+    c) 0º a 180º, medido entre el primer punto de Aries y el círculo horario del astro en
+       el sentido Este-Oeste.
+    d) 0º a 180º, medido entre el primer punto de Aries y el círculo horario del astro en
+       el sentido Oeste-Este.
+
+
+7. Tiempo Universal, es el tiempo civil transcurrido desde que pasó el Sol medio
+   por ….
+    a) el Meridiano superior del lugar.
+    b) el Meridiano superior de Greenwich.
+    c) el Meridiano inferior del Greenwich.
+    d) por el Meridiano inferior del lugar.
+
+
+
+                                                                                     2/10
+8. La medición de la altura de un astro en el momento de su paso por el
+    meridiano superior del lugar, se utiliza para la obtención de:
+    a) La longitud del observador.
+    b) La declinación del observador.
+    c) La latitud del observador.
+    d) La altitud del observador.
+
+
+9. Hora civil del lugar, es el tiempo civil transcurrido desde que pasó el Sol
+ medio por …..
+    a) el Meridiano superior del lugar.
+    b) el Meridiano superior de Greenwich.
+    c) el Meridiano inferior del Greenwich.
+    d) el Meridiano inferior del lugar.
+
+
+10. Definición de horario en Greenwich del astro:
+   a) Es el arco de Ecuador contado desde el punto de corte con el meridiano inferior
+      de Greenwich hasta el círculo horario del astro.
+   b) Es el arco de horizonte contado desde el punto de corte con el meridiano
+      superior de Greenwich hasta el círculo horario del astro.
+   c) Es el arco de Ecuador contado desde el punto de corte con el meridiano
+      superior de Greenwich hasta el círculo horario del astro.
+   d) Es el arco de Ecuador contado desde el punto de corte con el meridiano
+      superior del lugar hasta el círculo horario del astro.
+
+
+Unidad teórica 2 : CÁLCULO DE NAVEGACIÓN (preguntas de la nº 11 a la nº 20)
+
+11. Siendo el día 14 de marzo de 2026 a UT=11:10:00, calcular la altura estimada
+    del sol en la situación l=35º54’ N y L=010º40’W.
+     a) 44º 27,1’
+     b) 43º 53,1’
+     c) 44º 53,7’
+     d) 43º 30,1’
+
+
+12. Calcular el azimut verdadero del sol en posición l=35º54’N y L=010º40’W a la
+    hora UT=11:10:00, el día 14 de marzo de 2026.
+     a) Zv=145,1º
+     b) Zv=140,1º
+     c) Zv=139,1º
+     d) Zv=142,7º
+
+
+                                                                                 3/10
+13. El día 14 de marzo de 2026, en situación de estima l= 35º30’N y L=010º50’W,
+    se calcula la hora UT del paso del Sol por el meridiano superior del lugar.
+    a) UT=12h 52m 32s
+    b) UT=13h 53m 54s
+    c) UT=13h 38m 32s
+    d) UT=12h 38m 54s
+
+
+14. El día 14 de marzo de 2026, estando en situación de estima l=35º05’N y
+    L=011º00’W, se observa el Sol a su paso por el meridiano superior del lugar
+    con una altura verdadera meridiana av=52º31,2’, siendo la declinación del
+    Sol, d=-2º 24,7’. Calcular la latitud observada.
+    a) 35º 03,7’N
+    b) 35º 04,1’N
+    c) 35º 02,1’N
+    d) 35º 06,5’N
+
+
+15. El día 14 de marzo de 2026 un buque que navega a rumbo de aguja Ra=275º;
+    en el momento del ocaso del Sol, en l=35º30’ N toma azimut de aguja del Sol,
+    Za=270º, siendo la declinación del Sol en ese momento d=-2º 19,2’. Se pide
+    calcular la corrección total, CT.
+    a) Ct=-2,8º
+    b) Ct=+2,3º
+    c) Ct=-3,2º
+    b) Ct=+3,2º
+
+
+16. Determinar la latitud a partir de la observación de la Polar en un lugar de
+    L=011º30’ W, el día 14 de marzo de 2026 a UT=04:00:00, siendo la altura
+    verdadera de la Polar av=35º35,8’.
+    a) 36º13,9’N
+    b) 36º12,5’N
+    c) 36º14,6’N
+    d) 36º15,4’N
+
+
+17. Calcular la distancia Ortodrómica desde un punto A (de coordenadas
+    l=05º35’N y L=077º28’W), a un punto B (de coordenadas l=50º47’N y
+    L=156º38’E).
+    a) 4.624’
+    b) 5.200’
+    c) 6.424’
+    d) 5.520’
+
+
+                                                                            4/10
+18. Calcular el rumbo inicial (Ri) Ortodrómica desde un punto A (de coordenadas
+    l=05º35’N y L=077º28’W), a un punto B (de coordenadas l=50º47’N y
+    L=156º38’E).
+    a) Ri=217,6º
+    b) Ri=220,7º
+    c) Ri=327,7º
+    d) Ri=340,4º
+
+
+19. El día 14 de marzo de 2026, a hora civil del lugar Hcl=14h 06m 52s, en
+   situación estimada l=35º30’N y L=011º30’W, se calcula la hora civil en
+   Greenwich (HcG) en ese instante.
+    a) 13h 24m 52s
+    b) 14h 52m 52s
+    c) 14h 52m 46s
+    d) 13h 52m 46s
+
+
+20. El 14 de marzo de 2026, al ser HCG=20:02 y en posición de estima, l=33º05N y
+    L=015º28’ W, se han observado la estrella Polar (supuesta en el Norte
+    verdadero) y la estrella Dubhe, y se han obtenido los siguientes datos:
+   Altura verdadera de la Polar=33º30,7’
+   Azimut verdadero de Dubhe Zv=N34ºE, Diferencia de alturas=01’+
+   Se pide calcular la situación observada a HRB=19:58.
+    a) 33º 08,5’N y 015º31,1’W
+    a) 33º 07,5’N y 015º28,1’W
+    c) 33º 07,5’N y 015º30,5’W
+    d) 33º 06,5’N y 015º29,1’W
+
+
+
+
+                                                                            5/10
+                    MÓDULO GENÉRICO
+Unidad teórica 3 : METEOROLOGÍA (preguntas de la nº 21 a la nº 30)
+
+
+21. La capa de la atmósfera donde se producen la mayoría de los fenómenos
+    meteorológicos se denomina…
+    a) Troposfera
+    b) Estratosfera
+    c) Mesosfera
+    d) Ionosfera
+
+
+22. Los chubascos suelen ir asociados a…
+    a) Nubes altas del tipo cirro.
+    b) Periodos de buen tiempo.
+    c) Nubes del tipo cumulonimbos.
+    d) Largos periodos de lluvias débiles.
+
+
+23. ¿Cuál de las siguientes afirmaciones corresponde con una tromba?.
+    a) Suelen formase en la misma superficie del agua desde donde se elevan.
+    b) Se forman por la convergencia de masas de temperaturas diferentes.
+    c) Se forman bajo la base de grandes cumulonimbos.
+    d) Todas las respuestas son correctas.
+
+
+24. El frente polar…
+   a) Es la línea de separación entre el aire seco y frío polar, y el aire húmedo y
+       cálido tropical.
+   b) Se produce por las altas temperaturas en los Polos.
+   c) Es la línea de separación entre los vientos que se generan en las borrascas y
+       las zonas de calma de las altas presiones.
+   d) Se sitúa bajo el cinturón de bajas presiones subpolares.
+
+
+25. Indique cuál de las siguientes respuestas es la correcta en relación con los
+    vientos polares:
+    a) Los vientos polares son húmedos y fríos.
+    b) Los vientos polares son, en general, vientos flojos.
+    c) Los vientos polares se forman en los anticiclones polares.
+    d) Los vientos polares son de componente Oeste.
+
+
+                                                                               6/10
+26. ¿Cuál de las siguientes afirmaciones es correcta en relación con los ciclones
+    tropicales?
+   a) Suelen formarse en las áreas oceánicas tropicales.
+   b) Su energía proviene del calor latente de evaporación liberado por el aire muy
+       húmedo al condensarse.
+   c) Desaparecen o se convierten en tormenta tropical al penetrar en tierra y
+       desaparecer su fuente energética, la humedad del agua.
+   d) Todas las respuestas son correctas.
+
+
+27. La Escala Saffir – Simpson…
+   a) Mide la altura de las olas que producen los ciclones tropicales.
+   b) Se utiliza para dar categoría a los ciclones tropicales en función de los vientos
+       sostenidos y los posibles daños que pueden producir.
+   c) Está graduada desde el “1” que corresponde al grado mínimo hasta el “9” que
+       corresponde al grado máximo.
+   d) Clasifica los ciclones tropicales en función de la presión máxima en el ojo.
+
+
+28. ¿Cómo tiene lugar la circulación general de las corrientes en el Océano
+    Atlántico Sur?
+    a) En sentido antihorario.
+    b) En sentido horario.
+    c) No hay un sentido general de circulación.
+    d) Al Este en sentido horario y al Oeste en sentido antihorario.
+
+
+29. De las siguientes corrientes marinas, ¿cuál es una corriente del Atlántico
+    Sur?
+    a) Corriente del Labrador.
+    b) Corriente de Brasil.
+    c) Corriente de las Azores.
+    d) Corriente de Nueva Guinea.
+
+
+30. ¿Qué medidas de seguridad hay que mantener en caso de navegar entre
+    hielos flotantes?
+   a) Aumentar la velocidad a la máxima de la embarcación.
+   b) Desconectar el radar.
+   c) Se reforzará la vigilancia y se alterará el rumbo para alejarse de los hielos
+       flotantes.
+   d) Lanzar periódicamente una bengala.
+
+
+
+
+                                                                                   7/10
+Unidad teórica 4 : INGLÉS (preguntas de la nº 31 a la nº 40)
+
+31. Elija la traducción adecuada de la siguiente frase: "I am not ready to receive
+    your message”
+    a) Listo para recibir su mensaje.
+    b) Listo para enviar mensaje.
+    c) No estoy listo para recibir su mensaje.
+    d) No estoy listo para enviar mensaje.
+
+32. Elija la traducción adecuada de la siguiente expresión: “Global Maritime
+   Distress and Safety System”
+   a) Sistema Mundial de Socorro y Seguridad Marítima.
+   b) Sistema Restringido de Socorro y Seguridad Marítima.
+   c) Sistema de Socorro Marítimo.
+   d) Sistema de Seguridad Mundial.
+
+33. Elija la traducción adecuada de la siguiente frase: “Is there danger of
+    explosion?”
+    a) ¿Hay peligro de incendio?
+    b) ¿Es peligrosa la explosión?
+    c) ¿Hay peligro de explosión?
+    d) ¿Ha habido una explosión peligrosa?
+
+34. Elija la traducción adecuada de la siguiente frase: “What kind of assistance is
+    required?”
+    a) ¿Qué asistencia ha sido enviada?
+    b) ¿Qué tipo de asistencia se necesita?
+    c) ¿No necesita ninguna asistencia?
+    d) ¿Necesita asistencia adicional?
+
+35. Elija la traducción adecuada de la siguiente frase: “MV … has problems with
+    engine”.
+    a) Buque … tiene problemas con la máquina
+    b) Buque … no tiene ningún problema
+    c) Buque … tiene una de las máquinas inoperativa
+    d) Buque … no tiene problemas con las máquinas
+
+36. Elija la traducción adecuada de la siguiente frase: “Can you continue
+    search?, Yes, I can continue search.”
+    a) ¿Puede dejar la búsqueda?, Si, dejo la búsqueda.
+    b) ¿Puede continuar la búsqueda?, Si, puedo continuar la búsqueda.
+    c) ¿Puedo continuar la búsqueda?, Si, puede continuar la búsqueda.
+    d) ¿Puedo dejar la búsqueda?, Si, puede dejar la búsqueda.
+
+
+
+                                                                               8/10
+37. Elija la traducción adecuada de la siguiente frase: “Crew of MV ... must
+    abandon vessel ... after explosion / collision / grounding / flooding / piracy /
+    armed attack / …”
+   a) La tripulación del buque … abandonado tras la explosión / el abordaje / la
+      varada / la inundación / ataque por piratas / ataque con armas / …
+   b) La tripulación del buque … no debe abandonar el buque … tras la explosión / el
+      abordaje / varada / inundación / ataque de piratas / ataques con armas / …
+   c) La tripulación del buque que ha abandonado el buque tras la explosión / el
+      abordaje / la varada / la inundación / ataque por piratas / ataque con armas / …
+   d) La tripulación del buque … debe abandonar el buque … tras la explosión /
+      abordaje / varada / inundación / ataque de piratas / ataques con armas / …
+
+
+38. Elija la traducción adecuada de la siguiente frase: “What is your MMSI
+    number?, My MMSI number is ….”
+    a) ¿Cuál es su número MMSI?, No tengo número MMSI.
+    b) ¿Tiene número MMSI?, Si, tengo número MMSI
+    c) ¿Cuál es su número MMSI?, Mi número MMSI es …
+    d) ¿Qué es el número MMSI?, …
+
+
+39. Elija la traducción adecuada de la siguiente frase: “What is the weather
+    situation in your position?”
+    a) ¿Cómo está la situación en su posición?
+    b) ¿Hay buenas condiciones meteorológicas en su posición?
+    c) ¿Son malas las condiciones meteorológicas en su posición?
+    d) ¿Qué condiciones meteorológicas se dan en su posición?
+
+
+40. Elija la traducción adecuada de la siguiente frase: “Visibility is restricted by
+    mist / fog / snow / dust / rain”
+    a) La visibilidad está restringida por bruma / niebla/ nieve / polvo / lluvia.
+    b) La visibilidad quedará restringida por bruma / niebla/ nieve / polvo / lluvia.
+    c) La visibilidad no está restringida por bruma / niebla/ nieve / polvo / lluvia.
+    d) Hay visibilidad aunque se presente bruma / niebla/ nieve / polvo / lluvia.
+
+
+
+
+                                                                                  9/10
+CAPITAN YATE
+ - Tipo 1 -
+
+
+
+              10/10
+

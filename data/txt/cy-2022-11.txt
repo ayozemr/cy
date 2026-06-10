@@ -1,0 +1,459 @@
+          Región de M urcia
+          Consejería de Fom ento e Infraestructuras
+          Dirección General de M ovilidad y Litoral                           http://nautica.carm.es
+          Plaza Santoña, 6, 30071 Murcia
+
+NOVIEMBRE- 2022
+
+                            CAPITÁN DE YATE                                                  Tipo 1
+- El examen de CAPITÁN DE YATE consta de 40 preguntas tipo test de formulación
+independiente entre sí, con cuatro respuestas alternativas siendo únicamente una
+válida. Contestar todas las preguntas, ya que no hay penalización para las erróneas.
+
+- Se corregirá con un doble criterio: 1º) globalmente y 2º) por módulos
+
+                                                                                        Condiciones APTO
+        Módulos                                Nº preguntas    Condiciones APTO
+                             Materias                                                    (Corrección por
+       Temáticos                                  examen       (Corrección global)
+                                                                                           módulos* )
+                             Teoría            10 preguntas:
+        Módulo de                                                   5 correctas            5 correctas
+                           navegación              1 - 10
+       navegación
+       (1 hora y 30        Cálculo de          10 preguntas:
+         minutos)                                                   6 correctas            6 correctas
+                           navegación             11 - 20
+
+                                               10 preguntas:
+       Módulo de          Meteorología                                                     5 correctas
+                                                  21 - 30
+        genérico
+
+         (1 hora)                              10 preguntas:
+                              Inglés                                                       5 correctas
+                                                  31 - 40
+
+
+             Total examen                      40 preguntas    28 correctas del total
+
+
+- Tiempo de realización del examen:
+    2 horas y 30 minutos para los dos Módulos temáticos (40 preguntas)
+    1 hora y 30 minutos para el Módulo de navegación (20 preguntas)
+    1 hora para el Módulo genérico (20 preguntas)
+
+
+                          MÓDULO DE NAVEGACIÓN
+
+Unidad teórica 1 : TEORÍA DE NAVEGACIÓN (preguntas de la nº 1 a la nº 10)
+
+1. La Estrella Polar es de:
+
+   a) Primera magnitud.
+   b) Segunda magnitud.
+   c) Tercera magnitud.
+   d) Cuarta magnitud.
+
+2. El ecuador celeste pasa (entre otras) por el centro de la constelación de:
+
+   a) Casiopea por su estrella Cahh.
+   b) Orión por su cinturón.
+   c) Andrómeda por su estrella Alpheratz.
+   d) La Osa Mayor por su estrella Merak.
+1/10
+3. Todos los astros que son visibles desde la posición de un observador y tienen
+    la misma altura, están situados sobre:
+
+   a) El mismo meridiano celeste.
+   b) El mismo paralelo celeste.
+   c) El mismo almicantarat
+   d) El mismo hemisferio celeste.
+
+4. Si navegando desde las Islas de cabo Verde hacia el Caribe, lo hacemos
+    rigiéndonos por la hora de huso (Hz) en todo el recorrido, deberemos:
+
+   a) Cada vez que pasemos a un nuevo huso, atrasaremos una hora.
+   b) Cada vez que pasemos a un nuevo huso, adelantaremos una hora.
+   c) Mantendremos la hora del huso de salida.
+   d) Navegaremos todo el recorrido con la hora del huso de llegada.
+
+
+5. Según la posición del observador en la esfera terrestre, las coordenadas
+    horarias del Sol son:
+
+   a) Independientes del observador.
+   b) Dependientes de la posición del observador
+   c) Dependientes solo de la longitud del observador.
+   d) Dependientes del hemisferio donde se encuentre el observador.
+
+6. ¿Cuáles de los siguientes arcos de círculos máximos de la esfera celeste que
+    se utilizan como referencias en las coordenadas Uranográficas?:
+
+   a) La latitud y la Longitud.
+   b) El ángulo sidéreo y la declinación.
+   c) El almicantarat y la codeclinación.
+   d) El azimut y la altura verdadera.
+
+7. Cuando el disco solar corte por el oeste (poniente) el horizonte y su limbo
+    superior sea tangente a este, se produce:
+
+   a) La Culminación.
+   b) El Orto.
+   c) El Ocaso
+   d) La Aurora.
+
+8. El arco de meridiano contado desde la posición del observador en la esfera
+    celeste, hasta su polo elevado, es:
+
+   a) La colatitud del observador
+   b) Su distancia polar
+   c) Uno de los lados del triángulo de posición.
+   d) Todas las respuestas anteriores son correctas.
+
+
+
+                          2/10
+9. El error de índice del sextante:
+
+   a) No influye en las observaciones del Sol.
+   b) No influye en las observaciones de estrellas
+   c) Su valor es siempre negativo porque es un error.
+   d) Influye tanto para el Sol como las estrellas y su valor puede ser negativo o
+      positivo.
+
+10. La máxima diferencia de tiempo que puede haber entre la hora legal o de
+    huso (Hz) y la hora civil del lugar (HCl) de cualquier punto del huso horario
+    donde estemos es de:
+
+   a) 30 minutos.
+   b) 60 minutos.
+   c) 15 minutos.
+   d) 7,5 minutos.
+
+
+Unidad teórica 2 : CÁLCULO DE NAVEGACIÓN (preguntas de la nº 11 a la nº 20)
+
+
+El Yate catamarán Lagoon 56 <Costa Cálida=, salió de la Marina del Yacht Port de
+Cartagena (Murcia) para unirse a la temporada de invierno del Caribe y se
+encuentra amarrado en la Marina de La Estaca en la Isla Canaria del Hierro.
+
+El 25 de Noviembre de 2022
+
+Su Capitán calcula la derrota ortodrómica entre La Estaca= 27º 52,2´N – 017
+º54,5´W y la Isla de Antigua en el Caribe= 16º 59,5´N – 061º 46,4´W.
+Con estos datos procede a:
+
+
+11. Hallar el valor de la distancia ortodrómica:
+
+   a) 2581,2´
+   b) 2569,8´
+   c) 2551,7´
+   d) 2504,6´
+
+
+12. De forma independiente y con esos mismos datos de salida y de llegada,
+   procede a calcular el valor del rumbo inicial ortodrómico, en su expresión
+   circular:
+
+   a) 264º
+   b) 256º
+   c) 271º
+   d) 278º
+
+
+
+
+                          3/10
+13. A hora oficial de Canarias (HO) 1000 (H+1) situados en el punto de salida 27º
+    52,2´N – 017º 54,5´W, procede a calcular la hora civil de Greenwich en ese
+    instante:
+
+   a) 0900
+   b) 1000
+   c) 0800
+   d) 1100
+
+
+El 26 de Noviembre de 2022
+
+
+14. Adentrados en el Atlántico con alisio fresco por la aleta de estribor y cielos
+    despejados a hora civil de Greenwich (HcG)= 1010 y en situación estimada=
+    27º 33,7´N – 021º 31,5´ W, calcula el horario del Sol en Greenwich (HOG) de
+    ese momento:
+
+   a) 340º 50,2´
+   b) 338º 35,5´
+   c) 335º 41,4´
+   d) 332º 40,2´
+
+
+15. A la misma hora civil de Greenwich anterior y la misma situación estimada,
+    tras calcular el horario en Greenwich del Sol, procede a hallar el valor de la
+    declinación del Sol en ese instante:
+
+   a) -20º58´11´´
+   b) -18º50´06´´
+   c) -22º36´18´´
+   d) -24º59´24´´
+
+
+
+16. A hora civil de Greenwich (HcG)= 10:15 están en situación estimada=
+    27º33,3´N – 021º31,1´W y calcula el horario en Greenwich de ese instante y
+    con estos datos hallan el valor del ángulo en el polo del Sol en ese momento:
+
+   a) 44º50,4´W
+   b) 44º34,7´E
+   c) 44º50,4´E
+   d) 44º37,7´W
+
+
+
+
+                         4/10
+17. A hora civil de Greenwich= 1020, la situación de estima que tienen es=
+    27º13,5´N – 021º30,9´W y habiendo obtenido previamente para esa hora los
+    siguientes valores:
+       Angulo en el polo del Sol= 44º30,1´E
+       Declinación del sol= -20º59´06´´
+    Calcula el azimut verdadero del Sol en su expresión circular con la ayuda de
+    las fórmulas que resuelven los valores de los ángulos y sus complementos
+    del triángulo de posición:
+
+   a) 122, 8º
+   b) 128, 4º
+   c) 133, 4º
+   d) 139, 0º
+
+18. A la misma hora civil de Greenwich y en la misma posición estimada anterior,
+    le toma altura instrumental al Sol (limbo inferior) = 25º25´35´´ (elevación del
+    observador= 3 metros y corrección de índice= +4´) y calcula la altura
+    verdadera del Sol en ese momento:
+
+   a) 25º30´10´´
+   b) 25º40´41´´
+   c) 25º50´15´´
+   d) 25º20´25´´
+
+
+19. A hora civil de Greenwich= 10:25, en situación estimada= 27º08,7´N –
+    021º31,9´W y habiendo obtenido previamente para esa hora los siguientes
+    valores:
+      Angulo en el polo del Sol= 44º 26´20´´E
+      Declinación del Sol= --20º 59´ 12´´
+    Calcula el valor de la altura estimada del Sol con la ayuda de las fórmulas
+    que resuelven los lados y sus complementos del triángulo de posición:
+
+   a) 25º27´18´´
+   b) 25º38´40´´
+   c) 25º15´10´´
+   d) 25º03´05´´
+
+                         DIA 27 DE NOVIEMBRE DE 2022
+
+20. A hora civil de Greenwich= 12:00, tras tomar altura y azimut al Sol, obtiene
+    las determinantes siguientes de la recta de altura:
+          Situación de estima= 026º43´15´´ N – 025º20´24´´ W
+          Azimut verdadero= 126º
+          Diferencia de alturas= -6´
+    Y rectifica su posición por una sola recta de altura al Sol (método de punto
+    aproximado y sistema gráfico):
+
+   a) 26º47´00´´ N / 025º25´48´´ W
+   b) 26º50´12´´ N / 025º23´10´´ W
+   c) 26º49´24´´ N / 025º27´50´´ W
+   d) 26º52´15´´ N / 025º29´30´´ W
+                         5/10
+                           MÓDULO GENÉRICO
+
+Unidad teórica 3 : METEOROLOGÍA (preguntas de la nº 21 a la nº 30)
+
+
+21. La colisión del aire cálido que procede los anticiclones subtropicales, con el
+    aire frio que procede de los anticiclones polares, conforman en el hemisferio
+    norte el llamado:
+
+   a) Frente relativo.
+   b) Frente ecuatorial.
+   c) Frente tropical.
+   d) Frente polar.
+
+22. Si se navega en el mes de noviembre desde las Islas Canarias, hacia el
+    Caribe, el viento predominante en esa área del océano Atlántico será:
+
+   a) El Alisio.
+   b) El Oeste dominante.
+   c) El Contra alisio.
+   d) El Suroeste.
+
+
+23. Por el calentamiento del agua del mar y sobre todo en aguas del
+   Mediterráneo entre los meses de mayo a octubre, en los cumulonimbos se
+   forma una columna de aire cálido de poca densidad que asciende girando en
+   sentido levógiro que da origen a:
+
+   a) Un tornado.
+   b) Una tromba marina.
+   c) Una tormenta tropical.
+   d) Una tormenta polar.
+
+
+24. La mesosfera o capa de la atmósfera terrestre de transición, es donde:
+
+   a) El oxígeno se transforma en ozono.
+   b) Se absorben los rayos ultravioletas de la luz solar.
+   c) Se hace posible que la vida se produzca en las capas inferiores.
+   d) Todas las respuestas anteriores son correctas.
+
+
+25. Un resplandor en el cielo durante el crepúsculo astronómico del sol
+    (preferentemente el vespertino) se produce cuando el sol desaparece por el
+    horizonte y coincide con el plano de la eclíptica o faja zodiacal, se le conoce
+    como el fenómeno:
+
+   a) La luz del zodiacal.
+   b) El rayo verde.
+   c) El parhelio.
+   d) El espejismo.
+                             6/10
+26. El fenómeno similar a los ciclones o huracanes que se forma al norte de
+    Australia se le conoce como:
+
+   a) Maremoto.
+   b) Tornado.
+   c) Tifón.
+   d) Willy – Willy.
+
+27. Si se encuentra en el sector manejable posterior de un huracán del Atlántico
+    norte, notará:
+
+   a) Que el viento le rola hacia la izquierda.
+   b) Que el viento sopla directamente hacia el vórtice del huracán
+   c) Que la presión atmosférica comienza a subir y el viento va amainando.
+   d) Todas las respuestas anteriores son correctas.
+
+28. En el hemisferio norte los icebergs salen a la mar en:
+
+   a) Primavera.
+   b) Otoño.
+   c) Invierno.
+   d) Al final del verano.
+
+29. Si navegando por aguas polares, por su proa devisa usted un iceberg que
+    emerge 11 metros por encima de la superficie, su parte sumergida será de:
+
+   a) 10 metros.
+   b) 15 metros.
+   c) 60 metros.
+   d) 88 metros.
+
+30. El fenómeno del Jet Stream (corrientes en chorro de vientos) se produce:
+
+   a) En las capas medias y bajas de la troposfera.
+   b) En las capas altas de la troposfera e incluso penetrando en la tropopausa.
+   c) En las capas medias de la estratosfera.
+   d) En las capas bajas de la mesosfera.
+
+
+Unidad teórica 4 : INGLÉS (preguntas de la nº 31 a la nº 40)
+
+31. When it is advisable to remain on a VHF Channel / frequency say:
+
+   a) Go on VHF Channel ... / frequency ... "
+   b) Hear in VHF Channel ... / frequency ... "
+   c) “Keep on VHF Channel ... / frequency ... "
+   d) "Stand by on VHF Channel ... / frequency ... "
+
+
+
+
+                             7/10
+32. The IMO´s Standard Marine Communication Phrases builds on a
+
+      a) Simplified International Language
+      b) Language mixing French and English languages
+      c) Deep knowledge on English language
+      d) Basic knowledge of the English language
+
+33. When you listen the following message <Diving operations by vessel XX=
+   you know
+
+      a) There are towing operations
+      b) Towing operations in progress
+      c) There are persons under water
+      d) There are Shipping operations
+
+34.    When an INSTRUCTION (e.g. by a VTS Station, naval vessel or other fully
+      authorized personnel) or an ADVICE is given, respond if in the affirmative:
+
+      a) Yes
+      b) Of course
+      c) Ok
+      d) I will
+
+35. If you have to give a help in a search operation, when you reach the search
+    operations area, you have to be receive orders from
+
+      a) On scene comander
+      b) Captain and commander of the biggest ship in the área
+      c) The radio station
+      d) The first ship you find on arrival
+
+36. In rescue operations, the word <hoist= indicates
+
+      a) a towing cable
+      b) A cable used by helicopters for lifting or lowering persons in a pick-up operation
+      c) The cable used to discharge static electricity from helicopters
+      d) Ropes supported by stanchions around an open hatch to prevent persons from
+         falling into a hol
+
+37. Courses always to be expressed
+
+      a) in 360 degree notation from relative north
+      b) in 360 degree notation from magnetic north
+      c) in 360 degree notation from true north
+      d) in 360 degree notation from relative north
+
+
+
+
+                             8/10
+38. When a mistake is made in a message, for transmiting the correct data you
+    have to say
+
+  a) "Wrong ..." - followed by the Word
+  b) "Mistake ..." - followed by the Word
+  c) "Error ..." - followed by the Word
+  d) "Equivocation ..." - followed by the Word
+
+39. When you hear the message marker <request= it’s expected you
+
+  a) have to provide any kind of information
+  b) should answer a question
+  c) Have to abandon your ship
+  d) Have to follow an order
+
+40. The IMO Standard Marine Communication Phrases have been compiled with
+    few objetives, one of witch is:
+
+  a) Keeping a good watch
+  b) Keeping a closer watch
+  c) to assist in the greater safety of navigation and of the conduct of ship
+  d) Maintaining free of dangers
+
+
+
+
+                          9/10
+CAPITÁN DE YATE
+
+   TIPO 1
+
+
+
+    10/10
+

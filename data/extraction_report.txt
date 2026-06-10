@@ -1,0 +1,33 @@
+2018-03: 40 preguntas parseadas, numeros 1-40
+2018-06: 40 preguntas parseadas, numeros 1-40
+2018-11: 40 preguntas parseadas, numeros 1-40
+2019-03: 40 preguntas parseadas, numeros 1-40
+2019-06: 39 preguntas parseadas, numeros 1-40
+2019-11: 40 preguntas parseadas, numeros 1-40
+2020-07: 40 preguntas parseadas, numeros 1-40
+2021-04: 39 preguntas parseadas, numeros 1-40
+2021-06: 38 preguntas parseadas, numeros 1-40
+2021-11: 40 preguntas parseadas, numeros 1-40
+2022-04: 39 preguntas parseadas, numeros 1-40
+2022-06: 39 preguntas parseadas, numeros 1-40
+2022-11: 40 preguntas parseadas, numeros 1-40
+2023-03: 39 preguntas parseadas, numeros 1-40
+2023-06: 40 preguntas parseadas, numeros 1-40
+2023-11: 40 preguntas parseadas, numeros 1-40
+2024-03: 40 preguntas parseadas, numeros 1-40
+2024-06: 40 preguntas parseadas, numeros 1-40
+2024-11: 39 preguntas parseadas, numeros 1-40
+2025-03: 40 preguntas parseadas, numeros 1-40
+2025-06: 40 preguntas parseadas, numeros 1-40
+2025-11: 40 preguntas parseadas, numeros 1-40
+2026-03: 40 preguntas parseadas, numeros 1-40
+
+=== INCIDENCIAS ===
+2018-06 q5: letras ['a', 'b', 'a', 'c']
+2019-06: faltan numeros [20]
+2021-04: faltan numeros [20]
+2021-06: faltan numeros [14, 20]
+2022-04: faltan numeros [20]
+2022-06: faltan numeros [20]
+2023-03: faltan numeros [20]
+2024-11: faltan numeros [18]

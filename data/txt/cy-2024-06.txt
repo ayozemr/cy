@@ -1,0 +1,448 @@
+           Región de Murcia
+           Consejería de Fomento e Infraestructuras
+           Dirección General de Litoral y Puertos                              http://nautica.carm.es
+           Plaza Santoña, 6, 30071 Murcia
+
+
+
+ JUNIO-2024                    CAPITÁN DE YATE                                               Tipo 1
+ - El examen de CAPITÁN DE YATE consta de 40 preguntas tipo test de formulación
+ independiente entre sí, con cuatro respuestas alternativas siendo únicamente una
+ válida. Contestar todas las preguntas, ya que no hay penalización para las erróneas.
+
+ - Se corregirá con un doble criterio: 1º) globalmente y 2º) por módulos
+
+                                                                                         Condiciones APTO
+         Módulos                                Nº preguntas    Condiciones APTO
+                              Materias                                                    (Corrección por
+        Temáticos                                  examen       (Corrección global)
+                                                                                            módulos* )
+                              Teoría            10 preguntas:
+         Módulo de                                                   5 correctas            5 correctas
+                            navegación              1 - 10
+        navegación
+        (1 hora y 30        Cálculo de          10 preguntas:
+          minutos)                                                   6 correctas            6 correctas
+                            navegación             11 - 20
+
+                                                10 preguntas:
+        Módulo de          Meteorología                                                     5 correctas
+                                                   21 - 30
+         genérico
+
+          (1 hora)                              10 preguntas:
+                               Inglés                                                       5 correctas
+                                                   31 - 40
+
+
+              Total examen                      40 preguntas    28 correctas del total
+
+
+ - Tiempo de realización del examen:
+        2 horas y 30 minutos para los dos Módulos temáticos (40 preguntas)
+        1 hora y 30 minutos para el Módulo de navegación (20 preguntas)
+        1 hora para el Módulo genérico (20 preguntas)
+
+
+                           MÓDULO DE NAVEGACIÓN
+ Unidad teórica 1 : TEORÍA DE NAVEGACIÓN (preguntas de la nº 1 a la nº 10)
+
+1. El ángulo en el polo es uno de los ángulos del triángulo de posición y se forma:
+     a) En el polo depreso del observador entre el horario en Greenwich de Aries y el
+        círculo horario del observador.
+     b) Sobre el polo elevado del observador entre el círculo horario del astro y el
+        meridiano del observador.
+     c) Cuando queda formado, puede ser Este u Oeste.
+     d) Las respuestas b) y c) son correctas.
+
+ 2. ¿Qué es el Nadir?:
+     a) El punto de situación del observador sobre la esfera celeste.
+     b) El punto de situación del astro sobre la esfera celeste visible por el observador.
+     c) El punto diametralmente opuesto al zenit del observador en la esfera celeste.
+     d) El punto del horizonte aparente del observador por donde se ve al astro.
+
+ 1/9
+3. Se entienden por almicantarat:
+    a) Los círculos menores paralelos al ecuador celeste.
+    b) Los círculos menores paralelos al horizonte aparente del observador en la
+       esfera celeste.
+    c) Los arcos de círculos horarios de los astros en la esfera celeste.
+    d) Los arcos del ecuador celeste contados desde el meridiano de Greenwich hasta
+       el círculo horario del astro.
+
+4. Se define como paralelo de declinación de un astro:
+    a) El círculo menor de la esfera celeste, perpendicular a los semicírculos horarios
+       de los astros.
+    b) El círculo máximo de la esfera celeste que se cuenta de polo a polo.
+    c) El círculo máximo de la esfera celeste que es perpendicular al ecuador y pasa
+       por el astro.
+    d) El círculo menor de la esfera celeste donde se cuenta el azimut del observador.
+
+5. Las coordenadas celestes cuyos elementos son el ángulo sidéreo y la
+    declinación, son:
+   a) Geográficas azimutales.
+   b) Horizontales.
+   c) Horarias.
+   d) Uranográficas.
+
+6. Las cartas de navegación mensuales de los espacios oceánicos con
+  abundante información y datos de ayuda a la navegación y preparación de la
+  derrota, son:
+   a) Routing Chart.
+   b) Ocean Chart.
+   c) Wind Chart.
+   d) Course Chart.
+
+7. En los husos horarios, la máxima diferencia en tiempo que podemos tener
+   entre la hora del huso (Hz) y la hora civil del lugar (Hcl) es de:
+    a) 7,5 minutos.
+    b) 30 minutos.
+    c) 60 minutos.
+    d) 15 minutos.
+
+8. ¿Por cuál de las siguientes constelaciones pasa el ecuador celeste quedando
+   media constelación en el hemisferio Norte y la otra mitad en el hemisferio
+   Sur?:
+    a) Osa o Carro Mayor.
+    b) Casiopea.
+    c) La Cruz del Sur.
+    d) Orión.
+
+
+
+                                                                                    2/9
+9. ¿A qué constelación pertenece la estrella Rigel?:
+    a) Orión.
+    b) Casiopea.
+    c) Cruz del Sur.
+    d) Osa o Carro Menor.
+
+10. Las estrellas Merak y Dubbe cuando se prolongan en línea recta alineadas 5
+  veces su distancia visual, nos señalan la posición de la estrella polar, ¿a qué
+  constelación pertenecen?:
+   a) Casiopea.
+   b) Carro u Osa Menor.
+   c) Carro u Osa Mayor.
+   d) Orión.
+
+
+Unidad teórica 2 : CÁLCULO DE NAVEGACIÓN (preguntas de la nº 11 a la nº 20)
+
+La goleta “KILAUEA” de la matrícula de Honolulú (Hawái), amarrada en la Marina
+de Kona-Kai de San Diego en California, prepara el viaje de regreso a Honolulú
+aprovechando los vientos portantes del Nordeste del Pacífico Norte que señala
+la carta Ruting – Chart del mes de junio desde las costas de América del Norte al
+Pacifico central.
+
+                          JUEVES, 13 DE JUNIO DE 2024
+
+El capitán del Kilauea estudia la derrota ortodrómica y calcula con formulación
+independiente:
+
+11. La distancia ortodrómica desde el punto de salida -A- 32º 45,8´N – 117º
+  38,2´W (San Diego) y el punto de llegada -B- 21º 09,3´N – 157º 38,2´W
+  (Honolulú):
+
+   a) 2100,5 millas náuticas.
+   b) 2234,5 millas náuticas.
+   c) 2386,6 millas náuticas.
+   d) 2410,2 millas náuticas.
+
+12. El rumbo inicial ortodrómico en su valor circular:
+
+   a) 262, 3º
+   b) 256, 4º
+   c) 264, 8º
+   d) 248, 9º
+
+
+
+
+                                                                              3/9
+                        VIERNES, 14 DE JUNIO DE 2024
+
+13. A hora oficial de California= 04:00 con H+2 de adelanto vigente, en situación
+  estimada= 32º 40,2´N – 119º 26,5´W, calculan la hora civil en Greenwich:
+
+   a) 06:00
+   b) 08:00
+   c) 02:00
+   d) 10:00
+
+14. A hora civil de Greenwich 10:30 se encuentran en una zona de calma,
+    parados y sin arrancada, siendo su meridiano de situación= 119º 50,0´W, y
+    tras calcular el horario en Greenwich del Sol (hGO) de ese instante= 337º
+    24,1´, calculan el intervalo de tiempo que tardará el Sol en alcanzar dicho
+    meridiano fijo de encalmada:
+
+   a) 09:29:43 h.
+   b) 07:59:20 h.
+   c) 22:29:36 h.
+   d) 09:40:50 h.
+
+A 11:00 hora civil de Greenwich y tras restablecerse el viento, se encuentran en
+situación estimada= 32º 37,6´N – 120º 10,2´W y con formulación independiente y
+utilizando las páginas del Almanaque Náutico de la Fecha (14/06/2024) y el
+cartoncillo anexo del Almanaque para estrellas de 2024, calculan:
+
+15. El horario en Greenwich de Aries (hGY):
+
+   a) 38º 09,2´
+   b) 53º 11,7´
+   c) 68º 14,1´
+   d) 83º 16,6´
+
+16. Con horario en Greenwich de Aries = 68º 14´06´´, calculan el horario en
+    Greenwich de la estrella Vega (principal de la constelación de la Lyra):
+
+   a) 148º 10,1´
+   b) 148º 47,2´
+   c) 149º 42,2´
+   d) 149º 10,1´
+
+17. Habiéndose calculado previamente el horario en Greenwich (hG* Vega)=
+    148º47´12´´ y la situación estimada de la goleta= 32º37´36´´N – 120º10´12´´W,
+    calculan el valor del ángulo en el polo ( P ) que se forma:
+
+   a) 30º 27,0´E
+   b) 30º 27,0´W
+   c) 28º 37,0´E
+   d) 28º 37,0´W
+                                                                              4/9
+                         SÁBADO, 15 DE JUNIO DE 2024
+
+
+18. A hora civil de Greenwich= 10:00 se encuentran en situación estimada= 31º
+    33,2´N – 121º 38,2´W y toman altura instrumental a la estrella Vega= 76º
+    50´22´´ con corrección de índice del sextante= +4´ y elevación del observador
+    de 3 metros y con la hoja del Almanaque Náutico del año en vigor
+    correspondiente a las correcciones para obtener la altura verdadera de Sol y
+    Estrellas, calculan la altura verdadera de Vega:
+
+   a) 76º 50´58´´
+   b) 76º 40´42´´
+   c) 76º 30´33´´
+   d) 76º 20´26´´
+
+
+19. A la misma hora civil en Greenwich anterior (10:00) y la misma situación de
+    estima (31º 32,2´N – 121º 38,2´W) y tras obtener la declinación de Vega
+    (cartoncillo anexo del Almanaque para estrellas de 2024) y habiendo
+    calculado el valor del ángulo en el polo ( P ) formado= 13º 05´46´´W,
+     utilizando la fórmula del triángulo de posición que resuelve las alturas
+    estimadas de los astros, calculan la altura estimada de Vega en ese instante:
+
+   a) 77º 20´38´´
+   b) 77º 04´57´´
+   c) 77º 36´12´´
+   d) 77º 41´05´´
+
+
+                         DOMINGO 16 DE JUNIO DE 2024
+
+Con viento bonancible por la aleta de estribor, cielos despejados y marejada
+moderada del NE, navegan por la derrota ortodrómica hacia Hawái.
+
+
+20. A hora civil de Greenwich= 10:05 se encuentran en situación estimada= 30º
+    10,0´N – 122º 56,0´W y de forma simultánea obtienen tras la observación, los
+    valores determinantes de las rectas de altura de las estrellas:
+    Rosalhague (principal de la constelación de Ophidea) = Zv 263º / diferencia
+      alturas +4´
+    Antares (principal de la constelación de Scorpio) = Zv= 214º / diferencia
+      alturas +5´
+
+Y rectifican la situación estimada por el sistema gráfico de las rectas de altura:
+
+   a) 30º 15´00´´ N – 122º 59´30´´ W
+   b) 30º 01´10´´ N – 122º 50´00´´ W
+   c) 30º 06´27´´ N – 123º 00´03´´ W
+   d) 30º 11´30´´ N – 123º 30´02´´ W
+
+                                                                                 5/9
+                    MÓDULO GENÉRICO
+Unidad teórica 3 : METEOROLOGÍA (preguntas de la nº 21 a la nº 30)
+
+21. En el Atlántico Norte, los vientos alisios soplan:
+
+   a) En la zona subtropical y tropical de los hemisferios Norte y Sur, desde el Este,
+      Hacia el Oeste.
+   b) En la zona subtropical y tropical, en el hemisferio Norte desde el Este al Oeste y
+      en el hemisferio Sur desde el Oeste al Este.
+   c) En la zona subtropical y tropical de ambos hemisferios, siempre desde el Oeste,
+      hacia el Este.
+   d) En la zona subtropical y tropical de Norte a Sur en el hemisferio Norte y de Sur
+      a Norte en el hemisferio Sur.
+
+22. Los vientos Oestes dominantes que soplan en el área del Atlántico Norte
+  llevan dirección:
+
+   a) Hacia el Oeste.
+   b) Hacia el Este.
+   c) Hacia el Sur.
+   d) Hacia el Norte.
+
+23. La corriente marina del Labrador (Atlántico Norte) que circula de Norte a Sur,
+  lo hace:
+
+   a) Entre la costa atlántica europea e Islandia y es fría.
+   b) Entre la Costa Oeste de Islandia y la costa oriental de Groenlandia y es fría.
+   c) Entre la costa Nororiental de Canadá y la costa occidental de Groenlandia y es
+      muy fría.
+   d) En el canal que se produce entre Irlanda y Gran Bretaña y es muy fría.
+
+24. En el Atlántico Sur, desde el Cabo de Buena Esperanza (Sudáfrica) y la costa
+  de Namibia, circula la corriente:
+
+   a) De Mindelo y es fría.
+   b) De Namibia y es muy fría.
+   c) De Benguela y es muy fría.
+   d) De Mandela y es fría.
+
+25. En el vórtice de un huracán o ciclón, el estado de la mar será:
+   a) De montañosa a confusa y enorme.
+   b) Gruesa y corta.
+   c) Muy gruesa y tendida.
+   d) Marejada a fuerte marejada.
+
+                                                                                     6/9
+26. Navegando por Atlántico Norte, nos atrapa un huracán por su semicírculo
+  manejable, los vientos tenderán a:
+
+   a) Llevarnos hacia el vórtice.
+   b) Arrastrarnos hacia la zona periférica de semicírculo peligros.
+   c) Llevarnos hacia la parte delantera del huracán.
+   d) Alejarnos del vórtice.
+
+27. Dentro de un fenómeno tormentoso, cuando se produce un rayo es porque:
+
+   a) Las nubes son del tipo estratocúmulos.
+   b) Las nubes son del tipo altocúmulos.
+   c) Las nubes son del tipo cumulonimbos.
+   d) Las nubes son del tipo nimbostratos.
+
+28. El fenómeno óptico de halo o corona, se produce:
+
+   a) Cuando se está dentro de un frente frio.
+   b) Cuando se está dentro de un frente cálido.
+   c) Cuando se está dentro de un frente estacionario.
+   d) Cuando se está dentro de un frente muy frio.
+
+29. Cuando los hielos de origen marinos quedan formados, a la placa superficial
+  que forman se les llama:
+
+   a) Iceberg o iceplatform.
+   b) Berg o iceplain.
+   c) Icepack o banquisa.
+   d) Packberg.
+
+30. Las trombas marinas y los tornados se forman:
+
+   a) Las trombas en tierra y se desplazan hacia el mar.
+   b) Los tornados, igual que las trombas, hacia el mar, pero de mayor intensidad y
+      fuerza.
+   c) Son fenómenos similares, pero las trombas se forman en el Mar y los tornados
+      en tierra.
+   d) Las respuestas a) y b) son correctas.
+
+
+
+
+                                                                                 7/9
+Unidad teórica 4 : INGLÉS (preguntas de la nº 31 a la nº 40)
+
+Indique la traducción correcta de las siguientes frases:
+
+31. "Standing by on VHF Channel 12”
+
+   a) Cambiando a canal 12
+   b) Permaneciendo en canal 12
+   c) Aconsejo cambie a canal 12
+   d) Aceptado canal 12
+
+
+32. “Hoist” is the cable used by helicopters for lifting or lowering persons in a
+  pick-up operation
+
+   a) “Hoist” es la maniobra de izar desde el helicóptero personas en operación de
+      recogida.
+   b) “Hoist” es el cable que usa el helicóptero para subir personas en operación de
+      recogida.
+   c) “Hoist” es el cable que usa el helicóptero para bajar un rescatador en operación
+      de recogida.
+   d) “Hoist” es el cable usado por los helicópteros para subir o bajar personas en
+      operación de recogida.
+
+33. What maximum winds are expected in the storm area?
+
+   a) ¿Cuáles son las olas máximas en la zona de tormenta?
+   b) ¿Qué vientos máximos se esperan en el área de tormenta?
+   c) ¿Cuáles son las máximas tormentas que se esperan?
+   d) ¿Qué máximas tormentas se esperan en el área?
+
+
+34. You are approaching the North limit of the fairway
+
+   a) Usted debe aproximarse al límite Norte del canal.
+   b) Usted se aproxima al Norte del canal limitado.
+   c) Usted se aproxima al límite Norte del canal.
+   d) Usted se está aproximando al canal Norte.
+
+
+35. Is visibility expected to change in my position?
+
+   a) ¿Se espera que cambie la visibilidad en mi posición?
+   b) ¿Cuándo se espera que cambie la visibilidad en mi posición?
+   c) ¿Cuál es la posición para que cambie la visibilidad?
+   d) ¿Se espera un cambio de posición y visibilidad?
+
+
+
+                                                                                   8/9
+36. Wind is expected to increase in position .X.. to force 5
+
+   a) Se espera aumento de la mar a fuerza 5 en posición X
+   b) Se espera aumento de mal tiempo en posición X a fuerza 5
+   c) Se espera que el viento aumente a fuerza 5 en posición X
+   d) Se espera que el viento decaiga a fuerza 5 en posición X
+
+
+37. Take your emergency equipment with you and go to the muster station
+
+   a) El equipo de emergencia debe llevarse al puente.
+   b) La emergencia es combatida por un equipo en el punto de reunión.
+   c) Coja su equipo de emergencia y vaya al punto de reunión.
+   d) Deje su equipo de emergencia y vaya al puente.
+
+
+38. Vessel Traffic Services are services designed to improve the safety and
+  efficiency of vessel traffic and to protect the environment
+
+   a) Los servicios de tráfico son servicios diseñados para aumentar la seguridad y
+      eficiencia del tráfico marítimo y proteger el medio.
+   b) El tráfico de servicio de buques están diseñados para la seguridad de los
+      barcos.
+   c) El servicio de tráfico marítimo es para la seguridad del medio.
+   d) El servicio de tráfico marítimo es para la eficacia del medio.
+
+
+39. Can you proceed without assistance?
+
+   a) La asistencia procede hacia Vd.
+   b) ¿Puede proceder con asistencia?
+   c) ¿Puede proceder sin asistencia?
+   d) No necesito asistencia.
+
+
+40. Use of the IMO SMCP should be made as often as possible
+
+   a) Use IMO SMCP siempre
+   b) Use IMO SMCP si es posible
+   c) El uso de IMO SMCP es obligatorio
+   d) El uso de IMO SMCP debería hacerse tan a menudo como sea posible
+
+
+
+                        CY . TIPO 1
+                                                                                9/9
+

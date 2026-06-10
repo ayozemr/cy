@@ -1,0 +1,374 @@
+       Región de Murcia
+       Consejería de Fomento e Infraestructuras
+       Dirección General de Litoral y Puertos                               http://nautica.carm.es
+       Plaza Santoña, 6, 30071 Murcia
+
+
+
+NOVIEMBRE-2025                  CAPITÁN DE YATE                                            Tipo 1
+- El examen de CAPITÁN DE YATE consta de 40 preguntas tipo test de formulación
+independiente entre sí, con cuatro respuestas alternativas siendo únicamente una
+válida. Contestar todas las preguntas, ya que no hay penalización para las erróneas.
+
+- Se corregirá con un doble criterio: 1º) globalmente y 2º) por módulos
+
+                                                                                      Condiciones APTO
+      Módulos                                Nº preguntas    Condiciones APTO
+                          Materias                                                     (Corrección por
+     Temáticos                                  examen       (Corrección global)
+                                                                                         módulos* )
+                           Teoría            10 preguntas:
+     Módulo de                                                    5 correctas            5 correctas
+                         navegación              1 - 10
+    navegación
+    (1 hora y 30         Cálculo de          10 preguntas:
+      minutos)                                                    6 correctas            6 correctas
+                         navegación             11 - 20
+
+                                             10 preguntas:
+     Módulo de          Meteorología                                                     5 correctas
+                                                21 - 30
+      genérico
+
+      (1 hora)                               10 preguntas:
+                            Inglés                                                       5 correctas
+                                                31 - 40
+
+
+          Total examen                       40 preguntas    28 correctas del total
+
+
+- Tiempo de realización del examen:
+    2 horas y 30 minutos para los dos Módulos temáticos (40 preguntas)
+    1 hora y 30 minutos para el Módulo de navegación (20 preguntas)
+    1 hora para el Módulo genérico (20 preguntas)
+
+
+                       MÓDULO DE NAVEGACIÓN
+Unidad teórica 1 : TEORÍA DE NAVEGACIÓN (preguntas de la nº 1 a la nº 10)
+
+1. El Almanaque Náutico es una publicación que realiza:
+   a) El Instituto Hidrográfico de la Marina en Cádiz.
+   b) El Real Instituto de Navegación de Madrid.
+   c) El Real Instituto y Observatorio de la Armada en San Fernando (Cádiz).
+   d) El Instituto de Ciencias Náuticas de Madrid.
+
+2. ¿Qué es la Hora civil del lugar?
+   a) Tiempo civil transcurrido desde que el sol medio pasó por el meridiano inferior del
+      lugar.
+   b) Tiempo civil transcurrido desde que el sol medio pasó por el meridiano superior
+      del lugar.
+   c) Tiempo transcurrido entre dos pasos consecutivos del sol medio por el meridiano
+      inferior del lugar.
+   d) Ninguna respuesta es correcta.
+3. La eclíptica se encuentra inclinada respecto al ecuador celeste:
+   a) 23º 27'
+   b) 27º 23'
+   c) 22° 31'
+   d) 37º 22'
+4. El arco de Ecuador contado desde Aries hasta el círculo horario del astro, de
+    000° a 360º hacia el Oeste, se denomina:
+   a) Ascensión Recta.
+   b) Azimut.
+   c) Ángulo sidéreo.
+   d) Amplitud.
+
+5. Las cartas de navegación mensuales de los espacios oceánicos con
+   abundante información y datos de ayuda a la navegación y preparación de la
+   derrota, son:
+  a) Routing Chart.
+  b) Ocean Chart.
+  c) Wind Chart.
+  d) Course Chart.
+
+6. Antes de observar con el sextante, tendremos en cuenta:
+   a) El error de índice y la altura del observador.
+   b) Las circunstancias favorables de nitidez del horizonte, y altura adecuada del astro
+      sobre el mismo.
+   c) El viento reinante antes de la observación.
+   d) Las respuestas a) y b) son correctas.
+
+7. Las coordenadas horarias de un astro son:
+   a) Declinación y Horario del astro.
+   b) Declinación y Ángulo Sidéreo.
+   c) Declinación y Azimut.
+   d) Altura y Azimut.
+
+8. El meridiano cero es…
+   a) Un círculo máximo cuyo plano es perpendicular al eje polar.
+   b) Un círculo máximo que pasa por los Polos.
+   c) Un círculo menor paralelo al Ecuador.
+   d) Un círculo máximo paralelo al Ecuador
+
+9. Los puntos de la Eclíptica del Sol cuya declinación es igual a cero son:
+   a) Cáncer y Capricornio.
+   b) Aries y Libra.
+   c) Aries y Cáncer.
+   d) Aries y Júpiter
+
+10. Las coordenadas uranográficas ecuatoriales son:
+  a) Independientes de la posición que ocupe el observador.
+  b) Angulo sidéreo y eclíptica.
+  c) Declinación y azimut.
+  d) Declinación y altura.
+                                                                                      2/8
+Unidad teórica 2 : CÁLCULO DE NAVEGACIÓN (preguntas de la nº 11 a la nº 20)
+
+
+11. Siendo el día 22 de noviembre de 2025 a UT: 11:10:00 calcular la altura de
+    estima del sol en la posición l: 35º 42`N L: 024º 40´E,
+
+   a) 32º 72,1`
+   b) 69º 19,9`
+   c) 32º 08,4`
+   d) 75º 23,5`
+
+12. Calcular el azimut verdadero del sol (Zvʘ) en posición l: 35º 42`N
+    L: 024º 40`E a UT=11:10:00 el día 22 de noviembre de 2025
+
+   a) Zv=162,6º
+   b) Zv=197,4º
+   c) Zv=243,4º
+   d) Zv=342,6º
+
+13. Calcular la altura verdadera del sol (Avʘ) el día 22 de noviembre de 2025
+    sabiendo que se obtuvo mediante lectura del sextante altura instrumental del
+    sol (limbo inferior) Aiʘ: 28° 10´. Datos: Elevación del observador Eobs: 8
+    mts, Error de índice: Ei 0`.
+
+   a) 28º 29,5´
+   b) 28º 12,4´
+   c) 28º 19,5´
+   d) 27º 55,7´
+
+14. Hallar la declinación (D) y el horario en el lugar (hl*) de la estrella Dubhe (nº
+    54 del cuadernillo adjunto) el día 22 de noviembre de 2025 a UT=04:00 en
+    posición l: 35º 42`N L: 024º 40´E.
+
+   a) hl*: 121º 24`     D: 61º 36,4`S
+   b) hl*: 146º 04`     D: 61º 36,4`N
+   c) hl*: 235º 40´     D: 54º 33`N
+   d) hl*: 339º 44,4`   D: 61º 36,4`N
+
+
+15. Un buque que navega a rumbo de aguja Ra= 150° en latitud: 25° N, toma en el
+    momento del ocaso del sol, Azimut de aguja Zaʘ= 263°, siendo su
+    declinación D= 15° 47’ S. Se pide calcular la corrección total (CT):
+
+   a) CT= -16,5°
+   b) CT= -12,5°
+   c) CT= -14,5°
+   d) CT= -10,5°
+
+
+                                                                                  3/8
+16. Un buque en situación L = 18º 30º W observó cara al Sur altura verdadera
+    meridiana del Sol = 32º 15,2’, siendo la declinación del sol: 18º 14,9 `S.
+    Hallar la latitud observada.
+
+   a) 39º 29,9`S
+   b) 75º 59,7`S
+   c) 39º 29,9`N
+   d) 50º 30,6`S
+
+
+17. Determinar la latitud a partir de la observación de la Polar en un lugar de
+    longitud L: 024º 40`E, el día 22 de noviembre de 2025 a UT: 04:00:00, siendo
+    la altura verdadera de la estrella polar Av: 35º 35,8`y el horario en Greenwich
+    de Aries HGγ: 121º 24`.
+
+   a) 35º 10,5`
+   b) 35º 41,9`
+   c) 34º 50,2`
+   d) 35º 29,7`
+
+
+18. Calcular la distancia ortodrómica entre un punto A de coordenadas l: 34º38`N
+    L: 139º 51`E y otro punto B de coordenadas l: 37º 47`N L: 122º 38`W
+
+   a) 1934,8´
+   b) 4349,5´
+   c) 4484,6´
+   d) 3859,5´
+
+
+19. Calcular el rumbo inicial ortodrómico (Ri) para navegar de la forma más
+   efectiva desde el punto A de salida (latitud: 32º 39 ´ N Longitud: 117º 17´ W)
+   hasta el punto B de llegada (latitud: 34º 36`N L:139º 58` E).
+
+   a) Ri= 305,6º
+   b) Ri= 324,6º
+   c) Ri= 125,4º
+   d) Ri= 215,4º
+
+
+20. Se pide calcular la situación observada por dos rectas de altura simultaneas
+    en posición de estima: le=:27º 00,0´N; Le:016°31,9´W, sabiendo que se han
+    observado los siguientes determinantes: Atria (Azimut verdadero: 005º y
+    Diferencia de altura: - 3,5) y Formalhaut (Azimut verdadero: 120º y Diferencia
+    de altura: +2,5).
+
+   a) l: 26º 56,4’N L: 016º 31,0’W
+   b) l: 26º 58,4’S L: 016º 34,0’E
+   c) l: 27º 03,6’N L. 016º 32,8’W
+   d) l: 27º 03,6’S L: 016º 32,8’E
+                                                                                4/8
+                    MÓDULO GENÉRICO
+Unidad teórica 3 : METEOROLOGÍA (preguntas de la nº 21 a la nº 30)
+
+21. Las fuertes descargas eléctricas que se producen en la atmósfera dentro de
+    las nubes o entre una nube y la superficie terrestre se las conoce por:
+   a) Relámpagos.
+   b) Truenos.
+   c) Rayos.
+   d) Fuego de San Telmo.
+
+22. ¿Cuál de las siguientes afirmaciones es CORRECTA?
+    a) La tropopausa es el estrato que hace de unión entre la troposfera y la
+        mesosfera y en ella circula el jet stream o corriente en chorro.
+    b) La tropopausa es el estrato que hace de unión entre la troposfera y la
+        estratosfera.
+    c) La mesosfera es el estrato que hace de unión entre la ionosfera y la exosfera.
+    d) La altura de la troposfera es de aproximadamente 100 km y su frontera con la
+        capa superior se denomina tropopausa.
+
+
+23. Las isóbaras en un ciclón o huracán, se presentan:
+
+   a) Alargadas y de gran extensión.
+   b) Concéntricas, muy juntas y formando círculo casi perfecto.
+   c) Muy abiertas en extensión y muy juntas.
+   d) En los ciclones o huracanes no hay isobaras porque todo el aire es cálido.
+
+24. ¿En qué capa de la atmósfera se produce la reflexión de las ondas hertzianas
+    que se emplean para las radiocomunicaciones?
+    a) Troposfera.
+    b) Astenosfera.
+    c) Ionosfera.
+    d) Capa E1 de la Magnetosfera.
+
+
+25. La Corriente Ecuatorial del Norte:
+   a) Se origina a la altura de las Islas de Cabo Verde.
+   b) Pasa entre la isla de Madagascar y el continente africano.
+   c) Tiene dirección predominante Este.
+   d) No existe ninguna corriente con este nombre.
+
+26. El número de grados de clasificación de la intensidad de un ciclón o huracán,
+    según la escala internacional Safir-Simpson es del:
+
+   a)   1 al 5
+   b)   1 al 7
+   c)   1 al 9
+   d)   1 al 11
+
+                                                                                   5/8
+27. La aceleración de Coriolis hace que un viento que sopla del sur:
+    a) Se desvíe a la derecha en el hemisferio norte.
+    b) Se desvíe a la derecha en el hemisferio sur.
+    c) Se desvíe a la izquierda en el hemisferio norte.
+    d) La aceleración de Coriolis no tiene efecto sobre un viento que sopla del sur.
+
+28. ¿ Cuál de las siguientes afirmaciones sobre las auroras polares es
+    CORRECTA?
+   a) Son fenómenos ópticos que aparecen por la refracción de los rayos solares,
+      cuando estos atraviesan capas de la atmósfera con distinta temperatura.
+   b) Son fenómenos ópticos, que se produce principalmente en la astenosfera.
+   c) Son auroras boreales cuando ocurren en el Hemisferio Sur y australes cuando
+      lo hacen en el Hemisferio Norte.
+   d) Son fenómenos ópticos que ocurren principalmente en latitudes altas.
+
+29. El aire que constituye la atmósfera terrestre, está compuesto por gases de
+    diversas clases ¿Cuál de ellos es el que ocupa más proporción en la
+    atmósfera?
+   a) Oxigeno.
+   b) Nitrógeno.
+   c) Argón.
+   d) Anhídrido carbónico.
+
+30. La corriente de Benguela:
+    a) Es una corriente del Atlántico Norte de dirección sur.
+    b) Es una corriente que se dirige al Norte paralela a la costa oeste del África
+       austral.
+    c) Es una corriente que se dirige al Norte paralela a la costa este de Sudamérica.
+    d) Es una corriente que se dirige al Sur paralela a la costa oeste del África austral.
+
+
+Unidad teórica 4 : INGLÉS (preguntas de la nº 31 a la nº 40)
+
+31. La traducción de “windward” es:
+   a) Línea de flotación.
+   b) Catavientos.
+   c) Barlovento.
+   d) Sotavento.
+
+32. La traducción de “Hampered vessel” es:
+   a) Buque a la deriva.
+   b) Buque sin gobierno.
+   c) Buque con capacidad de maniobra restringida.
+   d) Buque restringido por su calado.
+
+33. La expresión “Disabled and adrift” significa:
+   a) Capear el temporal.
+   b) Tengo fuego en cubierta.
+   c) Correr el temporal.
+   d) Sin gobierno y a la deriva.
+                                                                                       6/8
+34. What is your draught ahead? Significa:
+   a) ¿Cuál es su francobordo?
+   b) ¿Cuál es su calado a proa?
+   c) ¿Cuál es el calado medio?
+   d) ¿Cuál es el calado a popa?
+
+35. “Hard-a-port”significa:
+    a) Todo a babor.
+    b) Duro hacia puerto.
+    c) Todo a estribor.
+    d) Diríjase hacia puerto.
+
+36. Traduzca al castellano la expresión “on the starboard bow”:
+   a) Por la amura de estribor.
+   b) Por la aleta de estribor.
+   c) Por la amura de babor.
+   d) Por la aleta de babor.
+
+37. Traduzca al castellano la expresión “Are you ready to get underway?”:
+   a) ¿Están listos para fondear?
+   b) ¿Están listos para abarloarse?
+   c) ¿Están listos para atracar?
+   d) ¿Están listos para zarpar?
+
+38. "Man overboard" se traduce cómo:
+   a) Persona desaparecida en cubierta.
+   b) Hombre al agua.
+   c) Hombre en cubierta.
+   d) Persona en peligro en cubierta.
+
+39.      En una llamada de emergencia, la frase "We are on fire and require
+       immediate assistance" implica que:
+      a) El buque está solicitando permiso para cambiar de rumbo.
+      b) El buque está sin gobierno debido a un fallo en los motores.
+      c) El buque necesita un informe meteorológico urgente.
+      d) Hay un incendio a bordo y se necesita ayuda inmediata.
+
+40. Elija la traducción correcta: “A vessel engaged in fishing shall not impede
+    the passage of any other vessel navigating within a narrow channel or
+    fairway”.
+
+      a) Los buques dedicados a la pesca no impedirán el paso de ningún crucero que
+         navegue dentro de un paso o canal angosto.
+      b) Los buques dedicados a la pesca no estorbarán el tránsito de ningún otro buque
+         que navegue paralelo a un paso o canal angosto.
+      c) Los buques dedicados a la pesca no estorbarán el tránsito de ningún otro buque
+         que navegue dentro de un paso o canal angosto.
+      d) Los buques pesqueros no estorbarán el tránsito a los cruceros que naveguen
+         dentro de un paso o canal angosto.
+                                                                                    7/8
+CAPITAN YATE
+ - Tipo 1 -
+
+
+
+
+              8/8
+
