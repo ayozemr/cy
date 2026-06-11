@@ -1,6 +1,6 @@
 /* Service worker: precache de todos los recursos, estrategia cache-first.
    Incrementar CACHE_VERSION al publicar cambios para forzar actualizacion. */
-const CACHE_VERSION = 'cy-quiz-v1';
+const CACHE_VERSION = 'cy-quiz-v3';
 const ASSETS = [
   './',
   './index.html',
