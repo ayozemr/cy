@@ -1,4 +1,4 @@
-/* Test de teoría Capitán de Yate — lógica de la app */
+/* Test de teoría — lógica de la app */
 'use strict';
 
 const MODULE_NAMES = {

@@ -1,7 +1,7 @@
 {
-  "name": "Capitán de Yate · Test de teoría",
-  "short_name": "CY Test",
-  "description": "Tests de teoría del examen de Capitán de Yate (Murcia 2018–2026). Funciona sin conexión.",
+  "name": "Test de teoría",
+  "short_name": "Test",
+  "description": "App de tipo test para memorizar las preguntas de teoría del examen de 2018 a 2026. Funciona sin conexión (PWA instalable).",
   "lang": "es",
   "start_url": "./",
   "scope": "./",
